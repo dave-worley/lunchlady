@@ -4,6 +4,7 @@ import React, {
 } from 'react'
 import {
   Box,
+  Button,
   Container,
   Grid,
   Paper,
@@ -18,6 +19,12 @@ import {
 } from 'date-fns'
 
 const mealsData = {
+  "Friday, March 17, 2023": {
+    "Breakfast": "Overnight oats with almond milk, honey, and mixed nuts",
+    "Lunch": "Turkey and cheese wraps with lettuce, tomato, and avocado",
+    "Dinner": "Spaghetti carbonara (use turkey bacon or pancetta for a milder flavor), with a side salad for those who enjoy it",
+    "Snack Plate": "Rice crispy treats"
+  },
   "Saturday, March 18, 2023": {
     "Breakfast": "Banana and peanut butter smoothie with a scoop of protein powder",
     "Lunch": "Tuna salad sandwiches (egg salad or chicken salad for those who don't like seafood), with a side of baby carrots and hummus",
@@ -51,6 +58,11 @@ const MenuCard = ({ dateStr, meals }) => {
   const opacity = isPast ? 0.5 : 1;
   const fontWeight = today ? 'bold' : 'normal';
   const fontSize = today ? '1.2rem' : '1rem';
+  const [showSnack, setShowSnack] = useState(false);
+
+  const toggleSnack = () => {
+    setShowSnack(!showSnack);
+  };
 
   return (
     <Grid item xs={12} sm={6} md={4} lg={3}>
@@ -65,14 +77,29 @@ const MenuCard = ({ dateStr, meals }) => {
           border: today ? '3px solid #3f51b5' : 'none',
         }}
       >
-        <Typography variant="h5" fontWeight={fontWeight} fontSize={fontSize} marginBottom={12}>
+        <Typography variant="h5" fontWeight={fontWeight} fontSize={fontSize}>
           {format(date, 'EEEE')}
         </Typography>
-        {Object.entries(meals).map(([meal, description]) => (
-          <Typography key={meal} marginBottom={4}>
-            <strong>{meal}:</strong> {description}
-          </Typography>
-        ))}
+        {Object.entries(meals).map(([meal, description]) => {
+          if (meal === 'Snack Plate' && !showSnack) {
+            return null;
+          }
+          return (
+            <Typography key={meal} marginBottom={1}>
+              <strong>{meal}:</strong> {description}
+            </Typography>
+          );
+        })}
+        {meals['Snack Plate'] && (
+          <Button
+            variant="outlined"
+            size="small"
+            onClick={toggleSnack}
+            sx={{ marginTop: 1 }}
+          >
+            {showSnack ? 'Hide Snack Plate' : 'Show Snack Plate'}
+          </Button>
+        )}
       </Paper>
     </Grid>
   );
@@ -86,8 +113,11 @@ const App = () => {
   }, []);
 
   return (
-    <Container maxWidth="lg">
+    <Container maxWidth="xl">
       <Box sx={{ flexGrow: 1, marginTop: 4 }}>
+        <Box sx={{ display: 'flex', justifyContent: 'flex-start', marginBottom: 2 }}>
+          <img src="/logo512.png" alt="Menu Display App Logo" style={{ width: '100px', height: 'auto' }} />
+        </Box>
         <Grid container spacing={3}>
           {Object.entries(meals).map(([date, dayMeals]) => (
             <MenuCard key={date} dateStr={date} meals={dayMeals} />
