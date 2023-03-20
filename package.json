@@ -10,6 +10,8 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -20,7 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deprecate-menu": "node src/deprecateMenu.js"
+    "deprecate-menu": "node src/deprecateMenu.js",
+    "generate-menu": "node src/generateMenu.js"
   },
   "eslintConfig": {
     "extends": [

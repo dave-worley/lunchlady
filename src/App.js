@@ -81,7 +81,7 @@ const MenuCard = ({
                 key={meal}
                 marginBottom={1}
               >
-                <strong>{meal}:</strong> {description}
+                <strong>{meal}:</strong><br/>{description}
               </Typography>
             )
           })}
