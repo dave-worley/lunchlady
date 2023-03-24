@@ -17,7 +17,10 @@ import {
   parse,
   startOfDay,
 } from 'date-fns'
+import ShoppingList from './components/shoppingList'
 import mealsData from './menu.json'
+import shoppingListData from './shoppingList.json'
+
 
 const MenuCard = ({
   dateStr,
@@ -102,10 +105,12 @@ const MenuCard = ({
 
 const App = () => {
   const [meals, setMeals] = useState({})
+  const [shoppingList, setShoppingList] = useState({})
 
   useEffect(
     () => {
       setMeals(mealsData)
+      setShoppingList(shoppingListData)
     },
     [],
   )
@@ -147,6 +152,17 @@ const App = () => {
               />
             ))}
         </Grid>
+
+        <Typography
+          variant="h4"
+          sx={{
+            marginTop: 4,
+            marginBottom: 2,
+          }}
+        >
+          Shopping List
+        </Typography>
+        <ShoppingList list={shoppingList}/>
       </Box>
     </Container>
   )

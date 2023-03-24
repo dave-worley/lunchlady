@@ -1,0 +1,21 @@
+.item-enter {
+    opacity: 0;
+    transform: translateY(-20px);
+}
+
+.item-enter-active {
+    opacity: 1;
+    transform: translateY(0);
+    transition: all 300ms ease-in;
+}
+
+.item-exit {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.item-exit-active {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 300ms ease-in;
+}
