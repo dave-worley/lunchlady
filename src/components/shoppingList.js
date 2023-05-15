@@ -24,16 +24,16 @@ const ShoppingList = ({ list }) => {
           <Typography variant="subtitle1">{section}</Typography>
           <TransitionGroup component={null}>
             {items
-              .filter((item) => !checkedItems.includes(item.name))
+              .filter((item) => !checkedItems.includes(item))
               .map((item) => (
-                <CSSTransition key={item.name} timeout={300} classNames="item">
+                <CSSTransition key={item} timeout={300} classNames="item">
                   <Box>
                     <input
                       type="checkbox"
                       checked={false}
-                      onChange={() => toggleCheckedItem(item.name)}
+                      onChange={() => toggleCheckedItem(item)}
                     />
-                    <Typography component="span">{item.quantity} {item.name}</Typography>
+                    <Typography component="span">{item}</Typography>
                   </Box>
                 </CSSTransition>
               ))}
@@ -48,14 +48,14 @@ const ShoppingList = ({ list }) => {
           <Typography variant="subtitle1">{section}</Typography>
           <TransitionGroup component={null}>
             {items
-              .filter((item) => checkedItems.includes(item.name))
+              .filter((item) => checkedItems.includes(item))
               .map((item) => (
-                <CSSTransition key={item.name} timeout={300} classNames="item">
+                <CSSTransition key={item} timeout={300} classNames="item">
                   <Box>
                     <input
                       type="checkbox"
                       checked={true}
-                      onChange={() => toggleCheckedItem(item.name)}
+                      onChange={() => toggleCheckedItem(item)}
                     />
                     <Typography
                       component="span"
@@ -64,7 +64,7 @@ const ShoppingList = ({ list }) => {
                         color: 'text.secondary',
                       }}
                     >
-                      {item.quantity} {item.name}
+                      {item}
                     </Typography>
                   </Box>
                 </CSSTransition>

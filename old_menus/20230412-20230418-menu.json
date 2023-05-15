@@ -1,0 +1,44 @@
+{
+  "Wednesday, April 12, 2023": {
+    "Breakfast": "Avocado and Tomato Omelette",
+    "Lunch": "Greek Salad with Grilled Chicken",
+    "Dinner": "Seared Scallops with Creamy Risotto and Garlic Roasted Asparagus",
+    "Dessert": "Lemon Bars"
+  },
+  "Thursday, April 13, 2023": {
+    "Breakfast": "Peanut Butter and Banana Smoothie",
+    "Lunch": "Caprese Panini with Mixed Greens",
+    "Dinner": "Pork Tenderloin with Sweet Potato Mash and Steamed Green Beans",
+    "Dessert": "Chocolate Chip Cookies"
+  },
+  "Friday, April 14, 2023": {
+    "Breakfast": "Apple Cinnamon Oatmeal",
+    "Lunch": "Spinach and Feta Stuffed Pita with Tzatziki",
+    "Dinner": "Beef and Broccoli Stir-Fry with Jasmine Rice",
+    "Dessert": "Berry Sorbet"
+  },
+  "Saturday, April 15, 2023": {
+    "Breakfast": "Cottage Cheese with Sliced Peaches and Honey",
+    "Lunch": "Shaved Brussels Sprout Salad with Cranberries, Pecans, and Goat Cheese",
+    "Dinner": "Chicken Fajitas with Bell Peppers, Onions, and Guacamole",
+    "Dessert": "Mini Fruit Tarts"
+  },
+  "Sunday, April 16, 2023": {
+    "Breakfast": "Mango and Spinach Smoothie",
+    "Lunch": "Quinoa, Chickpea, and Avocado Salad",
+    "Dinner": "Beef Wellington with Garlic Mashed Potatoes and Sautéed Haricots Verts",
+    "Dessert": "Tiramisu"
+  },
+  "Monday, April 17, 2023": {
+    "Breakfast": "Overnight Oats with Almond Milk, Chia Seeds, and Mixed Nuts",
+    "Lunch": "Roasted Vegetable and Hummus Wrap",
+    "Dinner": "Spaghetti Carbonara with a Mixed Greens Salad",
+    "Dessert": "Pineapple Upside-Down Cake"
+  },
+  "Tuesday, April 18, 2023": {
+    "Breakfast": "Vegetable and Cheese Frittata",
+    "Lunch": "Grilled Veggie and Mozzarella Panini",
+    "Dinner": "Roasted Lemon Herb Chicken with Asparagus and Quinoa",
+    "Dessert": "Dark Chocolate and Raspberry Brownies"
+  }
+}

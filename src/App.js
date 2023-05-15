@@ -76,7 +76,7 @@ const MenuCard = ({
         </Typography>
         {Object.entries(meals)
           .map(([meal, description]) => {
-            if (meal === 'Snack Plate' && !showSnack) {
+            if (meal === 'Dessert' && !showSnack) {
               return null
             }
             return (
@@ -88,14 +88,14 @@ const MenuCard = ({
               </Typography>
             )
           })}
-        {meals['Snack Plate'] && (
+        {meals['Dessert'] && (
           <Button
             variant="outlined"
             size="small"
             onClick={toggleSnack}
             sx={{ marginTop: 1 }}
           >
-            {showSnack ? 'Hide Snack Plate' : 'Show Snack Plate'}
+            {showSnack ? 'Hide Dessert' : 'Show Dessert'}
           </Button>
         )}
       </Paper>
