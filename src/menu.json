@@ -1,36 +1,27 @@
 {
-  "Monday, June 5, 2023": {
-    "Lunch": "Turkey and Avocado Wraps: Sliced roast turkey and ripe avocado wrapped in whole grain tortillas, dressed with a light spread of Dijon mustard and mixed greens for a refreshing crunch.",
-    "Dinner": "Singapore Mei Fun: Traditional stir-fried rice vermicelli with vegetables, shrimp, pork, and chicken, seasoned with curry powder, soy sauce, and a touch of heat from chili sauce."
+  "Wednesday, June 14, 2023": {
+    "Breakfast": "Ham and Cheese Croissants: Freshly baked croissants filled with thinly sliced ham and melted Swiss cheese. A perfect balance of savory and buttery flavors to start the day.",
+    "Lunch": "Cobb Salad: A protein-packed salad with hard-boiled eggs, grilled chicken, avocado, blue cheese, bacon, and mixed greens.",
+    "Dinner": "Grilled Chicken Tacos with Avocado Salsa: Juicy grilled chicken served in soft tortillas and topped with a fresh avocado salsa."
   },
-  "Tuesday, June 6, 2023": {
-    "Breakfast": "Yogurt Parfait: Layered Greek yogurt, homemade granola, and a mix of fresh berries for a refreshing start of the day. Drizzle with a little honey to sweeten, if desired.",
-    "Lunch": "Grilled Chicken Caesar Salad: Grilled chicken strips atop a bed of crisp romaine lettuce, tossed in Caesar dressing, with croutons and shaved parmesan.",
-    "Dinner": "Beef Stir-Fry with Snow Peas and Carrots: Lean cuts of beef quickly stir-fried with crisp snow peas and carrots in a savory ginger garlic sauce."
+  "Thursday, June 15, 2023": {
+    "Breakfast": "Blueberry Banana Smoothie: Fresh blueberries, a ripe banana, a splash of almond milk, and a scoop of your favorite protein powder blended together for a quick and nutritious breakfast smoothie. The blueberries and banana offer a refreshing sweetness perfect for a June morning.",
+    "Lunch": "Turkey Club Sandwich: A triple-decker sandwich with turkey, bacon, lettuce, tomato, and mayo, served on whole-grain bread.",
+    "Dinner": "Grilled Pork Tenderloin with Quinoa Salad: Marinated pork tenderloin grilled to perfection, served with a light and refreshing quinoa salad featuring cherry tomatoes, cucumber, and a zesty lemon vinaigrette."
   },
-  "Wednesday, June 7, 2023": {
-    "Breakfast": "Avocado Toast: Whole grain toast topped with ripe mashed avocado, a sprinkle of sea salt, and a touch of red pepper flakes. Serve with a side of poached eggs for protein.",
-    "Lunch": "Caprese Panini: Fresh mozzarella, ripe tomatoes, and aromatic basil layered in ciabatta bread, drizzled with balsamic glaze, then pressed until crispy.",
-    "Dinner": "Carne Asada Tacos: Store-bought carne asada grilled to perfection and served on corn tortillas with pico de gallo and a squeeze of lime."
+  "Friday, June 16, 2023": {
+    "Breakfast": "Fresh Strawberry Toast: Cream cheese spread on whole-grain toast, topped with fresh sliced strawberries, a drizzle of honey, and a sprinkle of chia seeds. A quick, fresh, and light breakfast for a warm June morning.",
+    "Lunch": "BLT Pasta Salad: A refreshing and quick pasta salad that combines the classic flavors of a BLT sandwich with a tangy dressing.",
+    "Dinner": "Ivan Ramen Styled Ramen: A homemade ramen dish inspired by the famous Ivan Ramen restaurant in New York City. This dish features a rich and flavorful broth, tender pork belly, and a soft-boiled egg.",
   },
-  "Thursday, June 8, 2023": {
-    "Breakfast": "Belgian Waffles: Fluffy and golden Belgian waffles, served with maple syrup, fresh berries, and a dusting of powdered sugar.",
-    "Lunch": "Quinoa Chicken Salad with Pesto: Grilled chicken, quinoa, cherry tomatoes, cucumber, and arugula tossed in homemade pesto dressing.",
-    "Dinner": "Order In: A break from home-cooked meals, enjoy your favorite local eatery or try something new."
+  "Saturday, June 17, 2023": {
+    "Breakfast": "Open-faced Egg and Avocado Bagel: A fresh bagel spread with smashed avocado, topped with a sunny-side-up egg. A sprinkle of flaky sea salt, black pepper, and a splash of hot sauce complete this satisfying and quick-to-prepare breakfast.",
+    "Lunch": "Tex-Mex Burrito Bowl: A bed of rice topped with seasoned chicken or beef, beans, corn, salsa, avocado, and a dollop of sour cream.",
+    "Dinner": "Beef and Vegetable Kabobs: Marinated beef and summer vegetables skewered and grilled to perfection, served over a bed of couscous."
   },
-  "Friday, June 9, 2023": {
-    "Breakfast": "Banana Peanut Butter Protein Shakes: Blend frozen bananas, natural peanut butter, Greek yogurt, a drizzle of honey, and almond milk for a quick, protein-packed breakfast on the go.",
-    "Lunch": "Greek Pita Pockets: Pita bread filled with grilled chicken, tomatoes, cucumbers, kalamata olives, feta cheese, and a homemade tzatziki sauce.",
-    "Dinner": "Meatball Subs with Side Salad: Italian meatball subs topped with marinara sauce and melted mozzarella cheese. Serve with a side of green salad."
-  },
-  "Saturday, June 10, 2023": {
-    "Breakfast": "Eggs Benedict: English muffin halves topped with Canadian bacon, poached eggs, and creamy hollandaise sauce. Serve with a side of roasted asparagus.",
-    "Lunch": "Stir-Fried Beef and Broccoli: Tender strips of beef stir-fried with fresh broccoli florets in a savory garlic sauce. Serve over steamed jasmine rice.",
-    "Dinner": "Chicken Quesadillas with Salsa: Cheesy chicken quesadillas served with fresh homemade salsa and a dollop of sour cream."
-  },
-  "Sunday, June 11, 2023": {
-    "Breakfast": "Eggs Benedict: English muffins topped with a poached egg, ham, and rich hollandaise sauce.",
-    "Lunch": "Chef's Salad: A hearty salad featuring a variety of deli meats and cheeses, hard-boiled eggs, tomatoes, cucumbers, and your choice of dressing.",
-    "Dinner": "One-Pot Sausage and Broccoli Pasta Bake: Sausage and broccoli combined with pasta in a rich tomato sauce, topped with cheese and baked until golden."
+  "Sunday, June 18, 2023": {
+    "Breakfast": "Almond Butter and Raspberry Jam Waffles: Whole grain waffles spread with almond butter and a dollop of raspberry jam. This breakfast offers a twist on the classic PB&J.",
+    "Lunch": "Chicken Caesar Wrap: A wrap filled with grilled chicken, romaine lettuce, parmesan cheese, and Caesar dressing.",
+    "Dinner": "Classic Grilled Beef Burgers with Crispy Fries: Delicious grilled beef burgers paired with homemade crispy French fries."
   }
 }
