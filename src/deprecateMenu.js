@@ -10,8 +10,6 @@ const oldMenuPath = path.join(
   'menu.json',
 )
 
-console.log(oldMenuPath)
-
 if (fs.existsSync(oldMenuPath)) {
   const menu = require(oldMenuPath)
   const dateStrings = Object.keys(menu)

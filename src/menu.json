@@ -1,27 +1,42 @@
 {
-  "Wednesday, June 14, 2023": {
-    "Breakfast": "Ham and Cheese Croissants: Freshly baked croissants filled with thinly sliced ham and melted Swiss cheese. A perfect balance of savory and buttery flavors to start the day.",
-    "Lunch": "Cobb Salad: A protein-packed salad with hard-boiled eggs, grilled chicken, avocado, blue cheese, bacon, and mixed greens.",
-    "Dinner": "Grilled Chicken Tacos with Avocado Salsa: Juicy grilled chicken served in soft tortillas and topped with a fresh avocado salsa."
+  "Sunday, July 2, 2023": {
+    "Breakfast": "Greek Yogurt Parfait - Greek yogurt topped with honey-drizzled fresh berries (strawberries, blueberries, raspberries) and a sprinkle of homemade granola.",
+    "Lunch": "Greek Chicken Pita Wrap - Warm pita bread filled with marinated grilled chicken, cucumber, tomatoes, onions, and a homemade tzatziki sauce.",
+    "Dinner": "Skillet Chicken and Ravioli - Juicy seared chicken breasts served with cheese-filled ravioli, bathed in a creamy herb sauce."
   },
-  "Thursday, June 15, 2023": {
-    "Breakfast": "Blueberry Banana Smoothie: Fresh blueberries, a ripe banana, a splash of almond milk, and a scoop of your favorite protein powder blended together for a quick and nutritious breakfast smoothie. The blueberries and banana offer a refreshing sweetness perfect for a June morning.",
-    "Lunch": "Turkey Club Sandwich: A triple-decker sandwich with turkey, bacon, lettuce, tomato, and mayo, served on whole-grain bread.",
-    "Dinner": "Grilled Pork Tenderloin with Quinoa Salad: Marinated pork tenderloin grilled to perfection, served with a light and refreshing quinoa salad featuring cherry tomatoes, cucumber, and a zesty lemon vinaigrette."
+  "Monday, July 3, 2023": {
+    "Breakfast": "Mexican Breakfast Burrito - A hearty burrito filled with scrambled eggs, cheddar cheese, avocado, black beans, and salsa all wrapped in a whole grain tortilla.",
+    "Lunch": "Summer Chicken Salad with Berries - A light and fresh salad with grilled chicken, mixed greens, fresh strawberries, blueberries, and a poppy seed dressing.",
+    "Dinner": "Beef Stir-Fry with Broccoli and Mushrooms - Quick-cooking beef strips stir-fried with fresh broccoli florets and mushrooms in a savory soy-garlic sauce, served over steamed white rice."
   },
-  "Friday, June 16, 2023": {
-    "Breakfast": "Fresh Strawberry Toast: Cream cheese spread on whole-grain toast, topped with fresh sliced strawberries, a drizzle of honey, and a sprinkle of chia seeds. A quick, fresh, and light breakfast for a warm June morning.",
-    "Lunch": "BLT Pasta Salad: A refreshing and quick pasta salad that combines the classic flavors of a BLT sandwich with a tangy dressing.",
-    "Dinner": "Ivan Ramen Styled Ramen: A homemade ramen dish inspired by the famous Ivan Ramen restaurant in New York City. This dish features a rich and flavorful broth, tender pork belly, and a soft-boiled egg.",
+  "Tuesday, July 4, 2023": {
+    "Breakfast": "Avocado Egg Toast - Multigrain toast topped with smashed ripe avocado, a poached egg, a sprinkle of feta cheese, and a drizzle of hot sauce.",
+    "Lunch": "Grilled Peach and Burrata Salad - A delightful mix of grilled summer peaches, creamy burrata cheese, arugula, toasted almonds, and a honey-balsamic reduction.",
+    "Dinner": "Chicken Piccata with Angel Hair Pasta - Tender chicken cutlets in a tangy lemon-caper sauce, served over a bed of angel hair pasta."
   },
-  "Saturday, June 17, 2023": {
-    "Breakfast": "Open-faced Egg and Avocado Bagel: A fresh bagel spread with smashed avocado, topped with a sunny-side-up egg. A sprinkle of flaky sea salt, black pepper, and a splash of hot sauce complete this satisfying and quick-to-prepare breakfast.",
-    "Lunch": "Tex-Mex Burrito Bowl: A bed of rice topped with seasoned chicken or beef, beans, corn, salsa, avocado, and a dollop of sour cream.",
-    "Dinner": "Beef and Vegetable Kabobs: Marinated beef and summer vegetables skewered and grilled to perfection, served over a bed of couscous."
+  "Wednesday, July 5, 2023": {
+    "Breakfast": "Peanut Butter Banana Smoothie - A smooth and creamy blend of ripe bananas, peanut butter, milk, and a dollop of Greek yogurt, served with a side of multigrain toast.",
+    "Lunch": "Veggie Quesadilla - A crispy tortilla filled with sauteed bell peppers, onions, corn, black beans, and melted cheese, served with a side of salsa and sour cream.",
+    "Dinner": "Margherita Pizza - A homemade pizza loaded with fresh mozzarella, ripe tomatoes, and basil leaves on a thin crust."
   },
-  "Sunday, June 18, 2023": {
-    "Breakfast": "Almond Butter and Raspberry Jam Waffles: Whole grain waffles spread with almond butter and a dollop of raspberry jam. This breakfast offers a twist on the classic PB&J.",
-    "Lunch": "Chicken Caesar Wrap: A wrap filled with grilled chicken, romaine lettuce, parmesan cheese, and Caesar dressing.",
-    "Dinner": "Classic Grilled Beef Burgers with Crispy Fries: Delicious grilled beef burgers paired with homemade crispy French fries."
+  "Thursday, July 6, 2023": {
+    "Breakfast": "Turkish Breakfast - A vibrant plate of olive oil-drizzled hummus, warm pita bread, sliced cucumbers and tomatoes, Kalamata olives, Feta cheese, and a boiled egg, accompanied with a cup of Turkish tea.",
+    "Lunch": "Avocado Chicken Salad Wrap - Grilled chicken, ripe avocado, crisp lettuce, and diced tomatoes rolled in a whole-grain wrap with a spread of Greek yogurt.",
+    "Dinner": "Grilled Chicken Tacos - Soft corn tortillas filled with grilled marinated chicken, fresh pico de gallo, sliced avocado, and a squeeze of fresh lime."
+  },
+  "Friday, July 7, 2023": {
+    "Breakfast": "Baked Egg Muffins - Mini muffins made from whisked eggs, cheddar cheese, diced bell peppers, and onions, baked into a fluffy golden breakfast.",
+    "Lunch": "BBQ Chicken Stuffed Sweet Potatoes - Baked sweet potatoes stuffed with shredded BBQ chicken, topped with green onions, and a dollop of sour cream.",
+    "Dinner": "Fresh Pesto Pasta with Cherry Tomatoes - Al dente fusilli pasta tossed in a homemade basil pesto, mixed with juicy cherry tomatoes and Parmesan shavings."
+  },
+  "Saturday, July 8, 2023": {
+    "Breakfast": "Pancakes with Fresh Berry Compote - Homemade pancakes served with a compote made from a variety of fresh berries (blueberries, blackberries, and raspberries), sweetened with honey.",
+    "Lunch": "Mediterranean Orzo Salad - A refreshing salad of orzo pasta, fresh cherry tomatoes, diced cucumbers, Kalamata olives, red onions, crumbled feta cheese, and a lemon vinaigrette.",
+    "Dinner": "Sheet Pan Greek Chicken and Vegetables - Marinated Greek chicken thighs roasted to perfection with potatoes, bell peppers, red onions, and Kalamata olives, served with Tzatziki sauce."
+  },
+  "Sunday, July 9, 2023": {
+    "Breakfast": "Brioche French Toast Stuffed with Cream Cheese and Fresh Peaches - Thick slices of brioche dipped in egg mixture, pan-fried, and filled with a cream cheese-peach mixture, dusted with powdered sugar.",
+    "Lunch": "Turkey & Cheese Panini - Perfect panini with smoked turkey, provolone cheese, sundried tomato spread, and fresh basil leaves on sourdough bread.",
+    "Dinner": "BBQ Chicken Drumsticks with Corn on the Cob and Coleslaw - Flavorful barbecued chicken drumsticks served with buttery corn on the cob and a side of tangy, fresh coleslaw."
   }
 }
