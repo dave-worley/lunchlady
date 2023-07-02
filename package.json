@@ -11,6 +11,9 @@
     "@testing-library/user-event": "^13.5.0",
     "date-fns": "^2.29.3",
     "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "ics": "^3.2.0",
+    "moment": "^2.29.4",
     "openai": "^3.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -25,7 +28,8 @@
     "eject": "react-scripts eject",
     "deprecate-menu": "node src/deprecateMenu.js",
     "generate-menu": "node src/generateMenu.js",
-    "generate-shopping-list": "node src/generateShoppingList.js"
+    "generate-shopping-list": "node src/generateShoppingList.js",
+    "create-ics": "node src/createIcs.js"
   },
   "eslintConfig": {
     "extends": [
