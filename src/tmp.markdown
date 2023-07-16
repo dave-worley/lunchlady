@@ -1,62 +1,51 @@
-## Sunday, July 16, 2023
+## Sunday, July 23, 2023
 
-### Breakfast: Hawaiian Tropical Smoothie Bowl
+### Breakfast: Greek Yogurt Parfait with Honey and Berries
 
-**Ingredients:**
+**Ingredients**:
 
-* 2 bananas (260 grams)
-* 1 mango (336 grams)
-* 1/2 pineapple (904 grams)
-* 240 grams of plain Greek yogurt
-* A small handful of granola
-* 2 tablespoons of coconut flakes
-* 1 teaspoon of chia seeds
+- 1000 g Fage Total 0% Greek Yogurt
+- 200 g mixed berries (strawberries, blueberries, raspberries)
+- 240 ml raw honey (Preferably Nature Nate's 100% Pure Raw & Unfiltered Honey)
+- 200 g granola (Choose a healthy option like Purely Elizabeth Ancient Grain Granola)
+- 4 tsp chia seeds
+- Fresh mint leaves for garnish
 
-**Steps:**
+**Steps**:
 
-1. Peel and dice the bananas, mango, and pineapple.
-2. Place the diced fruits and Greek yogurt into a blender.
-3. Blend the ingredients until they have a smooth consistency.
-4. Pour the smoothie mixture into four bowls.
-5. Top each bowl with a sprinkling of granola, coconut flakes, and chia seeds.
+1. Divide half of the Greek yogurt among four serving glasses.
+2. Drizzle each with 15 ml of honey, then sprinkle 25 g of granola.
+3. Top each glass with mixed berries and 1 tsp of chia seeds.
+4. Repeat the layers (yogurt, honey, granola and fruit).
+5. Finish with a drizzle of honey on top.
+6. Garnish with fresh mint leaves.
+7. Serve immediately or refrigerate for up to 2 hours.
 
+### Lunch: Chicken Caesar Salad
 
-### Lunch: Turkey Avocado Club Sandwich
+**Ingredients**:
 
-**Ingredients:**
+- 600 g chicken breast
+- 1 Tbsp Italian seasoning
+- Salt and pepper to taste
+- 1 Tbsp olive oil
+- 2 heads of romaine lettuce
+- 60 g Parmigiano-Reggiano cheese, shaved
+- Croutons (brand of your choice)
+- Store-bought Caesar dressing (Brand of your choice. Cardini's Original Caesar Dressing is a popular option)
 
-* 8 slices of whole grain bread
-* 400 grams of roasted turkey slices
-* 2 ripe avocados
-* 8 lettuce leaves
-* 8 slices of tomato
-* 8 slices of cooked bacon
-* 4 tablespoons of mayonnaise (Hellmann's Real Mayonnaise preferred)
+**Steps**:
 
-**Steps:**
+1. Preheat your broiler on high.
+2. Season the chicken breast with the Italian seasoning, salt, pepper, and olive oil. Ensure the chicken is thoroughly coated in the seasonings and oil.
+3. Place the seasoned chicken on a broiling pan and broil for about 6-8 minutes each side, till the chicken is fully cooked and golden brown.
+4. Let the chicken rest for a few minutes, then slice it into strips.
+5. Wash and tear the romaine lettuce into bite-sized pieces.
+6. In a large bowl, toss the romaine lettuce with the Caesar dressing to taste.
+7. Distribute dressed lettuce among four plates.
+8. Top each salad with the sliced chicken, croutons, and shaved Parmigiano-Reggiano cheese.
+9. Serve immediately.
 
-1. Toast the bread slices.
-2. Spread the mayonnaise evenly across the toasted bread slices.
-3. Layer each sandwich with roasted turkey, avocado slices, lettuce, tomato, and bacon.
-4. Top each with the second slice of bread, cut in half and serve.
+### Dinner: Order In
 
-
-### Dinner: Store-Bought Chicken Nuggets with Potato Wedges
-
-**Ingredients:**
-
-* 1 packet of store-bought chicken nuggets (Tyson Panko Breaded Chicken Nuggets preferred)
-* 4 large Russet potatoes
-* 2 tablespoons of olive oil
-* 1 tablespoon of dried rosemary
-* Sea salt, to taste
-* A selection of dips (ketchup, mayonnaise, BBQ sauce, etc.)
-
-**Steps:**
-
-1. Preheat the oven according to the chicken nuggets' package instructions.
-2. Place the chicken nuggets onto a baking tray and cook as per the package instructions.
-3. While the chicken nuggets are baking, cut the potatoes into wedge shapes.
-4. Toss the potato wedges in olive oil, rosemary, and sea salt.
-5. Place the wedges onto a separate baking tray and bake in the oven until golden (approximately 25 minutes).
-6. Once cooked, serve the chicken nuggets and potato wedges with a selection of dips.
+Take a break tonight - you've earned it! Settle down with some takeout from your favorite local restaurant. But remember, tomorrow is another culinary adventure!
