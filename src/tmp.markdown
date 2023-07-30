@@ -1,51 +1,70 @@
-## Sunday, July 23, 2023
+## Sunday, July 30, 2023
 
-### Breakfast: Greek Yogurt Parfait with Honey and Berries
+### Breakfast: Banana Pancakes with Warm Maple Syrup
 
-**Ingredients**:
+#### Ingredients:
+* 75g of whole wheat flour
+* 5g of baking powder
+* 125g of ripe bananas
+* 30g of milk
+* 1 medium egg
+* 15g of melted unsalted butter
+* 5g of pure vanilla extract
+* 50g of warm maple syrup
+* Olive oil or unsalted butter for frying
 
-- 1000 g Fage Total 0% Greek Yogurt
-- 200 g mixed berries (strawberries, blueberries, raspberries)
-- 240 ml raw honey (Preferably Nature Nate's 100% Pure Raw & Unfiltered Honey)
-- 200 g granola (Choose a healthy option like Purely Elizabeth Ancient Grain Granola)
-- 4 tsp chia seeds
-- Fresh mint leaves for garnish
+#### Steps:
+1. Combine 75g of whole wheat flour and 5g of baking powder in a large bowl.
+2. Mash 125g of ripe bananas in another bowl.
+3. Beat the egg, then add 30g of milk, beaten egg, 15g of melted unsalted butter, and 5g of pure vanilla extract to the mashed bananas. Mix thoroughly.
+4. Stir the banana mixture into the flour until just combined.
+5. Heat a frying pan over medium heat and add a bit of oil or butter.
+6. Pour or scoop the batter onto the heated pan, using approximately 60g for each pancake.
+7. Cook until the pancake has a bubbly surface then flip with a spatula and cook until golden brown.
+8. Serve warm, topped with 50g of warm maple syrup.
 
-**Steps**:
 
-1. Divide half of the Greek yogurt among four serving glasses.
-2. Drizzle each with 15 ml of honey, then sprinkle 25 g of granola.
-3. Top each glass with mixed berries and 1 tsp of chia seeds.
-4. Repeat the layers (yogurt, honey, granola and fruit).
-5. Finish with a drizzle of honey on top.
-6. Garnish with fresh mint leaves.
-7. Serve immediately or refrigerate for up to 2 hours.
+### Lunch: Grilled Chicken Caesar Salad with Homemade Croutons
 
-### Lunch: Chicken Caesar Salad
+#### Ingredients:
+##### For the Salad:
+* 4 boneless, skinless chicken breasts (about 500g in total)
+* Salt, as needed
+* Ground black pepper, as needed
+* 4 medium hearts of romaine lettuce (about 400g)
+* 50g of shredded Parmesan cheese
 
-**Ingredients**:
+##### For the Caesar Dressing:
+* 75g of mayonnaise
+* 10g of lemon juice
+* 5g of Worcestershire sauce
+* 5g of Dijon mustard
+* 1 garlic clove, minced
+* 35g of grated Parmesan cheese
+* Salt, as needed
+* Ground black pepper, as needed
+* 25g of olive oil
 
-- 600 g chicken breast
-- 1 Tbsp Italian seasoning
-- Salt and pepper to taste
-- 1 Tbsp olive oil
-- 2 heads of romaine lettuce
-- 60 g Parmigiano-Reggiano cheese, shaved
-- Croutons (brand of your choice)
-- Store-bought Caesar dressing (Brand of your choice. Cardini's Original Caesar Dressing is a popular option)
+##### For the Croutons:
+* 250g of day-old bread, cut into small cubes
+* 20g of olive oil
+* Salt, as needed
+* Ground black pepper, as needed
 
-**Steps**:
+#### Steps:
 
-1. Preheat your broiler on high.
-2. Season the chicken breast with the Italian seasoning, salt, pepper, and olive oil. Ensure the chicken is thoroughly coated in the seasonings and oil.
-3. Place the seasoned chicken on a broiling pan and broil for about 6-8 minutes each side, till the chicken is fully cooked and golden brown.
-4. Let the chicken rest for a few minutes, then slice it into strips.
-5. Wash and tear the romaine lettuce into bite-sized pieces.
-6. In a large bowl, toss the romaine lettuce with the Caesar dressing to taste.
-7. Distribute dressed lettuce among four plates.
-8. Top each salad with the sliced chicken, croutons, and shaved Parmigiano-Reggiano cheese.
-9. Serve immediately.
+##### For the Salad:
+1. Season 500g of chicken breasts with salt and pepper.
+2. Preheat a grill or pan over medium-heat, then cook the chicken until it's no longer pink in the center. Let it rest for a few minutes, then slice it.
+3. Wash and chop 400g of romaine lettuce. Place it in a large salad bowl.
 
-### Dinner: Order In
+##### For the Caesar Dressing:
+1. In a bowl, combine 75g of mayonnaise, 10g of lemon juice, 5g of Worcestershire sauce, 5g of Dijon mustard, minced garlic, and 35g of grated Parmesan cheese.
+2. Season the mixture with salt and pepper. Slowly whisk in 25g of olive oil until it's all incorporated.
 
-Take a break tonight - you've earned it! Settle down with some takeout from your favorite local restaurant. But remember, tomorrow is another culinary adventure!
+##### For the Croutons:
+1. Preheat your oven to 180 degrees Celsius.
+2. Toss 250g of bread cubes with 20g of olive oil, then season with salt and pepper.
+3. Spread the bread on a baking sheet and bake for 10-15 minutes, or until crispy and golden brown.
+4. Once your croutons have cooled, add them, the sliced chicken, and 50g of Parmesan cheese to the bed of romaine lettuce.
+5. Drizzle your Caesar dressing over the salad and toss gently to combine. Serve immediately.

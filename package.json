@@ -29,7 +29,8 @@
     "deprecate-menu": "node src/deprecateMenu.js",
     "generate-menu": "node src/generateMenu.js",
     "generate-shopping-list": "node src/generateShoppingList.js",
-    "create-ics": "node src/createIcs.js"
+    "create-ics": "node src/createIcs.js",
+    "select-meal": "node src/selectMeal.js"
   },
   "eslintConfig": {
     "extends": [
