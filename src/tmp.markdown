@@ -1,60 +1,64 @@
-## Sunday, August 13, 2023
+## Tuesday, September 12, 2023
 
-### Breakfast: Bagel with Cream Cheese - Side of Fresh Fruit
+### Breakfast: Mini Pancakes
+#### Ingredients
+- 60 grams all-purpose flour
+- 10 grams white sugar
+- 5 grams baking powder
+- Pinch of salt
+- 60 milliliters whole milk
+- 15 grams unsalted butter
+- 1 small egg
+- A drop of vanilla essence
+#### Steps
+1. In a bowl, mix together the flour, sugar, baking powder and salt.
+2. In a separate bowl, whisk together the milk, melted butter, egg, and vanilla essence.
+3. Gradually incorporate the dry ingredients into the wet until just combined.
+4. Preheat a non-stick pan over medium heat.
+5. Pour small spoonfuls of batter onto the pan to make mini pancakes.
+6. Cook until bubbles form on the surface, then flip and cook until golden brown.
 
-**Ingredients:**
+### Lunch: Thai Basil Chicken Stir-Fry with Jasmine Rice
+#### Ingredients
+- 500 grams skinless, boneless chicken breasts, thinly sliced
+- 120 grams Thai basil leaves
+- 4 Thai bird chilies, sliced into thin rounds
+- 2 cloves garlic, minced
+- 2 tablespoons vegetable oil
+- 1 tablespoon fish sauce
+- 1 tablespoon Soy sauce
+- 2 teaspoons sugar
+- 400 grams jasmine rice
+#### Steps
+1. Cook the jasmine rice according to package instructions and set aside.
+2. In a wok or large frying pan, heat the oil over medium-high heat.
+3. Add the garlic and chilies and stir-fry until fragrant.
+4. Add the chicken and stir-fry until cooked through, about 5-7 minutes.
+5. Stir in the fish sauce, soy sauce, and sugar.
+6. Cook for another minute, then stir in the basil leaves.
+7. Serve the stir-fry over the jasmine rice.
 
-- 1 plain bagel
-- 2 tablespoons Philadelphia cream cheese
-- 50g fresh strawberries
-- 50g fresh blueberries
-- 1 teaspoon honey
-
-**Steps:**
-
-1. Slice the bagel in half and toast until golden brown.
-2. Slather each half with 1 tablespoon of Philadelphia cream cheese.
-3. Arrange strawberries and blueberries on a plate alongside the bagel.
-4. Drizzle the fruit with 1 teaspoon of honey for some extra sweetness.
-
----
-### Lunch: Ham and Cheese Sandwich - Side of Fruit Salad and a Glass of Fresh Orange Juice
-
-**Ingredients:**
-
-#### For the Sandwich
-- 8 slices of whole grain bread
-- 8 slices of Boar's Head honey ham
-- 4 slices of cheddar cheese
-- 1 ripe tomato
-- 1 lettuce head
-- 4 tablespoons of Hellmann's mayonnaise
-
-#### For the Fruit Salad
-- 1 apple
-- 1 orange
-- 1 banana
-- 1 cup of grapes
-- 1 tablespoon of honey
-
-#### For the Orange Juice
-- 4 large oranges
-
-**Steps:**
-
-#### Prepare the Sandwich
-1. Lightly toast the 8 slices of whole grain bread.
-2. Spread a tablespoon of Hellmann's mayonnaise on each of the 4 slices.
-3. Place a lettuce leaf on top of the mayonnaise, then add a slice of honey ham and a slice of cheddar cheese.
-4. Slice the tomato and lay it over the cheese.
-5. Top each prepared slice with another slice of toasted bread.
-
-#### Prepare the Fruit Salad
-1. Cube the apple, peel and cube the orange, slice the banana, and halve the grapes.
-2. Combine all the fruits in a bowl and toss gently.
-3. Drizzle over the honey and toss again to combine.
-
-#### Prepare the Orange Juice
-1. Cut the 4 large oranges in half.
-2. Use a manual juicer to squeeze out all the juice.
-3. Pour the fresh orange juice into glasses to serve alongside the sandwich and fruit salad.
+### Dinner: Tandoori Chicken Wraps with Cucumber and Tomato Salad
+#### Ingredients
+- 4 pieces boneless chicken thighs, skin removed
+- 200 grams Greek yogurt
+- 2 tablespoons lemon juice
+- 1 tablespoon paprika
+- 1 teaspoon ground cumin
+- 1 teaspoon ground coriander
+- 1/2 teaspoon ground turmeric
+- 4 whole wheat wraps
+- 1 cucumber, sliced
+- 2 tomatoes, diced
+- 1/2 red onion, thinly sliced
+- 2 tablespoons olive oil
+- 1 tablespoon white wine vinegar
+- Salt and black pepper to taste
+#### Steps
+1. In a bowl, mix together the Greek yogurt, lemon juice, paprika, cumin, coriander, and turmeric.
+2. Add the chicken to the marinade and let it sit for at least an hour.
+3. Preheat your oven to 350°F and bake the chicken for 20-25 minutes until cooked through.
+4. While the chicken cooks, mix together the cucumber, tomatoes, and onion in a bowl.
+5. Drizzle the olive oil and vinegar over the salad, then add salt and pepper to taste.
+6. Once the chicken is done, let it cool slightly before slicing it into strips.
+7. To assemble the wraps, divide the sliced chicken and salad evenly among the wheat wraps, then roll them up.

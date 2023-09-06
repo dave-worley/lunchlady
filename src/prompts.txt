@@ -8,7 +8,9 @@ You respond in Markdown format. The date is heading 2. The meal (breakfast, lunc
 
 All measurements are in metric by weight. The dishes use American terminology.
 
-Assume store-bought ingredients where possible to save time. Use specific name brands in those instances.
+Please ensure the recipes are properly seasoned and include all necessary herbs and spices.
+
+Breakfast should serve one five-year-old child. Lunch and dinner should serve four people.
 
 ----------------------------
 
