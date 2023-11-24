@@ -1,85 +1,78 @@
-## November 1, 2023
+## Friday, November 24, 2023
 
-### Breakfast: Cinnamon Toast with Yogurt
+### Breakfast - Fruit Kabobs
 
-**Ingredients**:
-- 1 slice of whole-grain bread
-- 20 grams of unsalted butter
-- 15 grams of sugar
-- 1 gram of ground cinnamon
-- 125 grams of plain unsweetened yogurt
-- 30 grams of honey
-- Fresh fruit for topping (like strawberries and blueberries)
+#### Ingredients
+- 15 g Strawberries
+- 15 g Pineapple
+- 15 g Blueberries
+- 15 g Grapes
+- 15 g Kiwi
+- 5 pcs wooden skewers
+- Juice from half a lemon
 
-**Steps**:
-1. Toast the slice of bread until it's toasted to your child's liking.
-2. While the bread is toasting, mix together the sugar and ground cinnamon in a small bowl.
-3. Once the bread is done, spread the unsalted butter evenly over one side of the toast.
-4. Sprinkle the cinnamon sugar mixture over the buttered side of the toast.
-5. Serve the toast with a side of yogurt, topped with honey and fresh fruits of choice.
+#### Steps
+1. Clean and finely cut the fruits into bite-sized pieces.
+2. Slide the fruit pieces onto the wooden skewers, alternating for a variety of colors on each kabob.
+3. Sprinkle the fruit skewers with fresh lemon juice to keep the fruit fresh and to add a zingy flavor.
+4. Serve immediately or refrigerate until it's time to eat.
 
-### Lunch: Mini Pancake Stacks with a Side of Scrambled Eggs
+### Lunch - Turkey Club Sandwich with Potato Chips and Pickle Spear
 
-**Ingredients**:
+#### Ingredients
+- 200 g Smoked Turkey, thinly sliced
+- 8 slices Whole grain bread
+- 4 leaves of Lettuce
+- 2 Tomatoes, sliced
+- 8 slices of Crisp cooked Bacon
+- 100 g Mayonnaise
+- Salt and freshly ground black pepper to taste
+- 50 g Potato chips
+- 4 Pickle spears
 
-*For the pancakes*:
-- 60 grams instant pancake mix
-- 90 milliliters water
-- 30 grams unsalted butter (for cooking)
-- Maple syrup (for topping)
-- Fresh berries (for topping)
+#### Steps
+1. Toast the slices of whole grain bread.
+2. Spread a generous amount of mayonnaise on one side of each slice of toast.
+3. On four slices of toast, arrange the turkey, lettuce, tomatoes, and bacon. Season with salt and pepper.
+4. Cover with the remaining slices of toast, mayonnaise-side down.
+5. Cut each sandwich into two halves and serve with potato chips and a pickle spear.
 
-*For the scrambled eggs*:
-- 8 large eggs
-- 80 milliliters whole milk
-- 2 grams salt
-- 1 gram black pepper
-- 20 grams unsalted butter
+### Dinner - Roasted Pork Tenderloin with Apple Sauce, Roasted Brussels Sprouts, andQuinoa Salad
 
-**Steps**:
-1. Prepare the pancake batter by combining the instant pancake mix with water.
-2. Melt some butter in a non-stick pan over medium heat.
-3. For each pancake, pour approximately 1 tablespoon of batter onto the pan.
-4. Cook until bubbles appear on the surface, then flip the pancake and cook until golden brown on the other side.
-5. Repeat the process until all batter is used. Be sure to add more butter as needed.
-6. For the scrambled eggs, whisk the eggs, milk, salt, and pepper together.
-7. Melt the butter in a separate non-stick pan over medium heat.
-8. Pour the egg mixture into the pan and let it sit undisturbed until the edges start to set.
-9. Stir the eggs gently until soft curds form.
-10. Continue cooking until the eggs are cooked to your desired level of doneness.
-11. Serve the mini pancake stacks with a drizzle of maple syrup, topped with fresh berries, and a side of scrambled eggs.
+#### Ingredients
 
-### Dinner: Sausage and Potato Skillet with a Side of Garden Salad
+##### For the Pork Tenderloin:
+- 700 g Pork tenderloin
+- 2 g Salt
+- 1 g Black pepper
+- 5 g Rosemary
+- 2 cloves Garlic, minced
+- 50 g Olive oil
 
-**Ingredients**:
+##### For the Apple Sauce:
+- 500 g Apples, peeled, cored, and chopped
+- 60 g Sugar
+- 1/2 tsp Cinnamon
 
-*For the skillet*:
-- 500 grams red potatoes, cut into 1 cm cubes
-- 350 grams smoked sausage, sliced
-- 200 grams onion, diced
-- 2 cloves garlic, chopped
-- 15 milliliters olive oil
-- 2 grams salt
-- 1 gram black pepper
-- 2 grams paprika
+##### For the Brussels Sprouts:
+- 500 g Brussels sprouts
+- 30 g Olive oil
+- Salt and pepper to taste
 
-*For the salad*:
-- 500 grams mixed salad greens
-- 1 cucumber, sliced
-- 150 grams cherry tomatoes, halved
-- 1 red onion, thinly sliced
-- 60 milliliters olive oil
-- 30 milliliters balsamic vinegar
-- 2 grams salt
-- 1 gram black pepper
+##### For the Quinoa Salad:
+- 170 g Quinoa
+- 500 ml Water
+- 2 Red bell peppers, chopped
+- 1 Cucumber, chopped
+- 50 g Olive oil
+- Juice from a half a Lemon
+- Salt and pepper to taste
 
-**Steps**:
-1. Start by heating the olive oil in a large skillet over medium heat.
-2. Add the sausage slices and cook until they are browned on both sides. Remove them from the pan and set aside.
-3. In the same pan, add the potatoes, onion, garlic, salt, pepper, and paprika.
-4. Stir occasionally and cook until the potatoes are golden brown and crispy.
-5. Return the sausage to the pan and stir to combine. Cook for a few more minutes until everything is heated through.
-6. For the salad, combine the greens, cucumber, tomatoes, and onion.
-7. Whisk together the olive oil, balsican vinegar, salt, and pepper to make the dressing.
-8. Drizzle the dressing over the salad and toss until everything is well coated.
-9. Serve the sausage and potato skillet with a side of garden salad.
+#### Steps
+1. Preheat oven to 180°C for Pork Tenderloin and Brussels sprouts.
+2. Rub the pork tenderloin with salt, pepper, minced garlic, rosemary and olive oil. Place in a roasting pan and roast in the oven for 25-30 minutes or until the internal temperature reaches 63°C in the thickest part of the tenderloin.
+3. While the pork is roasting, in a saucepan, combine the apples, sugar and cinnamon. Cook over medium heat until the apples are soft and the sauce has thickened, usually takes about 15-20 minutes. Set aside.
+4. Coat Brussels sprouts with olive oil, salt, and pepper. Arrange in a single layer on a baking sheet and roast in the oven for 15-20 minutes, until they’re crispy on the outside and tender on the inside.
+5. Bring the water to a boil and add the quinoa. Simmer for about 15 minutes until the quinoa is cooked, stir occasionally. Drain and cool.
+6. Combine the cooked quinoa with the chopped bell peppers and cucumber. Add olive oil, lemon juice, salt, and pepper to taste. Stir gently to combine.
+7. Once the pork is cooked, let it rest for a few minutes before slicing. Serve the sliced pork tenderloin with warm apple sauce, roasted Brussels Sprouts, and refreshing quinoa salad.
