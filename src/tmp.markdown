@@ -1,97 +1,102 @@
-## Saturday, December 9, 2023
+## Saturday, December 16, 2023
 
 ### Breakfast
-#### Scrambled Eggs with Whole Grain Toast and Sliced Strawberries
+#### Porridge
 
 **Ingredients:**
 
-- 2 large eggs
-- 15g whole milk
-- Salt, to taste
-- Black pepper, freshly ground, to taste
-- 10g unsalted butter
-- 2 slices of whole grain bread
-- 100g fresh strawberries, hulled and sliced
-- 5g honey or to taste (optional)
+- 40g rolled oats
+- 250ml whole milk
+- A pinch of salt
+- 15g honey
+- 1/2 a small apple, cored and diced (about 40g)
+- 10g raisins
+- A sprinkle of ground cinnamon to taste
+- A small pat of unsalted butter (about 5g)
 
 **Steps:**
 
-1. Crack the eggs into a bowl. Add milk, a pinch of salt and black pepper. Whisk together until well combined and slightly frothy.
-2. Heat a non-stick skillet over medium-low heat. Add the butter and allow it to melt.
-3. Pour the egg mixture into the pan. Let it sit, without stirring, for 20 seconds. Start stirring gently with a spatula, pushing the eggs from the edges to the center.
-4. Continue to cook, stirring gently, until the eggs are softly set and slightly runny in places. Remove from heat as they will continue to cook in the residual heat.
-5. Toast the whole grain bread until golden and crisp.
-6. Arrange the sliced strawberries on a plate. Drizzle with honey if desired.
-7. Serve the scrambled eggs hot with the toast on the side and the honey-glazed strawberries.
+1. In a small saucepan, place the rolled oats and the whole milk. Heat over medium heat.
+2. Add a pinch of salt to the mixture.
+3. Stir occasionally, and cook for around 5 minutes or until the oats have fully absorbed the milk and the porridge has thickened.
+4. Once the porridge is almost done, mix in the diced apple and raisins.
+5. Allow cooking for an additional 2 minutes, then remove from heat.
+6. Stir in the honey, ground cinnamon, and butter until well combined.
+7. Serve warm in a child-friendly bowl.
 
 ### Lunch
-#### Hot Dogs with a Side of Chips
+#### Bacon-Wrapped Asparagus with Chips
 
 **Ingredients:**
 
-- 4 all-beef hot dogs
-- 4 hot dog buns
-- 10g yellow mustard
-- 10g ketchup
-- 100g pickled relish
-- 400g potato chips
-- 5g paprika
-- Salt, to taste
+- 16 spears of fresh asparagus, trimmed
+- 8 slices of bacon
+- 240g potatoes, peeled and cut into fries
+- 45ml olive oil
+- A pinch of paprika
+- A pinch of garlic powder
+- Salt and black pepper to taste
 
 **Steps:**
 
-1. Preheat your grill or grill pan over medium heat.
-2. Grill the hot dogs, turning occasionally, until heated through and nicely charred, about 5 to 7 minutes.
-3. Toast the hot dog buns lightly on the grill until they are warm and slightly crispy.
-4. Assemble the hot dogs by placing a hot dog in each bun and adding mustard, ketchup, and pickled relish to taste.
-5. Serve the hot dogs with a side of potato chips seasoned lightly with paprika and salt.
+1. Preheat the oven to 400°F.
+2. Wrap each asparagus spear with half a slice of bacon, making sure to overlap the ends slightly.
+3. Place the bacon-wrapped asparagus on a baking sheet lined with parchment paper.
+4. Bake in the preheated oven for 20 minutes or until the bacon is crisp and the asparagus is tender.
+5. While the asparagus cooks, toss the potato fries with olive oil, paprika, garlic powder, salt, and black pepper until evenly coated.
+6. Spread the seasoned fries on a separate baking sheet lined with parchment paper.
+7. Place the fries in the oven with the asparagus and bake for about 20 minutes, or until golden and crispy, turning halfway through the cooking time.
+8. Serve the bacon-wrapped asparagus alongside the crispy chips.
 
 ### Dinner
-#### French Onion Soup with Croutons and a Frisée Salad
+#### Herb Roasted Turkey Breast with Cranberry Sauce and Green Bean Almondine
 
-**Ingredients for the Soup:**
+**Ingredients:**
 
-- 800g yellow onions, thinly sliced
-- 40g unsalted butter
-- 1 tsp sugar
-- 2 tbsp all-purpose flour
-- 1.2 liters beef stock
-- 120ml dry white wine
-- 2 bay leaves
-- 1 sprig of fresh thyme or ½ tsp dried thyme
-- Salt and black pepper, to taste
-- 100g Gruyère cheese, grated
-- 4 thick slices of baguette or country bread
+*Herb Roasted Turkey Breast:*
+- 1kg turkey breast, boneless and skin-on
+- 15g fresh sage, chopped
+- 15g fresh thyme leaves
+- 15g fresh rosemary, chopped
+- 30ml olive oil
+- 1 clove garlic, minced
+- Salt and black pepper to taste
 
-**Ingredients for the Salad:**
+*Cranberry Sauce:*
+- 200g fresh cranberries
+- 100g granulated sugar
+- 120ml orange juice
+- 1 cinnamon stick
 
-- 1 head of frisée, cleaned and torn into bite-sized pieces
-- 30ml extra-virgin olive oil
-- 10ml red wine vinegar
-- 1 small shallot, minced
-- Salt and black pepper, to taste
-- 30g walnuts, toasted and chopped
+*Green Bean Almondine:*
+- 500g fresh green beans, trimmed
+- 30g sliced almonds
+- 15g butter
+- 1 clove garlic, minced
+- Salt and black pepper to taste
 
-**Steps for the Soup:**
+**Steps:**
 
-1. Set the pressure cooker to the sauté setting. Add butter and melt.
-2. Put in the onions and sugar, stirring to coat. Cook, stirring occasionally, until the onions begin to caramelize, about 15 to 20 minutes.
-3. Sprinkle flour over the onions and cook for 1-2 minutes, stirring constantly.
-4. Stir in beef stock, white wine, bay leaves, and thyme. Season with salt and pepper.
-5. Secure the lid and set the pressure cooker to high for 30 minutes.
-6. After cooking, let the pressure release naturally before opening the lid.
-7. Preheat the oven's broiler. Place baguette slices on a baking sheet and toast until golden.
-8. Taste the soup and adjust the seasoning if necessary. Discard the bay leaves and thyme sprig.
+*Herb Roasted Turkey Breast:*
+1. Preheat the oven to 375°F.
+2. In a bowl, mix the olive oil, chopped sage, thyme leaves, rosemary, minced garlic, salt, and black pepper to create the herb marinade.
+3. Rub the herb marinade all over the turkey breast, ensuring both under and over the skin.
+4. Place the turkey breast on a roasting pan and roast for about 60-70 minutes, or until the internal temperature reaches 165°F.
+5. Once done, let the turkey breast rest for 10 minutes before slicing.
 
-**Steps for the Salad:**
+*Cranberry Sauce:*
+1. In a saucepan, combine cranberries, granulated sugar, orange juice, and the cinnamon stick.
+2. Bring the mixture to a boil, then reduce heat to a simmer.
+3. Let the sauce simmer for about 10 minutes until cranberries burst and the sauce thickens.
+4. Remove the cinnamon stick and let the sauce cool before serving with the turkey.
 
-1. Whisk together olive oil, red wine vinegar, minced shallot, salt, and pepper to create a vinaigrette in a large bowl.
-2. Add the frisée to the bowl with the dressing and toss to coat evenly.
-3. Sprinkle the toasted walnuts over the salad.
+*Green Bean Almondine:*
+1. Bring a pot of salted water to a boil and add the green beans.
+2. Cook the green beans for about 4-5 minutes until bright green and tender-crisp.
+3. In a skillet, toast the almond slices over medium heat until golden brown; remove and set aside.
+4. In the same skillet, melt butter and sauté minced garlic for about 1 minute.
+5. Drain the green beans and add them to the skillet, tossing with the garlic butter.
+6. Season with salt and black pepper to taste.
+7. Serve the green beans topped with the toasted almond slices.
 
-**To Serve:**
-
-1. Ladle the hot soup into ovenproof bowls.
-2. Top each with a toasted baguette slice and a generous amount of Gruyère cheese.
-3. Place the bowls under the broiler until the cheese is melted and bubbly, about 2-3 minutes. Watch carefully to avoid burning.
-4. Serve the soup immediately with croutons on top and the frisée salad on the side.
+Assemble the dinner by plating slices of the herb roasted turkey breast with a side of cranberry sauce and a generous helping of green bean almondine. Enjoy a balanced and flavorful gourmet dinner experience.
