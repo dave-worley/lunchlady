@@ -1,102 +1,63 @@
-## Saturday, December 16, 2023
+## Wednesday, January 10, 2024
 
-### Breakfast
-#### Porridge
-
-**Ingredients:**
-
-- 40g rolled oats
-- 250ml whole milk
-- A pinch of salt
-- 15g honey
-- 1/2 a small apple, cored and diced (about 40g)
-- 10g raisins
-- A sprinkle of ground cinnamon to taste
-- A small pat of unsalted butter (about 5g)
-
-**Steps:**
-
-1. In a small saucepan, place the rolled oats and the whole milk. Heat over medium heat.
-2. Add a pinch of salt to the mixture.
-3. Stir occasionally, and cook for around 5 minutes or until the oats have fully absorbed the milk and the porridge has thickened.
-4. Once the porridge is almost done, mix in the diced apple and raisins.
-5. Allow cooking for an additional 2 minutes, then remove from heat.
-6. Stir in the honey, ground cinnamon, and butter until well combined.
-7. Serve warm in a child-friendly bowl.
-
-### Lunch
-#### Bacon-Wrapped Asparagus with Chips
+### Breakfast: Almond Butter and Banana Smoothie
 
 **Ingredients:**
-
-- 16 spears of fresh asparagus, trimmed
-- 8 slices of bacon
-- 240g potatoes, peeled and cut into fries
-- 45ml olive oil
-- A pinch of paprika
-- A pinch of garlic powder
-- Salt and black pepper to taste
+* 2 ripe bananas (240 grams)
+* 100 grams of almond butter
+* 600 ml almond milk
+* 4 grams of cinnamon powder
+* 2 grams sea salt
+* 40 grams of honey
 
 **Steps:**
+1. Peel the bananas and chop them into smaller pieces.
+2. Put the chopped bananas, almond butter and almond milk in a blender.
+3. Add cinnamon powder, a pinch of sea salt, and honey into the blender.
+4. Blend until smooth. If the consistency is too thick, add more almond milk.
+5. Serve immediately in tall glasses with straws.
 
-1. Preheat the oven to 400°F.
-2. Wrap each asparagus spear with half a slice of bacon, making sure to overlap the ends slightly.
-3. Place the bacon-wrapped asparagus on a baking sheet lined with parchment paper.
-4. Bake in the preheated oven for 20 minutes or until the bacon is crisp and the asparagus is tender.
-5. While the asparagus cooks, toss the potato fries with olive oil, paprika, garlic powder, salt, and black pepper until evenly coated.
-6. Spread the seasoned fries on a separate baking sheet lined with parchment paper.
-7. Place the fries in the oven with the asparagus and bake for about 20 minutes, or until golden and crispy, turning halfway through the cooking time.
-8. Serve the bacon-wrapped asparagus alongside the crispy chips.
-
-### Dinner
-#### Herb Roasted Turkey Breast with Cranberry Sauce and Green Bean Almondine
+### Lunch: English Ploughman's Lunch with ham, cheese, pickles, and crusty bread
 
 **Ingredients:**
-
-*Herb Roasted Turkey Breast:*
-- 1kg turkey breast, boneless and skin-on
-- 15g fresh sage, chopped
-- 15g fresh thyme leaves
-- 15g fresh rosemary, chopped
-- 30ml olive oil
-- 1 clove garlic, minced
-- Salt and black pepper to taste
-
-*Cranberry Sauce:*
-- 200g fresh cranberries
-- 100g granulated sugar
-- 120ml orange juice
-- 1 cinnamon stick
-
-*Green Bean Almondine:*
-- 500g fresh green beans, trimmed
-- 30g sliced almonds
-- 15g butter
-- 1 clove garlic, minced
-- Salt and black pepper to taste
+* 400 grams of cooked ham, sliced
+* 200 grams of mature Cheddar cheese, sliced
+* 200 grams of pickles
+* 400 grams of crusty bread
+* 80 grams of butter
+* 200 grams of cherry tomatoes
+* Sea Salt and cracked black pepper to taste
 
 **Steps:**
+1. Gather all the ingredients onto a chopping board.
+2. Slice the cooked ham, mature Cheddar cheese, and pickles.
+3. Slice the crusty bread and spread with butter.
+4. Arrange the ham, cheese, pickles, and crusty bread on individual plates.
+5. Add the cherry tomatoes to the plates.
+6. Sprinkle with sea salt and cracked black pepper to taste.
+7. Serve immediately.
 
-*Herb Roasted Turkey Breast:*
-1. Preheat the oven to 375°F.
-2. In a bowl, mix the olive oil, chopped sage, thyme leaves, rosemary, minced garlic, salt, and black pepper to create the herb marinade.
-3. Rub the herb marinade all over the turkey breast, ensuring both under and over the skin.
-4. Place the turkey breast on a roasting pan and roast for about 60-70 minutes, or until the internal temperature reaches 165°F.
-5. Once done, let the turkey breast rest for 10 minutes before slicing.
+### Dinner: Brazilian Feijoada with Collard Greens and Farofa
 
-*Cranberry Sauce:*
-1. In a saucepan, combine cranberries, granulated sugar, orange juice, and the cinnamon stick.
-2. Bring the mixture to a boil, then reduce heat to a simmer.
-3. Let the sauce simmer for about 10 minutes until cranberries burst and the sauce thickens.
-4. Remove the cinnamon stick and let the sauce cool before serving with the turkey.
+**Ingredients:**
+* 500 grams of dried black beans
+* 500 grams of assorted raw pork (include sausage, pork belly, and lean pork), cut into chunks
+* 200 grams of bacon
+* 1 large onion (150 grams), chopped
+* 3 cloves garlic (15 grams), chopped
+* 500 grams of collard greens, chopped
+* 200 grams of farofa (toasted cassava flour)
+* 1 orange, peeled
+* Sea Salt, smoked paprika, and ground black pepper to taste
 
-*Green Bean Almondine:*
-1. Bring a pot of salted water to a boil and add the green beans.
-2. Cook the green beans for about 4-5 minutes until bright green and tender-crisp.
-3. In a skillet, toast the almond slices over medium heat until golden brown; remove and set aside.
-4. In the same skillet, melt butter and sauté minced garlic for about 1 minute.
-5. Drain the green beans and add them to the skillet, tossing with the garlic butter.
-6. Season with salt and black pepper to taste.
-7. Serve the green beans topped with the toasted almond slices.
-
-Assemble the dinner by plating slices of the herb roasted turkey breast with a side of cranberry sauce and a generous helping of green bean almondine. Enjoy a balanced and flavorful gourmet dinner experience.
+**Steps:**
+1. Rinse the black beans and soak overnight.
+2. Drain the black beans and rinse again.
+3. In a pressure cooker, combine the black beans, bacon, and enough water to cover the beans.
+4. Cook under pressure for 30 minutes, then release the pressure naturally according to manufacturer's instructions.
+5. In a separate pan, fry the onion and garlic until golden brown.
+6. Add the assorted raw pork to the pan and cook until browned on all sides.
+7. Once the pressure is fully released from the cooker, add the browned meat, onion, and garlic to the beans along with the peeled orange and seasonings.
+8. Replace the lid and cook under pressure for another 30 minutes.
+9. While the feijoada cooks, sauté the collard greens in a separate pan with a little olive oil, until they are wilted and tender.
+10. Serve feijoada over the collard greens and sprinkle with farofa. Adjust seasonings to taste.
