@@ -1,63 +1,77 @@
-## Wednesday, January 10, 2024
+## Saturday, February 3, 2024
 
-### Breakfast: Almond Butter and Banana Smoothie
-
-**Ingredients:**
-* 2 ripe bananas (240 grams)
-* 100 grams of almond butter
-* 600 ml almond milk
-* 4 grams of cinnamon powder
-* 2 grams sea salt
-* 40 grams of honey
-
-**Steps:**
-1. Peel the bananas and chop them into smaller pieces.
-2. Put the chopped bananas, almond butter and almond milk in a blender.
-3. Add cinnamon powder, a pinch of sea salt, and honey into the blender.
-4. Blend until smooth. If the consistency is too thick, add more almond milk.
-5. Serve immediately in tall glasses with straws.
-
-### Lunch: English Ploughman's Lunch with ham, cheese, pickles, and crusty bread
+### Breakfast
+#### French Toast with Mixed Berries, Sliced Fruit, and Cheese
 
 **Ingredients:**
-* 400 grams of cooked ham, sliced
-* 200 grams of mature Cheddar cheese, sliced
-* 200 grams of pickles
-* 400 grams of crusty bread
-* 80 grams of butter
-* 200 grams of cherry tomatoes
-* Sea Salt and cracked black pepper to taste
+
+- French Toast
+    - 8 slices of brioche bread, about 2 cm thick
+    - 4 large eggs
+    - 240 ml whole milk
+    - 50 g granulated sugar
+    - 1 tsp ground cinnamon
+    - 30 g unsalted butter, for frying
+    - 2 g fine sea salt
+    - 5 ml vanilla extract
+
+- Berry Compote
+    - 200 g mixed berries (blueberries, raspberries, strawberries)
+    - 50 g granulated sugar
+    - 10 ml lemon juice
+
+- Sliced Fruit and Cheese
+    - 1 ripe mango, sliced
+    - 2 kiwis, sliced
+    - 200 g aged cheddar cheese, thinly sliced
+    - 100 g brie, sliced
 
 **Steps:**
-1. Gather all the ingredients onto a chopping board.
-2. Slice the cooked ham, mature Cheddar cheese, and pickles.
-3. Slice the crusty bread and spread with butter.
-4. Arrange the ham, cheese, pickles, and crusty bread on individual plates.
-5. Add the cherry tomatoes to the plates.
-6. Sprinkle with sea salt and cracked black pepper to taste.
-7. Serve immediately.
 
-### Dinner: Brazilian Feijoada with Collard Greens and Farofa
+1. Start with the berry compote. In a small saucepan, combine the mixed berries, 50 g of granulated sugar, and lemon juice. Cook over medium heat until the berries break down and the mixture thickens slightly, about 10 minutes. Set aside.
+2. In a shallow dish, whisk together eggs, whole milk, 50 g granulated sugar, ground cinnamon, fine sea salt, and vanilla extract.
+3. Preheat a skillet over medium heat and melt a portion of the unsalted butter.
+4. Dip each slice of brioche bread into the egg mixture, ensuring both sides are well coated.
+5. Fry the coated bread slices in the buttered skillet until golden brown, about 3 minutes per side. Add more butter as needed for each batch.
+6. Arrange the French toast on a serving platter. Serve with the warm berry compote on the side.
+7. On a large serving board, arrange the sliced mango, kiwis, aged cheddar, and brie. This will offer guests a refreshing contrast and variety of flavors alongside the French toast.
+8. Serve immediately while the French toast is still warm, inviting guests to indulge in the assortment of sides as per their preference.
+
+### Dinner
+#### Beef Stroganoff over Egg Noodles
 
 **Ingredients:**
-* 500 grams of dried black beans
-* 500 grams of assorted raw pork (include sausage, pork belly, and lean pork), cut into chunks
-* 200 grams of bacon
-* 1 large onion (150 grams), chopped
-* 3 cloves garlic (15 grams), chopped
-* 500 grams of collard greens, chopped
-* 200 grams of farofa (toasted cassava flour)
-* 1 orange, peeled
-* Sea Salt, smoked paprika, and ground black pepper to taste
+
+- Beef Stroganoff
+    - 600 g beef sirloin, thinly sliced
+    - 300 g button mushrooms, sliced
+    - 1 large onion, finely chopped
+    - 2 cloves of garlic, minced
+    - 250 ml beef stock
+    - 200 ml sour cream
+    - 30 ml olive oil
+    - 20 g all-purpose flour
+    - 10 ml Worcestershire sauce
+    - 5 g smoked paprika
+    - 2 g fine sea salt
+    - 2 g freshly ground black pepper
+    - 15 g fresh parsley, chopped for garnish
+    - 10 g fresh dill, chopped for garnish
+
+- Egg Noodles
+    - 400 g egg noodles
+    - 20 g unsalted butter
+    - 2 g fine sea salt
 
 **Steps:**
-1. Rinse the black beans and soak overnight.
-2. Drain the black beans and rinse again.
-3. In a pressure cooker, combine the black beans, bacon, and enough water to cover the beans.
-4. Cook under pressure for 30 minutes, then release the pressure naturally according to manufacturer's instructions.
-5. In a separate pan, fry the onion and garlic until golden brown.
-6. Add the assorted raw pork to the pan and cook until browned on all sides.
-7. Once the pressure is fully released from the cooker, add the browned meat, onion, and garlic to the beans along with the peeled orange and seasonings.
-8. Replace the lid and cook under pressure for another 30 minutes.
-9. While the feijoada cooks, sauté the collard greens in a separate pan with a little olive oil, until they are wilted and tender.
-10. Serve feijoada over the collard greens and sprinkle with farofa. Adjust seasonings to taste.
+
+1. Heat the olive oil in a large skillet over medium-high heat. Add the beef slices and sear until browned on all sides. Remove the beef from the skillet and set aside.
+2. In the same skillet, add the onions and garlic. Sauté until soft and translucent.
+3. Add the sliced mushrooms to the skillet and cook until they release their moisture and become golden brown.
+4. Sprinkle the flour over the vegetables in the skillet and stir to combine. Cook for 2 minutes.
+5. Gradually stir in the beef stock, ensuring the mixture is smooth. Add Worcestershire sauce, smoked paprika, salt, and pepper.
+6. Return the beef to the skillet, reduce the heat to low, and simmer until the beef is tender, about 10 minutes.
+7. While the beef cooks, prepare the egg noodles according to package instructions, adding the butter and salt to the boiling water.
+8. Remove the stroganoff from heat and stir in the sour cream. Adjust seasoning if necessary.
+9. To serve, place a serving of egg noodles on each plate, top with the beef stroganoff, and garnish with chopped parsley and dill.
+10. Ensure the presentation is refined, offering a comforting yet elegant dish, perfect for a Michelin-starred dining experience.
