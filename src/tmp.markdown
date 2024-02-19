@@ -1,77 +1,52 @@
-## Saturday, February 3, 2024
+## Friday, February 16, 2024
 
 ### Breakfast
-#### French Toast with Mixed Berries, Sliced Fruit, and Cheese
+#### Pancake Skewers: With strawberries and bananas, served with a side of maple syrup and whipped cream.
 
-**Ingredients:**
+##### Ingredients:
+- 200g instant pancake mix
+- 150ml water
+- 200g strawberries, hulled and halved
+- 2 bananas, peeled and cut into slices
+- 4 wooden skewers
+- 60g maple syrup
+- 100g heavy cream
+- 15g powdered sugar
+- 1g vanilla extract
 
-- French Toast
-    - 8 slices of brioche bread, about 2 cm thick
-    - 4 large eggs
-    - 240 ml whole milk
-    - 50 g granulated sugar
-    - 1 tsp ground cinnamon
-    - 30 g unsalted butter, for frying
-    - 2 g fine sea salt
-    - 5 ml vanilla extract
-
-- Berry Compote
-    - 200 g mixed berries (blueberries, raspberries, strawberries)
-    - 50 g granulated sugar
-    - 10 ml lemon juice
-
-- Sliced Fruit and Cheese
-    - 1 ripe mango, sliced
-    - 2 kiwis, sliced
-    - 200 g aged cheddar cheese, thinly sliced
-    - 100 g brie, sliced
-
-**Steps:**
-
-1. Start with the berry compote. In a small saucepan, combine the mixed berries, 50 g of granulated sugar, and lemon juice. Cook over medium heat until the berries break down and the mixture thickens slightly, about 10 minutes. Set aside.
-2. In a shallow dish, whisk together eggs, whole milk, 50 g granulated sugar, ground cinnamon, fine sea salt, and vanilla extract.
-3. Preheat a skillet over medium heat and melt a portion of the unsalted butter.
-4. Dip each slice of brioche bread into the egg mixture, ensuring both sides are well coated.
-5. Fry the coated bread slices in the buttered skillet until golden brown, about 3 minutes per side. Add more butter as needed for each batch.
-6. Arrange the French toast on a serving platter. Serve with the warm berry compote on the side.
-7. On a large serving board, arrange the sliced mango, kiwis, aged cheddar, and brie. This will offer guests a refreshing contrast and variety of flavors alongside the French toast.
-8. Serve immediately while the French toast is still warm, inviting guests to indulge in the assortment of sides as per their preference.
+##### Steps:
+1. In a large bowl, whisk together the instant pancake mix and water until smooth.
+2. Heat a non-stick pan over medium heat. Pour small amounts of the pancake batter into the pan to form mini pancakes, about 8cm in diameter. Cook for 1-2 minutes on each side or until golden. Remove and let cool.
+3. Whip the heavy cream with powdered sugar and vanilla extract until stiff peaks form. Set aside in the fridge.
+4. Assemble the skewers by alternating pancakes, strawberry halves, and banana slices on each skewer.
+5. Serve the pancake skewers with a side of maple syrup for dipping and a dollop of whipped cream.
 
 ### Dinner
-#### Beef Stroganoff over Egg Noodles
+#### Croque Monsieur: Accompanied by a spinach and strawberry salad, sweet potato fries, and a berry mix.
 
-**Ingredients:**
+##### Ingredients:
+- 8 slices of sandwich bread
+- 200g thinly sliced cooked ham
+- 200g Gruyere cheese, grated
+- 50g unsalted butter, melted
+- 30g all-purpose flour
+- 300ml whole milk
+- 1g nutmeg
+- Salt and pepper to taste
+- 400g sweet potatoes, peeled and cut into fries
+- 30ml olive oil
+- 200g baby spinach
+- 100g strawberries, sliced
+- 30g balsamic vinegar
+- 100g mixed berries (blueberries, raspberries, blackberries)
+- 15g honey
+- 5g fresh mint, chopped
 
-- Beef Stroganoff
-    - 600 g beef sirloin, thinly sliced
-    - 300 g button mushrooms, sliced
-    - 1 large onion, finely chopped
-    - 2 cloves of garlic, minced
-    - 250 ml beef stock
-    - 200 ml sour cream
-    - 30 ml olive oil
-    - 20 g all-purpose flour
-    - 10 ml Worcestershire sauce
-    - 5 g smoked paprika
-    - 2 g fine sea salt
-    - 2 g freshly ground black pepper
-    - 15 g fresh parsley, chopped for garnish
-    - 10 g fresh dill, chopped for garnish
-
-- Egg Noodles
-    - 400 g egg noodles
-    - 20 g unsalted butter
-    - 2 g fine sea salt
-
-**Steps:**
-
-1. Heat the olive oil in a large skillet over medium-high heat. Add the beef slices and sear until browned on all sides. Remove the beef from the skillet and set aside.
-2. In the same skillet, add the onions and garlic. Sauté until soft and translucent.
-3. Add the sliced mushrooms to the skillet and cook until they release their moisture and become golden brown.
-4. Sprinkle the flour over the vegetables in the skillet and stir to combine. Cook for 2 minutes.
-5. Gradually stir in the beef stock, ensuring the mixture is smooth. Add Worcestershire sauce, smoked paprika, salt, and pepper.
-6. Return the beef to the skillet, reduce the heat to low, and simmer until the beef is tender, about 10 minutes.
-7. While the beef cooks, prepare the egg noodles according to package instructions, adding the butter and salt to the boiling water.
-8. Remove the stroganoff from heat and stir in the sour cream. Adjust seasoning if necessary.
-9. To serve, place a serving of egg noodles on each plate, top with the beef stroganoff, and garnish with chopped parsley and dill.
-10. Ensure the presentation is refined, offering a comforting yet elegant dish, perfect for a Michelin-starred dining experience.
+##### Steps:
+1. Preheat the oven to 425°F.
+2. Toss sweet potato fries with olive oil, salt, and pepper. Spread on a baking sheet and bake for 20-25 minutes until crispy.
+3. For the béchamel sauce: Melt 25g butter in a saucepan, whisk in flour and cook for 2 minutes. Gradually add milk, whisking constantly until thickened. Season with salt, pepper, and nutmeg.
+4. Brush one side of each bread slice with melted butter. Turn over and spread béchamel on the other side. Place ham and half the cheese on four slices. Top with remaining bread, béchamel side up, and sprinkle with remaining cheese.
+5. Bake in the oven alongside fries at 425°F for 5 minutes, then broil until golden and bubbly.
+6. For the salad: Toss spinach and sliced strawberries with balsamic vinegar, honey, and a pinch of salt.
+7. Serve the Croque Monsieur with sweet potato fries on the side, the spinach and strawberry salad, and a small bowl of mixed berries garnished with fresh mint.
