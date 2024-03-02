@@ -1,52 +1,92 @@
-## Friday, February 16, 2024
+## Monday, February 26, 2024
 
-### Breakfast
-#### Pancake Skewers: With strawberries and bananas, served with a side of maple syrup and whipped cream.
+### Brunch: Charcuterie & Cheese Board served with Crusty Bread, Crackers, and Mixed Greens Salad
 
+#### Ingredients:
+
+- 150g cured meat of choice (like prosciutto, salami, etc.)
+- 200g cheese of choice (like brie, cheddar, blue cheese, etc.)
+- 100g whole grain crackers
+- 1 baguette
+- 200g mixed salad greens
+- 1 lemon
+- 50g olive oil
+- Salt and pepper for seasoning
+
+#### Steps:
+
+1. Arrange the cured meats, cheese, and crackers on a large wooden board.
+2. Slice baguette diagonally into 1 cm thick pieces. Place these on the board.
+3. In a separate bowl, squeeze juice from the lemon and add the olive oil.
+4. Season the lemon and oil mixture with salt and pepper to taste.
+5. Mix the dressing with the mixed salad greens in a salad bowl.
+6. Serve your charcuterie and cheese board with the side of mixed greens salad.
+
+### Dinner: Chicken Fried Rice with Steamed Edamame, Fruit Platter, and Miso Soup
+
+#### Chicken Fried Rice
 ##### Ingredients:
-- 200g instant pancake mix
-- 150ml water
-- 200g strawberries, hulled and halved
-- 2 bananas, peeled and cut into slices
-- 4 wooden skewers
-- 60g maple syrup
-- 100g heavy cream
-- 15g powdered sugar
-- 1g vanilla extract
+
+- 200g chicken breast
+- 400g jasmine rice, cooked and cooled
+- 75g green peas
+- 75g carrots, chopped
+- 75g onions, chopped
+- 3 eggs
+- 25g light soy sauce
+- 2g white pepper
+- 5g garlic, finely chopped
+- 2g fresh ginger, grated
+- 10g sesame oil
 
 ##### Steps:
-1. In a large bowl, whisk together the instant pancake mix and water until smooth.
-2. Heat a non-stick pan over medium heat. Pour small amounts of the pancake batter into the pan to form mini pancakes, about 8cm in diameter. Cook for 1-2 minutes on each side or until golden. Remove and let cool.
-3. Whip the heavy cream with powdered sugar and vanilla extract until stiff peaks form. Set aside in the fridge.
-4. Assemble the skewers by alternating pancakes, strawberry halves, and banana slices on each skewer.
-5. Serve the pancake skewers with a side of maple syrup for dipping and a dollop of whipped cream.
 
-### Dinner
-#### Croque Monsieur: Accompanied by a spinach and strawberry salad, sweet potato fries, and a berry mix.
+1. Cut the chicken breast into small pieces.
+2. Heat the wok over high heat, add a dash of sesame oil and then add the chicken. Stir-fry until cooked and then set aside.
+3. Add the chopped garlic and grated ginger to the wok. Stir-fry until aromatic.
+4. Add the onions and carrots. Stir-fry until they brighten in color.
+5. Push the vegetables to the sides of the wok, making a well in the center, and crack the eggs into it. Scramble the eggs until cooked.
+6. Add the cooked rice to the wok and stir well to mix everything.
+7. Add the cooked chicken and peas, mix again.
+8. Finally, season with soy sauce and white pepper.
+9. Serve the chicken fried rice hot from the wok.
+
+#### Steamed Edamame
 
 ##### Ingredients:
-- 8 slices of sandwich bread
-- 200g thinly sliced cooked ham
-- 200g Gruyere cheese, grated
-- 50g unsalted butter, melted
-- 30g all-purpose flour
-- 300ml whole milk
-- 1g nutmeg
-- Salt and pepper to taste
-- 400g sweet potatoes, peeled and cut into fries
-- 30ml olive oil
-- 200g baby spinach
-- 100g strawberries, sliced
-- 30g balsamic vinegar
-- 100g mixed berries (blueberries, raspberries, blackberries)
-- 15g honey
-- 5g fresh mint, chopped
+
+- 250g edamame beans
+- 5g sea salt
 
 ##### Steps:
-1. Preheat the oven to 425°F.
-2. Toss sweet potato fries with olive oil, salt, and pepper. Spread on a baking sheet and bake for 20-25 minutes until crispy.
-3. For the béchamel sauce: Melt 25g butter in a saucepan, whisk in flour and cook for 2 minutes. Gradually add milk, whisking constantly until thickened. Season with salt, pepper, and nutmeg.
-4. Brush one side of each bread slice with melted butter. Turn over and spread béchamel on the other side. Place ham and half the cheese on four slices. Top with remaining bread, béchamel side up, and sprinkle with remaining cheese.
-5. Bake in the oven alongside fries at 425°F for 5 minutes, then broil until golden and bubbly.
-6. For the salad: Toss spinach and sliced strawberries with balsamic vinegar, honey, and a pinch of salt.
-7. Serve the Croque Monsieur with sweet potato fries on the side, the spinach and strawberry salad, and a small bowl of mixed berries garnished with fresh mint.
+
+1. Boil the edamame beans in water for 5-6 minutes.
+2. Drain the beans and sprinkle with sea salt.
+3. Serve alongside the chicken fried rice.
+
+#### Fruit Platter
+
+##### Ingredients:
+
+- 1 pineapple
+- 2 oranges
+- 1 mango
+- Handful of grapes
+
+##### Steps:
+
+1. Cut all the fruits into bite-size pieces and arrange them on a platter.
+2. Serve chilled.
+
+#### Miso Soup
+
+##### Ingredients:
+
+- 4 miso soup packets
+- 1 liter water
+
+##### Steps:
+
+1. Boil the water in a pot.
+2. Once the water is boiling, remove from heat and mix in the miso soup packets.
+3. Serve the miso soup hot.

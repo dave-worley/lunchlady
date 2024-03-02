@@ -44,6 +44,16 @@ if (fs.existsSync(oldMenuPath)) {
     newMenuPath,
   )
   console.log(`Menu deprecated and saved as ${startDateFormatted}-${endDateFormatted}-menu.json`)
+
+  const menuPath = path.join(
+    __dirname,
+    'menu.json',
+  )
+  fs.writeFileSync(
+    menuPath,
+    '',
+  )
+  console.log('blank menu.json created')
 } else {
   console.log('menu.json not found')
 }
