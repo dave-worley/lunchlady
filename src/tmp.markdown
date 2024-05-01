@@ -1,60 +1,72 @@
-## Monday, March 25, 2024
+## Thursday, April 4, 2024
 
-### Dinner: Japanese Curry Pot Pie with Onion, Carrots, Potatoes, and Peas
+### Breakfast: Caprese Panini with Fresh Mozzarella, Tomatoes, Basil, and Balsamic Glaze, Served with a Side of Minestrone Soup
 
 #### Ingredients:
-- 1 package store-bought Japanese curry mix, prepared according to package instructions
+- 8 slices crusty bread (e.g., ciabatta or sourdough)
+- 450g fresh mozzarella, sliced
+- 4 tomatoes, sliced
+- 30g fresh basil leaves
+- 60ml balsamic glaze
+- Butter, for grilling
+- 30ml olive oil
 - 1 onion, diced
-- 225g carrots, diced
-- 450g potatoes, peeled and diced
-- 150g frozen peas
-- 1 package pre-made pie crust (2 crusts)
-- 1 large egg, beaten
-- 15g unsalted butter, melted
-- Salt and pepper to taste
+- 2 carrots, diced
+- 2 celery stalks, diced
+- 4 garlic cloves, minced
+- 1 zucchini, diced
+- 1 potato, peeled and diced
+- 400g canned diced tomatoes
+- 960ml vegetable broth
+- 5g dried thyme
+- 5g dried basil
+- 240g canned kidney beans, drained and rinsed
+- 120g small pasta (e.g., orzo or small shells)
+- Salt and pepper, to taste
+- Grated Parmesan cheese, for serving
 
 #### Steps:
-1. Preheat the oven to 375°F (190°C).
-2. In a large skillet, melt the butter over medium heat. Add the onion, carrots, and potatoes. Sauté until the vegetables are softened, about 10 minutes.
-3. Prepare the Japanese curry mix according to package instructions. Add the cooked vegetables and frozen peas to the curry and stir to combine.
-4. Roll out one of the pre-made pie crusts and place it in a 9-inch pie dish. Trim the edges as needed.
-5. Pour the Japanese curry vegetable mixture into the pie crust.
-6. Roll out the second pre-made pie crust and place it on top of the curry filling. Trim the edges and crimp to seal the top and bottom crusts together.
-7. Brush the beaten egg over the top crust to create a golden-brown finish.
-8. Cut a few slits in the top crust to allow steam to escape.
-9. Bake the pot pie for 45-50 minutes, or until the crust is golden brown and the filling is bubbling.
-10. Let the pot pie cool for 5-10 minutes before serving.
+1. In a large pot, heat the olive oil over medium heat. Add the diced onion, carrots, and celery. Sauté until softened, about 5 minutes.
+2. Add the minced garlic and cook for an additional 1-2 minutes.
+3. Stir in the diced zucchini, potato, canned tomatoes, vegetable broth, dried thyme, and dried basil. Bring the mixture to a boil, then reduce heat and simmer for 15 minutes.
+4. Add the kidney beans and small pasta to the pot. Continue to simmer until the pasta is cooked al dente, about 10 minutes.
+5. Season the minestrone soup with salt and pepper to taste.
+6. Preheat a panini press or skillet over medium heat.
+7. Assemble the panini by layering sliced mozzarella, tomatoes, and fresh basil leaves between two slices of bread. Repeat for the remaining sandwiches.
+8. Brush the outside of each sandwich with butter.
+9. Grill the panini in the press or skillet until the bread is golden brown and the cheese is melted, about 3-4 minutes per side.
+10. Serve the Caprese panini alongside bowls of minestrone soup, garnished with grated Parmesan cheese.
 
-### Breakfast: Chicken and Waffles with a Spicy Honey Drizzle, Sausage Links, and Cheesy Grits
+### Dinner: Ivan Ramen Style Ramen
 
 #### Ingredients:
-- 680g boneless, skinless chicken breasts, cut into strips
-- 240g all-purpose flour
-- 10g paprika
-- 5g garlic powder
-- 5g cayenne pepper
-- Salt and pepper to taste
-- 2 large eggs, beaten
-- 240ml buttermilk
-- Oil for frying
-- 1 package instant waffle mix, prepared according to package instructions
-- 120ml honey
-- 15ml hot sauce (such as Tabasco or Sriracha)
-- 450g sausage links
-- 180g quick-cooking grits
-- 480ml water
-- 240ml milk
-- 120g shredded cheddar cheese
-- 30g unsalted butter
+- 1.2kg pork belly, skin removed
+- 1 onion, peeled and halved
+- 6 garlic cloves, peeled
+- 10g ginger, sliced
+- 2 leeks, white parts only, cleaned and cut into 2-inch pieces
+- 2 chicken carcasses
+- 30g kombu (dried kelp)
+- 30g bonito flakes
+- 60ml soy sauce
+- 30ml sake
+- Salt, to taste
+- 4 portions ramen noodles
+- 4 soft-boiled eggs, peeled and halved
+- 225g bean sprouts
+- 225g bamboo shoots
+- 1 sheet nori, cut into 4 pieces
+- 4 scallions, thinly sliced
+- Toasted sesame oil, for drizzling
+- Chili oil, for drizzling (optional)
 
 #### Steps:
-1. In a shallow dish, mix the flour, paprika, garlic powder, cayenne pepper, salt, and pepper.
-2. In another shallow dish, whisk together the eggs and buttermilk.
-3. Dip each chicken strip into the flour mixture, then the egg mixture, and back into the flour mixture to coat thoroughly.
-4. In a large skillet, heat oil over medium-high heat. Fry the coated chicken strips until golden brown and cooked through, about 5-7 minutes. Drain on a paper towel-lined plate.
-5. Prepare the instant waffle mix according to package instructions and cook the waffles until golden brown and crispy.
-6. In a small bowl, mix the honey and hot sauce to create the spicy honey drizzle.
-7. In a separate skillet, cook the sausage links until browned and cooked through.
-8. In a medium saucepan, bring the water and milk to a boil. Slowly stir in the grits and reduce the heat to low. Cook, stirring frequently, until the grits are thick and creamy, about 5 minutes.
-9. Remove the grits from the heat and stir in the shredded cheddar cheese and butter until melted and well combined.
-10. Serve the chicken and waffles topped with the spicy honey drizzle, alongside the cooked sausage links and cheesy grits.
+1. In a large pot, combine the pork belly, onion, garlic, ginger, leeks, chicken carcasses, kombu, and enough water to cover. Bring the mixture to a boil, then reduce heat and simmer for 2-3 hours, skimming off any foam that rises to the surface.
+2. Remove the pork belly and set aside. Strain the broth through a fine-mesh sieve and discard the solids.
+3. Return the broth to the pot and add the bonito flakes. Simmer for 10 minutes, then strain the broth again and discard the bonito flakes.
+4. Stir in the soy sauce and sake. Season with salt to taste.
+5. Slice the pork belly into thin pieces.
+6. In a separate pot, cook the ramen noodles according to package instructions. Drain and divide among 4 serving bowls.
+7. Ladle the hot broth over the noodles. Top each bowl with sliced pork belly, soft-boiled eggs, bean sprouts, bamboo shoots, nori, and scallions.
+8. Drizzle each bowl with a small amount of toasted sesame oil and chili oil, if desired.
+9. Serve the Ivan Ramen style ramen immediately, encouraging diners to slurp and enjoy the flavors and textures of the dish.
