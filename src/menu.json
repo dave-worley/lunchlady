@@ -1,30 +1,38 @@
 {
-  "Wednesday, May 1, 2024": {
-    "Breakfast": "Egg and cheese sandwich on a croissant with hash browns and fruit salad",
-    "Dinner": "Baked ziti with Italian sausage, ricotta, and a side of garlic knots and Caesar salad"
+  "Saturday, May 25, 2024": {
+    "Breakfast": "Breakfast Burrito with Scrambled Eggs, Black Beans, Salsa, and Cheddar Cheese",
+    "Dinner": "Moroccan Chickpea Stew with Couscous and Roasted Brussels Sprouts"
   },
-  "Thursday, May 2, 2024": {
-    "Breakfast": "Lemon poppy seed pancakes with blueberry compote, yogurt, and granola",
-    "Dinner": "Chicken and andouille gumbo with okra, served over rice with a side of cornbread"
+  "Sunday, May 26, 2024": {
+    "Breakfast": "Almond Butter and Banana Pancakes with Maple Syrup and Fresh Berries",
+    "Dinner": "Slow Cooker Beef Chuck Roast with Mashed Potatoes, Glazed Carrots, and Dinner Rolls"
   },
-  "Friday, May 3, 2024": {
-    "Breakfast": "Mexican-style shakshuka with chorizo, black beans, and queso fresco",
-    "Dinner": "Indian butter chicken with naan bread, served with a side of aloo gobi (spiced cauliflower and potatoes), cucumber raita and rice"
+  "Monday, May 27, 2024": {
+    "Breakfast": "Breakfast Sandwiches with English Muffins, Egg, American Cheese, and Canadian Bacon",
+    "Dinner": "Orzo Pasta Salad with Grilled Chicken, Feta, Olives, and Balsamic Vinaigrette"
   },
-  "Saturday, May 4, 2024": {
-    "Breakfast": "Brazilian-style acai bowl with granola, sliced bananas, and honey",
-    "Dinner": "Sloppy joes with a side of crispy tater tots and coleslaw"
+  "Tuesday, May 28, 2024": {
+    "Breakfast": "Curried Chicken Salad with Apples, Celery, and Cranberries, Served on Croissants",
+    "Dinner": "Hamburgers, Hot Dogs, Potato Chips, Garden Salad, Coleslaw, Potato Salad, Corn on the Cob"
   },
-  "Sunday, May 5, 2024": {
-    "Breakfast": "Biscuits and gravy with scrambled eggs and sliced tomatoes",
-    "Dinner": "Fried chicken and waffles with a spicy honey-sriracha drizzle, served with a side of maple-bacon Brussels sprouts"
+  "Wednesday, May 29, 2024": {
+    "Breakfast": "Caprese Panini with Fresh Mozzarella, Tomatoes, Basil, and Balsamic Glaze",
+    "Dinner": "Crab Legs with Garlic Butter Sauce, Jasmine Rice, and Steamed Broccoli"
   },
-  "Monday, May 6, 2024": {
-    "Breakfast": "Breakfast nachos with scrambled eggs, bacon, and queso",
-    "Dinner": "Grilled cheese sandwich with brie, fig jam, and prosciutto, served with a side of creamy tomato-basil soup shooter"
+  "Thursday, May 30, 2024": {
+    "Breakfast": "Eggs Benedict with Canadian Bacon, Hollandaise Sauce, and Roasted Asparagus",
+    "Dinner": "Chicken Thigh Carnitas Tacos with Pico de Gallo, Guacamole, and Black Beans"
   },
-  "Tuesday, May 7, 2024": {
-    "Breakfast": "Huevos rancheros with refried beans, salsa, and corn tortillas",
-    "Dinner": "Chicken Provençal with olives and tomatoes, served with ratatouille and a side of crusty bread"
+  "Friday, May 31, 2024": {
+    "Breakfast": "Strawberry Almond Butter Granola Parfaits with Greek Yogurt and Fresh Mint",
+    "Dinner": "Vegetarian Chili with Cornbread, Sour Cream, Cheddar Cheese, and Green Onions"
+  },
+  "Saturday, June 1, 2024": {
+    "Breakfast": "Brioche French Toast Casserole with Pecan Streusel and Maple Syrup",
+    "Dinner": "Beef Stir-Fry with Quinoa, Stir-Fried Vegetables, and Sesame Ginger Sauce"
+  },
+  "Sunday, June 2, 2024": {
+    "Breakfast": "Caprese Panini with Fresh Mozzarella, Tomatoes, Basil, and Balsamic Glaze",
+    "Dinner": "BBQ Chicken Tenders with Mac and Cheese, Coleslaw, and Baked Beans"
   }
 }
