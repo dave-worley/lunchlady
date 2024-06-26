@@ -1,120 +1,75 @@
-## Tuesday, May 21, 2024
+## Friday, June 21, 2024
 
-### Breakfast: Sausage and Spinach Frittata with a side of roasted cherry tomatoes
-
-#### Ingredients:
-
-- **Frittata:**
-   - 300g Italian sausage (casing removed)
-   - 200g fresh spinach
-   - 50g onion (finely chopped)
-   - 8 large eggs
-   - 100g cheddar cheese (shredded)
-   - 50g milk
-   - 2g salt
-   - 2g black pepper
-   - 5g fresh parsley (chopped)
-   - 10g olive oil (for greasing the pan)
-
-- **Roasted Cherry Tomatoes:**
-   - 400g cherry tomatoes
-   - 10g olive oil
-   - 2g salt
-   - 2g black pepper
-   - 5g fresh basil (chopped)
-
-#### Steps:
-
-1. **Prepare the Frittata:**
-   1. Preheat your oven to 350°F.
-   2. Heat a non-stick skillet over medium heat. Add the sausage and cook until browned and cooked through. Remove the sausage and set aside.
-   3. In the same skillet, add the chopped onion and cook until translucent. Add the spinach and cook until just wilted.
-   4. In a large bowl, whisk together the eggs, milk, shredded cheese, salt, and pepper.
-   5. Add the cooked sausage, onion, and spinach to the egg mixture and mix well.
-   6. Grease a large oven-safe skillet or baking dish with olive oil. Pour the egg mixture into the dish.
-   7. Bake in preheated oven for 25-30 minutes or until the frittata is set and lightly golden on top.
-   8. Remove from the oven and let it cool slightly before garnishing with chopped parsley.
-
-2. **Prepare Roasted Cherry Tomatoes:**
-   1. Increase oven temperature to 400°F.
-   2. Place cherry tomatoes on a baking sheet. Drizzle with olive oil and season with salt and pepper. Toss to coat.
-   3. Roast in the oven for 15-20 minutes until the tomatoes are blistered and slightly caramelized.
-   4. Remove from the oven and sprinkle with fresh basil before serving.
-
-3. **Serve the Frittata and Roasted Cherry Tomatoes:**
-   1. Cut the frittata into wedges and place on plates.
-   2. Add a portion of roasted cherry tomatoes to each plate.
-   3. Serve immediately and enjoy your balanced breakfast.
-
-### Dinner: Japanese Curry with Jasmine Rice, Miso-Glazed Eggplant, and garlic butter naan
+### Breakfast: Pancake Bar: Buttermilk Pancakes, Chocolate Chip Pancakes, Toppings, Syrups, and Breakfast Sausages
 
 #### Ingredients:
-
-- **Japanese Curry:**
-   - 200g packaged Japanese curry roux
-   - 400g beef or chicken (cut into bite-sized pieces)
-   - 200g potatoes (peeled and chopped)
-   - 200g carrots (peeled and chopped)
-   - 100g onion (chopped)
-   - 600ml water
-   - 10g vegetable oil
-   - 2g salt
-   - 2g black pepper
-
-- **Jasmine Rice:**
-   - 300g jasmine rice
-   - 600ml water
-   - 2g salt
-
-- **Miso-Glazed Eggplant:**
-   - 2 medium eggplants (cut into slices)
-   - 50g miso paste
-   - 30g mirin (Japanese sweet rice wine)
-   - 30g sake
-   - 10g sugar
-   - 10g vegetable oil
-   - 5g sesame seeds (for garnish)
-   - 5g fresh cilantro (chopped, for garnish)
-
-- **Garlic Butter Naan:**
-   - 4 naan bread
-   - 50g unsalted butter (melted)
-   - 10g garlic (minced)
-   - 5g fresh parsley (chopped)
-   - 2g salt
+- **For Pancakes:**
+    - 500 grams instant pancake mix
+    - 350 grams water
+    - 100 grams chocolate chips (for chocolate chip pancakes)
+- **For Toppings:**
+    - 100 grams sliced strawberries
+    - 100 grams blueberries
+    - 100 grams sliced bananas
+    - 100 grams whipped cream
+    - 100 grams crushed nuts
+    - 200 grams assorted syrups (maple, strawberry, chocolate)
+- **For Breakfast Sausages:**
+    - 500 grams breakfast sausages
 
 #### Steps:
+1. **Prepare Pancakes:**
+    1. In a large mixing bowl, combine the pancake mix and water until smooth.
+    2. Preheat a non-stick griddle to medium heat (about 350°F).
+    3. Pour half of the batter to make buttermilk pancakes onto the griddle, forming 12 cm rounds.
+    4. For the remaining half of the batter, mix in chocolate chips and pour onto the griddle to make chocolate chip pancakes.
+    5. Cook until bubbles form on the surface, about 2–3 minutes, then flip and cook for another 2 minutes until golden brown.
+    6. Keep pancakes warm in a low oven (200°F) until serving.
+2. **Prepare Toppings:**
+    1. Place sliced strawberries, blueberries, sliced bananas, whipped cream, and crushed nuts in separate bowls for serving.
+    2. Warm the syrups in a microwave or on the stovetop.
+3. **Cook Breakfast Sausages:**
+    1. Cook sausages in a non-stick skillet on medium heat, turning periodically, until fully cooked and browned, about 12–15 minutes.
+4. **Serve:**
+    1. Set up the pancake bar with buttermilk and chocolate chip pancakes, toppings, syrups, and breakfast sausages, allowing guests to customize their plates.
 
-1. **Prepare the Japanese Curry:**
-   1. Heat the vegetable oil in a large pot over medium heat. Add the chopped onion and cook until translucent.
-   2. Add the beef or chicken, and cook until browned on all sides. Season with salt and pepper.
-   3. Add the chopped potatoes and carrots, and sauté for 2-3 minutes.
-   4. Pour in the water and bring to a boil. Reduce heat and simmer until the vegetables are tender, about 15-20 minutes.
-   5. Break the curry roux into pieces and add to the pot. Stir until the roux is completely dissolved and the sauce thickens.
-   6. Continue to simmer for another 10 minutes, stirring occasionally.
+### Dinner: Spanish Paella Done Fried Rice Style with Chicken, Chorizo, Shrimp, Bell Peppers, and Artichoke Hearts
 
-2. **Prepare the Jasmine Rice:**
-   1. Rinse the jasmine rice under cold water until the water runs clear.
-   2. In a medium pot, combine the rice, 600ml of water, and salt. Bring to a boil over medium-high heat.
-   3. Reduce the heat to low, cover, and cook for 15 minutes.
-   4. Remove from heat and let it sit, covered, for another 10 minutes.
+#### Ingredients:
+- **For the Paella:**
+    - 200 grams chicken breast, diced
+    - 200 grams chorizo sausage, sliced
+    - 200 grams shrimp, peeled and deveined
+    - 1 red bell pepper, diced
+    - 1 green bell pepper, diced
+    - 200 grams artichoke hearts, quartered
+    - 300 grams paella rice (short-grain)
+    - 650 grams chicken broth
+    - 200 grams tomato sauce
+    - 1 onion, finely chopped
+    - 4 cloves garlic, minced
+    - 50 grams peas
+    - 3 grams saffron threads
+    - 2 grams smoked paprika
+    - 25 grams olive oil
+    - Salt and pepper to taste
+    - Fresh parsley, chopped (for garnish)
+    - Lemon wedges (for serving)
 
-3. **Prepare Miso-Glazed Eggplant:**
-   1. In a small bowl, mix together miso paste, mirin, sake, and sugar until well combined.
-   2. Heat the vegetable oil in a large skillet over medium-high heat. Add the eggplant slices and cook until they are soft and beginning to brown.
-   3. Reduce the heat to medium, brush the eggplant slices with the miso mixture, and cook for another 1-2 minutes on each side until the glaze is caramelized.
-   4. Remove from heat and sprinkle with sesame seeds and chopped cilantro.
-
-4. **Prepare Garlic Butter Naan:**
-   1. Preheat the oven to 375°F.
-   2. In a small bowl, mix the melted butter, minced garlic, and salt.
-   3. Place naan bread on a baking sheet. Brush each piece with the garlic butter mixture.
-   4. Bake in the preheated oven for 5-7 minutes until the naan is golden and crispy around the edges.
-   5. Remove from the oven and sprinkle with fresh parsley.
-
-5. **Serve the Japanese Curry:**
-   1. Fluff the cooked jasmine rice with a fork and divide it among serving plates.
-   2. Ladle the Japanese curry next to the rice.
-   3. Arrange the miso-glazed eggplant on the plates.
-   4. Add a piece of garlic butter naan to each plate.
-   5. Serve the meal hot and enjoy your exquisite dinner!
+#### Steps:
+1. **Prepare Instant Pot:**
+    1. Set the Instant Pot to sauté mode and add the olive oil. Once hot, add the diced chicken and chorizo; cook until browned, about 5–7 minutes. Remove and set aside.
+2. **Sauté Vegetables and Rice:**
+    1. In the same Instant Pot, add the onion and garlic, cooking until fragrant and translucent, about 2 minutes.
+    2. Stir in the paella rice, allowing it to toast slightly, about 2 minutes.
+    3. Add the red and green bell peppers, sautéing for another 2 minutes.
+3. **Combine Ingredients:**
+    1. Add the chicken broth, tomato sauce, saffron threads, smoked paprika, and season with salt and pepper.
+    2. Return the browned chicken and chorizo to the pot along with the shrimp, peas, and artichoke hearts. Stir to combine.
+4. **Cook:**
+    1. Secure the Instant Pot lid and set to pressure cook on high for 8 minutes.
+    2. Once the cooking cycle is complete, perform a quick release of the pressure.
+5. **Finish and Serve:**
+    1. Open the lid, fluff the rice gently with a fork, and adjust seasoning if necessary.
+    2. Transfer the paella to a large serving dish.
+    3. Garnish with chopped parsley and serve with lemon wedges on the side.
