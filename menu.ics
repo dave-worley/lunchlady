@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Family Menu//Worley//
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:jpTiYoHThuSv86AZ7d3kI
+SUMMARY:Lunch: Chicken Caesar Wrap: Grilled chicken\, crispy lettuce\, parm
+	esan cheese\, and a light Caesar dressing all wrapped in a soft\, whole gr
+	ain tortilla.
+DTSTAMP:20230710T144539Z
+DTSTART:20230610T160000Z
+DTEND:20230610T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KPnHcUv6E-tYNTfio4oIr
+SUMMARY:Dinner: Chicken Alfredo Pasta: Creamy Alfredo sauce\, grilled chick
+	en\, fettuccine pasta seasoned with garlic\, oregano\, and freshly ground 
+	black pepper.
+DTSTAMP:20230710T144539Z
+DTSTART:20230610T210000Z
+DTEND:20230610T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:D-ADaU64FQD0hyqy8A0x5
+SUMMARY:Breakfast: Avocado Toast with Poached Eggs: Nutritious and healthy 
+	sliced avocado spread on slices of grilled bread\, topped off with perfect
+	ly poached eggs and a dash of red pepper flakes.
+DTSTAMP:20230710T144539Z
+DTSTART:20230611T130000Z
+DTEND:20230611T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:K7cjmO3_R0qsZznENgsQ2
+SUMMARY:Lunch: Ham and Cheese Pinwheels: A kid-friendly lunch with ham and 
+	cheese rolled in a crescent roll dough\, baked till they're hot and gooey.
+DTSTAMP:20230710T144539Z
+DTSTART:20230611T160000Z
+DTEND:20230611T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mz9rE0KZCbuDIkLGseo8g
+SUMMARY:Dinner: Pork and Vegetable Stir Fry with Rice: Sautéed pork strips 
+	with fresh colorful vegetables\, tofu and rice\, flavored with soy sauce\,
+	 garlic\, and ginger.
+DTSTAMP:20230710T144539Z
+DTSTART:20230611T210000Z
+DTEND:20230611T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:b_X3ZKBFlb-7j-sG5XMMz
+SUMMARY:Breakfast: Huevos Rancheros: A hearty Mexican dish featuring sunny 
+	side-up eggs\, fresh salsa\, refried beans\, and cheese\, served on soft t
+	ortillas and garnished with refreshing cilantro.
+DTSTAMP:20230710T144539Z
+DTSTART:20230612T130000Z
+DTEND:20230612T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:o9grBmQ4v9aVKzgi854YD
+SUMMARY:Lunch: Tomato Soup and Grilled Cheese Sandwiches: A classic comfort
+	 food duo\; creamy tomato soup paired with golden\, gooey grilled cheese s
+	andwiches made from whole wheat bread and cheddar cheese.
+DTSTAMP:20230710T144539Z
+DTSTART:20230612T160000Z
+DTEND:20230612T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5tUtq68RiXljOj7xjtq7M
+SUMMARY:Dinner: Chicken Parmesan with Spaghetti: Breaded chicken breast top
+	ped with marinara sauce and cheese\, paired with spaghetti\, seasoned with
+	 fresh basil\, oregano and garlic.
+DTSTAMP:20230710T144539Z
+DTSTART:20230612T210000Z
+DTEND:20230612T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:-aRZYQ_BftSmD6Fo12Jbl
+SUMMARY:Breakfast: Banana Peanut Butter Protein Shake: A creamy blend of ri
+	pe banana\, peanut butter\, milk of your choice\, a tad of honey\, and a s
+	coop of protein powder for an energizing and filling breakfast shake.
+DTSTAMP:20230710T144539Z
+DTSTART:20230613T130000Z
+DTEND:20230613T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:S3K_TAZJAQnYinQ_UKhiZ
+SUMMARY:Lunch: Greek Chicken Pita Pockets: Grilled chicken strips marinated
+	 in a mix of yogurt\, oregano\, lemon\, and garlic\, stuffed in pita bread
+	 with tzatziki sauce\, tomatoes\, cucumbers\, and lettuce.
+DTSTAMP:20230710T144539Z
+DTSTART:20230613T160000Z
+DTEND:20230613T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:PMNdH3vP3FH7AuD8BoZxI
+SUMMARY:Dinner: Takeout Night: A night off cooking\, order in from your fav
+	orite local restaurant!
+DTSTAMP:20230710T144539Z
+DTSTART:20230613T210000Z
+DTEND:20230613T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Mm17njCik8s_2B2UzZLO2
+SUMMARY:Breakfast: French Toast with Cinnamon and Vanilla: Slices of bread 
+	soaked in a flavorful mixture of eggs\, milk\, vanilla\, and cinnamon\, pa
+	n-fried till golden\, and served with a drizzle of maple syrup.
+DTSTAMP:20230710T144539Z
+DTSTART:20230614T130000Z
+DTEND:20230614T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wq6U-qa9BDn8mxzRxyLOj
+SUMMARY:Lunch: Margarita Flatbread Pizza: Easy homemade flatbread topped wi
+	th fresh tomatoes\, mozzarella cheese\, and basil leaves\, drizzled with b
+	alsamic glaze.
+DTSTAMP:20230710T144539Z
+DTSTART:20230614T160000Z
+DTEND:20230614T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:o6QHAImwCFOit2687Ox5a
+SUMMARY:Dinner: Ivan Ramen Styled Ramen: Delicious ramen noodles cooked in 
+	a rich chicken and dashi broth\, garnished with tender slices of chicken\,
+	 a soft-boiled egg\, corn\, and scallions.
+DTSTAMP:20230710T144539Z
+DTSTART:20230614T210000Z
+DTEND:20230614T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:w-IzEj5RXc2st2KqMFpkI
+SUMMARY:Breakfast: Gourmet Breakfast Sandwich: A satisfying sandwich made f
+	rom a toasted English muffin stacked with a layer of fresh avocado\, a fri
+	ed egg\, a slice of sharp cheddar cheese\, and some smoky bacon.
+DTSTAMP:20230710T144539Z
+DTSTART:20230615T130000Z
+DTEND:20230615T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:xzTRb_5tNL5PcmPXbUW-P
+SUMMARY:Lunch: Vegetable Fried Rice: Quick and easy fried rice filled with 
+	vegetables like bell peppers\, peas\, and carrots\, paired with scrambled 
+	eggs and flavored with low-sodium soy sauce.
+DTSTAMP:20230710T144539Z
+DTSTART:20230615T160000Z
+DTEND:20230615T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6OnLOBnCW11fkRNg8i1AJ
+SUMMARY:Dinner: Taco Night with all the Fixings: Fun DIY dinner of tacos fi
+	lled with ground beef cooked in flavorful spices\, accompanied by shredded
+	 lettuce\, diced tomatoes\, cheddar cheese\, sour cream\, guacamole\, and 
+	salsa.
+DTSTAMP:20230710T144539Z
+DTSTART:20230615T210000Z
+DTEND:20230615T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:auUbtGGzOGNXlcqpwJtQe
+SUMMARY:Breakfast: Hawaiian Tropical Smoothie Bowl: A tropical blend of pin
+	eapple\, mango\, and banana topped with granola\, coconut flakes\, and a s
+	prinkle of chia seeds for a vibrant\, energy-boosting breakfast.
+DTSTAMP:20230710T144539Z
+DTSTART:20230616T130000Z
+DTEND:20230616T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:sUiV3x3gpRDBqeQpoST7T
+SUMMARY:Lunch: Turkey Avocado Club Sandwich: A stacked sandwich with layers
+	 of roasted turkey\, ripe avocado\, lettuce\, tomatoes\, and cooked bacon\
+	, sandwiched between slices of whole grain bread with a light mayo spread.
+DTSTAMP:20230710T144539Z
+DTSTART:20230616T160000Z
+DTEND:20230616T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:SU94_L8LLP6YCI8YaCW9M
+SUMMARY:Dinner: Store-bought Chicken Nuggets with Potato Wedges: Store-boug
+	ht\, easy-to-cook chicken nuggets teamed with oven-baked potato wedges\, s
+	easoned with rosemary and sea salt. Served with a selection of dips.
+DTSTAMP:20230710T144539Z
+DTSTART:20230616T210000Z
+DTEND:20230616T220000Z
+END:VEVENT
+END:VCALENDAR

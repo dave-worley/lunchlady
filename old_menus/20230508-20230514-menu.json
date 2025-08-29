@@ -1,0 +1,44 @@
+{
+  "Monday, May 8, 2023": {
+    "Breakfast": "Eggs Basquaise - Soft scrambled eggs with sautéed peppers, onions, and tomatoes, flavored with espelette pepper, served on toasted sourdough.",
+    "Lunch": "Polenta Squares with Provolone and Prosciutto - Pan-fried polenta squares topped with melted provolone cheese and crispy prosciutto, garnished with fresh basil.",
+    "Dinner": "Sous Vide Duck Breast with Cherry Sauce - Perfectly cooked duck breast using a sous vide machine, pan-seared skin and finished with a cherry sauce reduction. Served with roasted Brussels sprouts and potatoes.",
+    "Dessert": "Apple Pie - Store-bought apple pie."
+  },
+  "Tuesday, May 9, 2023": {
+    "Breakfast": "Italian Breakfast Frittata - A frittata filled with mushrooms, red bell peppers, onions, and spinach, mixed with fontina cheese, and cooked in a convection oven.",
+    "Lunch": "Basque Chicken Sandwich - Roasted chicken with caramelized onions, piquillo peppers, and aioli on a crispy French baguette.",
+    "Dinner": "Instant Pot Osso Buco - Tender and flavorful beef shank braised in red wine, orange zest, and a tomato-based sauce, served with creamy polenta.",
+    "Dessert": "Banana Pudding - Store-bought banana pudding."
+  },
+  "Wednesday, May 10, 2023": {
+    "Breakfast": "Spinach and Gruyère Croissant Strata - Buttered croissants layered with baby spinach and Gruyère cheese, soaked in an egg mixture, and baked to golden perfection.",
+    "Lunch": "Spanish Tortilla Sandwich - A hearty sandwich using Spanish omelet slices made from eggs, onions, and potatoes, served on ciabatta bread with tomato and lettuce.",
+    "Dinner": "Wok-Seared Skirt Steak with Chimichurri Sauce - Marinated skirt steak seared in an outdoor wok, served with a zesty chimichurri sauce, and accompanied by grilled vegetables.",
+    "Dessert": "Lemon Bars - Store-bought lemon bars."
+  },
+  "Thursday, May 11, 2023": {
+    "Breakfast": "Piperade Scramble - Scrambled eggs with sautéed onions, red bell pepper, and a hint of smoked paprika, served on buttered toast.",
+    "Lunch": "Chicken Caprese Sandwich - Sliced grilled chicken on a ciabatta bun with fresh mozzarella, sun-dried tomatoes, fresh basil, and balsamic glaze.",
+    "Dinner": "Tarragon Wine-Braised Chicken - Chicken thighs braised in white wine, tarragon, and garlic, served with a side of sautéed green beans and roasted fingerling potatoes.",
+    "Dessert": "Chocolate Cake - Store-bought chocolate cake."
+  },
+  "Friday, May 12, 2023": {
+    "Breakfast": "Monte Cristo Waffles - Savory waffles made with diced ham, melted Swiss cheese, and a hint of Dijon mustard, topped with a fried egg.",
+    "Lunch": "Mediterranean Chicken Wrap - Sliced roast chicken, tomatoes, cucumber, roasted red peppers, and hummus, wrapped in a warm flatbread.",
+    "Dinner": "Ramen - Davey is making ramen!",
+    "Dessert": "Pumpkin Pie - Store-bought pumpkin pie."
+  },
+  "Saturday, May 13, 2023": {
+    "Breakfast": "Euro-American Breakfast Hash - A combination of crispy diced potatoes, bacon, and bell peppers, topped with a fried egg and a dollop of hollandaise sauce.",
+    "Lunch": "Turkey Pesto Ciabatta - Sliced turkey breast, roasted red pepper pesto, and tomato slices on toasted ciabatta bread.",
+    "Dinner": "Sous Vide Pork Tenderloin with Caramelized Onion Gravy - Pork tenderloin cooked in a sous vide machine, finished in a skillet, and covered with a caramelized onion gravy. Served with roasted butternut squash and steamed broccoli.",
+    "Dessert": "Blueberry Muffins - Store-bought blueberry muffins."
+  },
+  "Sunday, May 14, 2023": {
+    "Breakfast": "Western Omelette - A fluffy omelette filled with diced ham, bell peppers, onions, and cheddar cheese, served with a side of whole wheat toast.",
+    "Lunch": "Smoked Turkey & Swiss Cheese Baguette - Hearty baguette filled with smoked turkey slices, Swiss cheese, and crisp lettuce and tomato, drizzled with honey mustard.",
+    "Dinner": "Outdoor Wok Paella - A twist on the traditional Spanish rice dish, cooked in an outdoor wok, with chicken, Spanish chorizo, bell peppers, and peas in saffron-infused chicken broth.",
+    "Dessert": "Vanilla Pound Cake - Store-bought vanilla pound cake."
+  }
+}

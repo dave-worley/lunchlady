@@ -1,0 +1,30 @@
+{
+  "Friday, March 29, 2024": {
+    "Breakfast": "Croque madame with ham, gruyère cheese, and a fried egg, served with a side of mixed greens salad",
+    "Dinner": "Pork schnitzel with potato salad, braised red cabbage, and a side of apple sauce"
+  },
+  "Saturday, March 30, 2024": {
+    "Breakfast": "Cobb salad with mixed greens, hard-boiled eggs, bacon, blue cheese, tomatoes, and avocado, served with a side of buttermilk ranch dressing",
+    "Dinner": "Spaghetti carbonara with pancetta, served with garlic bread and a Caesar salad"
+  },
+  "Sunday, March 31, 2024": {
+    "Breakfast": "Loaded baked potato soup with cheddar cheese, bacon, and green onions, served with a side of garlic bread",
+    "Dinner": "Pork tenderloin with apple chutney, roasted red potatoes, and sautéed spinach"
+  },
+  "Monday, April 1, 2024": {
+    "Breakfast": "Cuban-style eggs Benedict with mojo pork, plantains, and chipotle hollandaise sauce, served with a side of black beans and rice",
+    "Dinner": "Coq au vin with buttered egg noodles, roasted mushrooms, and green beans"
+  },
+  "Tuesday, April 2, 2024": {
+    "Breakfast": "Tomato soup and grilled cheese sandwich bar with assorted breads, cheeses, and spreads",
+    "Dinner": "Beef and bean chili with cornbread, shredded cheese, and sour cream"
+  },
+  "Wednesday, April 3, 2024": {
+    "Breakfast": "Cheeseburger sliders with caramelized onions, served with a side of crispy onion rings and chipotle ketchup",
+    "Dinner": "Cheesy scalloped potatoes with ham, served with a side of steamed green beans"
+  },
+  "Thursday, April 4, 2024": {
+    "Breakfast": "Caprese panini with fresh mozzarella, tomatoes, basil, and balsamic glaze, served with a side of minestrone soup",
+    "Dinner": "Ivan Ramen Style Ramen"
+  }
+}

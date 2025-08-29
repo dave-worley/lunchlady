@@ -1,0 +1,44 @@
+{
+  "Monday, May 1, 2023": {
+    "Breakfast": "Pain Perdu - French-style French toast made with thick slices of brioche soaked in a sweet egg mixture and cooked to golden brown",
+    "Lunch": "Muffuletta Sandwich - Layers of salami, mortadella, provolone cheese, and olive salad on a large round Italian bread",
+    "Dinner": "Rosemary Garlic Roast Chicken - Roasted whole chicken marinated with rosemary, garlic, and olive oil, served with roasted baby potatoes and green beans",
+    "Dessert": "Chocolate Chip Cookies - Store-bought chocolate chip cookies"
+  },
+  "Tuesday, May 2, 2023": {
+    "Breakfast": "Bacon and Egg Empanadas - Flaky pastry filled with scrambled eggs, bacon, and cheese, baked until golden brown",
+    "Lunch": "Serrano Ham and Manchego Panini - Thinly sliced Serrano ham, Manchego cheese, and arugula on a grilled ciabatta roll",
+    "Dinner": "Moussaka - Greek baked dish with layers of eggplant, seasoned ground beef, and béchamel sauce",
+    "Dessert": "Brownies - Store-bought fudge brownies"
+  },
+  "Wednesday, May 3, 2023": {
+    "Breakfast": "Oeufs en Cocotte - Baked eggs with cream, Gruyère cheese, and diced ham, served with toasted baguette",
+    "Lunch": "Catalan Tomato Bread - Rustic bread rubbed with ripe tomatoes, drizzled with olive oil, and topped with Serrano ham",
+    "Dinner": "Paella Valenciana - Saffron-infused rice dish with chicken, rabbit, and a variety of vegetables",
+    "Dessert": "Rice Krispies Treats - Store-bought marshmallow cereal bars"
+  },
+  "Thursday, May 4, 2023": {
+    "Breakfast": "Breakfast Strata - Layered casserole with bread, eggs, cheese, and cooked sausage, baked until golden and puffy",
+    "Lunch": "Panzanella Salad - Tuscan salad with toasted bread, ripe tomatoes, cucumber, red onion, and basil in a red wine vinaigrette",
+    "Dinner": "Chicken Piccata - Pan-fried chicken cutlets with a lemon, caper, and white wine sauce, served over pasta",
+    "Dessert": "Oatmeal Raisin Cookies - Store-bought oatmeal raisin cookies"
+  },
+  "Friday, May 5, 2023": {
+    "Breakfast": "Granola, Fruit, and Nut Parfait - Layers of granola, fresh fruit, and Greek yogurt topped with honey and toasted nuts",
+    "Lunch": "Prosciutto, Brie, and Fig Jam Sandwich - Thinly sliced prosciutto, creamy Brie, and sweet fig jam on a crusty baguette",
+    "Dinner": "Ratatouille - Classic French vegetable dish with eggplant, zucchini, bell peppers, and tomatoes, served with grilled chicken and crusty bread",
+    "Dessert": "Key Lime Pie - Store-bought key lime pie"
+  },
+  "Saturday, May 6, 2023": {
+    "Breakfast": "Avocado Toast with Poached Eggs - Creamy avocado spread on toasted whole-grain bread, topped with poached eggs and a sprinkle of chili flakes",
+    "Lunch": "Tuscan White Bean Soup - Hearty soup with cannellini beans, vegetables, and pancetta, served with crusty bread",
+    "Dinner": "Chicken Marsala - Pan-fried chicken cutlets with a Marsala wine and mushroom sauce, served with garlic mashed potatoes and steamed asparagus",
+    "Dessert": "Ice Cream - Store-bought ice cream"
+  },
+  "Sunday, May 7, 2023": {
+    "Breakfast": "Frittata - Italian-style omelette with spinach, sun-dried tomatoes, and feta cheese",
+    "Lunch": "Bocadillo de Jamón - Spanish-style sandwich with Serrano ham, Manchego cheese, and a drizzle of olive oil on a crusty baguette",
+    "Dinner": "Pastitsio - Greek baked pasta dish with layers of pasta, seasoned ground beef, and béchamel sauce",
+    "Dessert": "Cheesecake - Store-bought plain cheesecake"
+  }
+}

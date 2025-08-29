@@ -1,0 +1,44 @@
+{
+  "Monday, April 24, 2023": {
+    "Breakfast": "Chorizo and Potato Breakfast Tacos - Scrambled eggs, diced chorizo, and potatoes on corn tortillas, topped with salsa and cheese",
+    "Lunch": "French Niçoise Salad - Green beans, boiled eggs, tomatoes, olives, and tuna with a tangy mustard vinaigrette",
+    "Dinner": "Basque Chicken with Peppers - Chicken thighs cooked with bell peppers, tomatoes, and onions in a mildly spicy sauce, served with white rice",
+    "Dessert": "Chocolate Mousse - Rich and creamy chocolate mousse topped with whipped cream and fresh raspberries"
+  },
+  "Tuesday, April 25, 2023": {
+    "Breakfast": "Spanish Tortilla - A traditional Spanish omelette with thinly sliced potatoes and onions",
+    "Lunch": "Beef and Vegetable Stir-Fry - Marinated beef slices with mixed vegetables cooked in a wok, served over rice",
+    "Dinner": "Pressure Cooker Coq au Vin - Classic French dish of chicken cooked in red wine with mushrooms and onions, served with crusty bread",
+    "Dessert": "Tarte Tatin - Caramelized apple tart served with a scoop of vanilla ice cream"
+  },
+  "Wednesday, April 26, 2023": {
+    "Breakfast": "Croissant Breakfast Sandwich - Ham, Swiss cheese, and a fried egg on a freshly baked croissant",
+    "Lunch": "Lentil and Chorizo Soup - Hearty soup made with lentils, chorizo, and vegetables, served with crusty bread",
+    "Dinner": "Sous Vide Pork Chops - Juicy bone-in pork chops cooked sous vide, served with garlic mashed potatoes and steamed green beans",
+    "Dessert": "Basque Burnt Cheesecake - Rustic, caramelized cheesecake with a creamy interior"
+  },
+  "Thursday, April 27, 2023": {
+    "Breakfast": "Quiche Lorraine - Egg, bacon, and Gruyère cheese baked in a flaky pastry crust",
+    "Lunch": "Cuban Sandwich - Layers of roasted pork, ham, Swiss cheese, pickles, and mustard on a pressed roll",
+    "Dinner": "Fideuà - Spanish Noodle Paella with Chicken",
+    "Dessert": "Churros with Chocolate Sauce - Crispy fried dough sticks coated in cinnamon sugar, served with warm chocolate dipping sauce"
+  },
+  "Friday, April 28, 2023": {
+    "Breakfast": "Huevos Rancheros - Fried eggs served on corn tortillas, topped with salsa, avocado, and refried beans",
+    "Lunch": "Grilled Chicken Caesar Salad - Romaine lettuce, grilled chicken, Parmesan cheese, and croutons with a creamy Caesar dressing",
+    "Dinner": "Beef Bourguignon - Slow-cooked beef in red wine, with carrots, onions, and mushrooms, served over egg noodles",
+    "Dessert": "Crème Brûlée - Rich custard topped with a layer of caramelized sugar"
+  },
+  "Saturday, April 29, 2023": {
+    "Breakfast": "Eggs Benedict - Poached eggs and Canadian bacon on English muffins, topped with hollandaise sauce",
+    "Lunch": "Shakshuka - Spicy tomato and pepper sauce with poached eggs, topped with crumbled feta cheese and fresh cilantro",
+    "Dinner": "Chicken Basquaise - Chicken thighs simmered in a flavorful tomato and pepper sauce with a hint of white wine, served with rice or crusty bread",
+    "Dessert": "Chocolate Fondant - Warm chocolate cake with a gooey center, served with a scoop of vanilla ice cream"
+  },
+  "Sunday, April 30, 2023": {
+    "Breakfast": "Belgian Waffles - Light and crispy waffles served with whipped cream, fresh berries, and maple syrup",
+    "Lunch": "Chicken Shawarma Wrap - Marinated and grilled chicken in a wrap with garlic sauce, tomatoes, and lettuce",
+    "Dinner": "Greek Lemon Chicken and Potatoes - Marinated and roasted chicken with lemon, garlic, and oregano, served alongside tender roasted potatoes and a side of Greek salad.",
+    "Dessert": "Lemon Meringue Pie - Tangy lemon filling in a flaky crust, topped with a fluffy meringue"
+  }
+}

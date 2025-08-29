@@ -1,0 +1,46 @@
+
+
+{
+  "Monday, March 20, 2023": {
+    "Breakfast": "Egg and cheese breakfast sandwich",
+    "Lunch": "Turkey and avocado wrap with side salad",
+    "Dinner": "Baked chicken with roasted vegetables and quinoa",
+    "Snack Plate": "Apple slices with almond butter, cheese cubes, and whole grain crackers"
+  },
+  "Tuesday, March 21, 2023": {
+    "Breakfast": "Greek yogurt with mixed berries and granola",
+    "Lunch": "Veggie and hummus sandwich with carrot sticks",
+    "Dinner": "Beef stir fry with brown rice",
+    "Snack Plate": "Celery with peanut butter, grapes, and cashews"
+  },
+  "Wednesday, March 22, 2023": {
+    "Breakfast": "Oatmeal with banana and cinnamon",
+    "Lunch": "Chicken Caesar salad with whole grain croutons",
+    "Dinner": "Vegetable lasagna with garlic bread",
+    "Snack Plate": "Baby carrots with ranch dressing, strawberries, and dark chocolate chips"
+  },
+  "Thursday, March 23, 2023": {
+    "Breakfast": "Scrambled eggs with spinach and whole wheat toast",
+    "Lunch": "Tuna salad on whole grain crackers with cucumber slices",
+    "Dinner": "Salmon with roasted asparagus and quinoa",
+    "Snack Plate": "Cherry tomatoes with mozzarella cheese, apple slices, and walnuts"
+  },
+  "Friday, March 24, 2023": {
+    "Breakfast": "Pancakes with fresh berries and maple syrup",
+    "Lunch": "Grilled cheese and tomato soup",
+    "Dinner": "Grilled pork chops with sweet potato wedges and green beans",
+    "Snack Plate": "Trail mix with dried fruit and mixed nuts"
+  },
+  "Saturday, March 25, 2023": {
+    "Breakfast": "Bagel with cream cheese and smoked salmon",
+    "Lunch": "BBQ pulled chicken sandwich with coleslaw",
+    "Dinner": "Beef and broccoli stir fry with brown rice",
+    "Snack Plate": "Cucumber slices with tzatziki sauce, grapes, and pistachios"
+  },
+  "Sunday, March 26, 2023": {
+    "Breakfast": "Breakfast burrito with scrambled eggs, black beans, and avocado",
+    "Lunch": "Caprese salad with whole grain bread",
+    "Dinner": "Roasted chicken with roasted potatoes and green beans",
+    "Snack Plate": "Bell pepper slices with hummus, sliced kiwi, and dark chocolate squares"
+  }
+}

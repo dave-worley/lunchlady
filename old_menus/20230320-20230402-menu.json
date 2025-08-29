@@ -1,0 +1,88 @@
+
+
+{
+  "Monday, March 20, 2023": {
+    "Breakfast": "Banana Nut Muffin Oatmeal - Oatmeal with mashed banana, chopped walnuts, and a sprinkle of cinnamon",
+    "Lunch": "Caprese Salad - Fresh tomato, mozzarella, and basil with a balsamic glaze drizzle",
+    "Dinner": "Beef Stir Fry - Marinated beef with carrots, bell peppers, and broccoli served over rice",
+    "Snack Plate": "Fruit salad (sweet), Trail mix (savory), Baby carrots with ranch dressing (healthy)"
+  },
+  "Tuesday, March 21, 2023": {
+    "Breakfast": "Spinach and Mushroom Omelette - Fluffy omelette with sautéed spinach and mushrooms",
+    "Lunch": "Sweet Potato and Black Bean Quesadilla - Flour tortilla filled with mashed sweet potato, black beans, and shredded cheese",
+    "Dinner": "Italian Meatballs - Homemade meatballs with marinara sauce served over spaghetti",
+    "Snack Plate": "Apple slices with caramel sauce (sweet), Popcorn (savory), Cherry tomatoes with mozzarella balls (healthy)"
+  },
+  "Wednesday, March 22, 2023": {
+    "Breakfast": "Yogurt Parfait - Layers of vanilla yogurt, mixed berries, and granola",
+    "Lunch": "Chicken Caesar Salad - Grilled chicken over a bed of Romaine lettuce with Caesar dressing and croutons",
+    "Dinner": "BBQ Pulled Pork - Slow-cooked pork shoulder with homemade BBQ sauce served on a bun",
+    "Snack Plate": "Graham crackers with peanut butter (sweet), Pretzel sticks (savory), Sliced cucumber with a side of tzatziki sauce for dipping (healthy)"
+  },
+  "Thursday, March 23, 2023": {
+    "Breakfast": "Peanut Butter Banana Smoothie - Frozen banana blended with peanut butter, yogurt, and almond milk",
+    "Lunch": "Caprese Grilled Cheese - Grilled cheese sandwich with fresh tomato, mozzarella, and basil",
+    "Dinner": "Spinach and Feta Stuffed Chicken - Chicken breast stuffed with sautéed spinach and feta cheese",
+    "Snack Plate": "Grapes and cheese (sweet), Roasted nuts (savory), Sliced bell peppers with a side of ranch dressing for dipping (healthy)"
+  },
+  "Friday, March 24, 2023": {
+    "Breakfast": "Bagel and Cream Cheese - Whole grain bagel with low-fat cream cheese and sliced tomato",
+    "Lunch": "Tuna Salad Sandwich - Homemade tuna salad on whole wheat bread",
+    "Dinner": "Vegetable Lasagne - Layers of pasta, marinara sauce, and sautéed vegetables like spinach, zucchini, and bell peppers",
+    "Snack Plate": "Chocolate covered strawberries (sweet), Rice cakes (savory), Sliced pears with a side of almond butter for dipping (healthy)"
+  },
+  "Saturday, March 25, 2023": {
+    "Breakfast": "Breakfast Burrito - Scrambled eggs with sautéed pepper and onion, wrapped in a tortilla",
+    "Lunch": "Grilled Chicken Salad - Grilled chicken with mixed greens, cherry tomatoes, and croutons",
+    "Dinner": "Beef and Broccoli - Sirloin steak with broccoli and stir-fry sauce served over rice",
+    "Snack Plate": "Orange slices (sweet), Veggie straws (savory), Greek yogurt with honey and chopped nuts (healthy)"
+  },
+  "Sunday, March 26, 2023": {
+    "Breakfast": "Pancakes with Blueberry Sauce - Fluffy pancakes with a homemade blueberry sauce",
+    "Lunch": "Tomato Soup and Grilled Cheese - Creamy tomato soup with a classic grilled cheese sandwich",
+    "Dinner": "Chicken Alfredo - Grilled chicken with fettuccine pasta and creamy Alfredo sauce",
+    "Snack Plate": "Apples with nut butter and chocolate chips (sweet), Baked kale chips (savory), Mixed berries (healthy)"
+  },
+  "Monday, March 27, 2023": {
+    "Breakfast": "Fruit and Yogurt Parfait - Layers of yogurt, granola, and mixed fruit",
+    "Lunch": "Veggie Wrap - Flour tortilla filled with hummus and chopped vegetables like avocado, cucumber, and bell pepper",
+    "Dinner": "Lemon Garlic Shrimp - Shrimp with a lemon garlic sauce served with roasted vegetables like asparagus and zucchini",
+    "Snack Plate": "Honeydew melon with prosciutto (sweet), Baked sweet potato chips (savory), Carrot sticks with a side of hummus for dipping (healthy)"
+  },
+  "Tuesday, March 28, 2023": {
+    "Breakfast": "French Toast - Classic French toast with powdered sugar and a side of fresh berries",
+    "Lunch": "Turkey and Cheese Sandwich - Thinly sliced turkey and cheddar cheese on whole wheat bread",
+    "Dinner": "Chicken Fajitas - Grilled chicken with bell peppers and onions, served with tortillas and toppings like salsa and sour cream",
+    "Snack Plate": "Mixed fruit cup (sweet), Popcorn seasoned with nutritional yeast (savory), Cucumber slices with a side of Greek yogurt dip (healthy)"
+  },
+  "Wednesday, March 29, 2023": {
+    "Breakfast": "Egg and Veggie Wrap - Scrambled eggs with sautéed spinach, onion, and mushrooms, served in a wrap",
+    "Lunch": "Grilled Cheese and Tomato Soup - Classic grilled cheese with a side of creamy tomato soup",
+    "Dinner": "Pork Chops with Apples and Onions - Pork chops with sautéed apples and onions, served with a side of roasted sweet potatoes",
+    "Snack Plate": "Pineapple chunks with whipped cream (sweet), Baked tortilla chips with salsa (savory), Frozen grapes (healthy)"
+  },
+  "Thursday, March 30, 2023": {
+    "Breakfast": "Protein Smoothie Bowl - Smoothie bowl with banana, peanut butter, Greek yogurt, and granola",
+    "Lunch": "Chicken Salad Lettuce Wraps - Homemade chicken salad with chopped celery and carrots, served in lettuce cups",
+    "Dinner": "Beef and Black Bean Chili - Hearty chili with ground beef, black beans, and chopped vegetables like onion and bell pepper",
+    "Snack Plate": "Strawberry banana smoothie (sweet), Pretzel crisps (savory), Carrot sticks with hummus (healthy)"
+  },
+  "Friday, March 31, 2023": {
+    "Breakfast": "Yogurt with Berries and Granola - Greek yogurt with mixed berries and granola topping",
+    "Lunch": "California Turkey Club Wrap - Flour tortilla filled with turkey, avocado, bacon, lettuce, tomato, and mayo",
+    "Dinner": "Shepherd's Pie - Ground beef with mixed vegetables like peas and carrots, topped with mashed potatoes",
+    "Snack Plate": "Strawberries with chocolate hazelnut spread (sweet), Cheddar popcorn (savory), Celery sticks with peanut butter (healthy)"
+  },
+  "Saturday, April 1, 2023": {
+    "Breakfast": "Breakfast Bowl - Scrambled eggs with sautéed mushrooms, spinach, and sweet potato chunks",
+    "Lunch": "Roast Beef Sandwich - Thinly sliced roast beef on whole wheat bread with horseradish sauce and sliced red onion",
+    "Dinner": "Meatless Zucchini Lasagna - Layers of pasta with sliced zucchini, ricotta cheese, and tomato sauce",
+    "Snack Plate": "Banana with dark chocolate chips (sweet), Roasted chickpeas (savory), Sliced pear with a side of cottage cheese (healthy)"
+  },
+  "Sunday, April 2, 2023": {
+    "Breakfast": "Pumpkin Spice Waffles - Waffles with a pumpkin spice twist, topped with whipped cream and chopped nuts",
+    "Lunch": "BLT Salad - Romaine lettuce with chopped bacon, tomato, and diced avocado",
+    "Dinner": "Homemade Pizza - Make-your-own pizza with toppings like pepperoni, bell peppers, and onions",
+    "Snack Plate": "Fruit skewers (sweet), Baked cheese crackers (savory), Bell pepper slices with a side of guacamole for dipping (healthy)"
+  }
+}
