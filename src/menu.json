@@ -1,0 +1,42 @@
+{
+  "week_1": {
+    "breakfast": [
+      "Tomato and Fried Egg Tartine — sliced peaches; cottage cheese with black pepper.",
+      "Blueberry Buttermilk Pancakes — crisp bacon; vanilla yogurt.",
+      "Summer Tomato Breakfast BLT — kettle chips; melon wedges.",
+      "Vanilla Yogurt with Granola and Berries — hard-boiled eggs; buttered toast.",
+      "Croque Madame Toast — simple green salad with Dijon vinaigrette; grapes.",
+      "Soft Scrambled Eggs with Boursin — roasted breakfast potatoes; orange slices.",
+      "Molletes — avocado-lime salad; pineapple wedges."
+    ],
+    "dinner": [
+      "Grilled Chicken Sandwiches — Basil mayo, grilled corn on the cob with chili butter, watermelon–feta salad.",
+      "Chicken Tostadas — Avocado crema, charred zucchini with cotija, mango–jicama salad.",
+      "Pasta Salad with Chicken and Mozzarella — Red-wine oregano vinaigrette, garlic flatbread, marinated artichoke and roasted pepper plate.",
+      "Steak Dinner — Chimichurri, roasted sweet-potato wedges, heirloom tomato and blue-cheese salad.",
+      "Cheeseburgers — House burger sauce, kettle chips, dill pickle spears, sliced tomato and onion plate.",
+      "Hot Dog and Chili Night — Sharp cheddar and onion topping, baked beans, celery sticks with ranch.",
+      "Summer Pasta — Fresh tomato and vegetable sauce, basil-parmesan finish, garlic green beans, romaine hearts with creamy Italian dressing."
+    ]
+  },
+  "week_2": {
+    "breakfast": [
+      "Black Bean Breakfast Burritos — pico de gallo; tortilla chips.",
+      "Chicken Caesar Wraps — pickle spear; strawberries.",
+      "Cobb Breakfast Plate — toasted roll; cucumber-tomato salad.",
+      "Peanut Butter Banana Toast — Greek yogurt; apple slices.",
+      "Grilled Cheese with Tomato Soup — celery sticks with ranch; fruit cup.",
+      "Chicken Sausage Sweet-Potato Hash — fried egg; sautéed spinach.",
+      "Chicken Salad Toasts — carrot sticks; potato chips."
+    ],
+    "dinner": [
+      "BBQ Chicken Drumsticks — Smoky barbecue glaze, skillet mac and cheese, pineapple-cucumber salad.",
+      "Sheet Pan Sausage and Peppers — Grain-mustard drizzle, toasted hoagie rolls, white bean and parsley salad.",
+      "Chicken Parmesan — Store-bought jarred marinara, buttered spaghetti, roasted broccoli with garlic crumbs.",
+      "Beef Fried Rice — Soy-scallion sauce, sesame snap peas, orange wedges.",
+      "Cuban Style Roast Pork — Mojo sauce, black beans and rice, avocado–radish salad.",
+      "Summer Vegetable Lasagna — Ricotta-herb topping, focaccia, spinach salad with balsamic strawberries.",
+      "Spaghetti and Meatballs — Store-bought jarred tomato sauce, parmesan garlic knots, roasted eggplant with parsley."
+    ]
+  }
+}

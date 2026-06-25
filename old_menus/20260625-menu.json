@@ -1,0 +1,42 @@
+{
+  "week_1": {
+    "breakfast": [
+      "Yogurt with Strawberries and Toasted Almonds — honey; hard-boiled eggs.",
+      "Egg and American Cheese English Muffins — pan-crisped potatoes; grapes.",
+      "Chicken Caesar Salad — jewel lettuce instead of romaine; tomato slices; fruit cup.",
+      "French Toast with Berry Compote — crisp bacon; yogurt.",
+      "Tomato Soup with Grilled Cheese (Gruyère) Sandwiches — simple greens with Dijon vinaigrette.",
+      "Scrambled Eggs with Toast Soldiers — tomato slices; cheddar cubes.",
+      "Breakfast Potatoes with Leeks and Bacon — fried eggs; orange slices."
+    ],
+    "dinner": [
+      "Chicken Sausage Sheet Pan — asparagus, red onion, baby potatoes.",
+      "Steak Frites, Weeknight Version — quick pan steak; oven fries; little gem salad.",
+      "Rigatoni with Sausage, Spinach, and Mushrooms — romaine salad; garlic bread.",
+      "Chicken and Mushroom Cream Skillet — egg noodles; roasted asparagus.",
+      "Chicken Fried Rice — peas, corn, carrots, eggs, scallions.",
+      "Deli Sandwiches — potato salad, deviled eggs.",
+      "Chicken Burritos — rice, beans, sautéed peppers, cheese."
+    ]
+  },
+  "week_2": {
+    "breakfast": [
+      "Turkey and Brie Wraps — fruit salad.",
+      "Huevos Rancheros — beans; tortillas; avocado.",
+      "Breakfast Rice Bowls — eggs, scallions, ham, hot sauce.",
+      "Egg and Cheese Bagels — bacon; fruit cup.",
+      "Chicken Caesar Wraps — kettle chips; pickle spear.",
+      "Cobb Breakfast Plate — grilled chicken, egg, bacon, avocado; roll.",
+      "Waffles with Maple Butter Sauce — sausage links."
+    ],
+    "dinner": [
+      "Chicken Alfredo Pasta — roasted broccoli.",
+      "Grilled Cheese and Tomato Soup — cucumber salad.",
+      "Cheeseburgers — oven fries; pickles; tomato slices.",
+      "Sheet-Pan Drumsticks — roasted potatoes; broccoli.",
+      "Chicken Tinga Tostadas — refried beans; crema; pickled red onions.",
+      "Beef and Broccoli Skillet — jasmine rice; sesame cucumbers.",
+      "Baked Ziti — garlic toast; chopped romaine salad."
+    ]
+  }
+}

@@ -37,7 +37,7 @@ Meals should serve four people. Avoid service instruction and notes about how ma
 
     try:
         response = client.chat.completions.create(
-            model="gpt-5.2",
+            model="gpt-5.4",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
