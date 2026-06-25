@@ -36,14 +36,13 @@ Meals should serve four people. Avoid service instruction and notes about how ma
     user_prompt = dish_name
 
     try:
-        response = client.chat.completions.create(
-            model="gpt-5.4",
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ]
+        response = client.responses.create(
+            model="gpt-5.5",
+            reasoning={"effort": "high"},
+            instructions=system_prompt,
+            input=user_prompt
         )
-        return response.choices[0].message.content
+        return response.output_text
     except Exception as e:
         print(f"Error generating recipe for {dish_name}: {e}")
         return f"#### {dish_name}\n*Recipe generation failed: {e}*\n"

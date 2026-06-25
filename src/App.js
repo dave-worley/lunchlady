@@ -47,11 +47,12 @@ const MenuCard = ({
 
   return (
     <Grid
-      item
-      xs={12}
-      sm={6}
-      md={4}
-      lg={3}
+      size={{
+        xs: 12,
+        sm: 6,
+        md: 4,
+        lg: 3,
+      }}
     >
       <Paper
         elevation={3}
@@ -66,8 +67,10 @@ const MenuCard = ({
       >
         <Typography
           variant="h5"
-          fontWeight={fontWeight}
-          fontSize={fontSize}
+          sx={{
+            fontWeight,
+            fontSize,
+          }}
         >
           {format(
             date,
@@ -82,7 +85,7 @@ const MenuCard = ({
             return (
               <Typography
                 key={meal}
-                marginBottom={1}
+                sx={{ marginBottom: 1 }}
               >
                 <strong>{meal}:</strong><br/>{description}
               </Typography>

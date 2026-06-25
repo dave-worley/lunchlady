@@ -1,7 +1,4 @@
-const {
-  Configuration,
-  OpenAIApi,
-} = require('openai')
+const OpenAI = require('openai')
 const fs = require('fs')
 require('dotenv')
   .config()
@@ -9,10 +6,9 @@ const personality = require('./system')
 
 const menu = require('./menu.json')
 
-const configuration = new Configuration({
+const openai = new OpenAI({
   apiKey: process.env.OPENAI_KEY,
 })
-const openai = new OpenAIApi(configuration)
 
 const generateShoppingList = async (menu) => {
   const menuString = JSON.stringify(
@@ -40,7 +36,7 @@ const generateShoppingList = async (menu) => {
   `
 
   try {
-    openai.createChatCompletion({
+    openai.chat.completions.create({
       model: 'gpt-3.5-turbo',
       messages: [
         {
@@ -55,7 +51,7 @@ const generateShoppingList = async (menu) => {
       temperature: 0.8,
     })
       .then((response) => {
-        const shoppingListJSON = response.data.choices[0].message.content
+        const shoppingListJSON = response.choices[0].message.content
         fs.writeFileSync(
           'src/shoppingList.json',
           shoppingListJSON,

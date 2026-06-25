@@ -1,7 +1,4 @@
-const {
-  Configuration,
-  OpenAIApi,
-} = require('openai')
+const OpenAI = require('openai')
 const fs = require('fs')
 require('dotenv')
   .config()
@@ -37,14 +34,13 @@ prompt += 'the date is ' + new Date() + '. Start from tomorrow. Please only resp
 
 console.log('Generating a new menu.')
 
-const configuration = new Configuration({
+const openai = new OpenAI({
   apiKey: process.env.OPENAI_KEY,
 })
-const openai = new OpenAIApi(configuration)
 
 
 try {
-  openai.createChatCompletion({
+  openai.chat.completions.create({
     model: 'gpt-4',
     temperature: 0.8,
     messages: [
@@ -63,8 +59,8 @@ try {
     ],
   })
     .then((completion) => {
-      console.log(completion.data.choices[0].message)
-      const menuJSON = completion.data.choices[0].message.content
+      console.log(completion.choices[0].message)
+      const menuJSON = completion.choices[0].message.content
       console.log(menuJSON)
       fs.writeFileSync(
         'src/menu.json',

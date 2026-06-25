@@ -16,7 +16,7 @@ const ShoppingList = ({ list }) => {
 
   return (
     <Box>
-      <Typography variant="h6" marginBottom={2}>
+      <Typography variant="h6" sx={{ marginBottom: 2 }}>
         Items to Buy
       </Typography>
       {Object.entries(list).map(([section, items]) => (
@@ -40,7 +40,7 @@ const ShoppingList = ({ list }) => {
           </TransitionGroup>
         </Box>
       ))}
-      <Typography variant="h6" marginTop={4} marginBottom={2}>
+      <Typography variant="h6" sx={{ marginTop: 4, marginBottom: 2 }}>
         Items in Stock
       </Typography>
       {Object.entries(list).map(([section, items]) => (

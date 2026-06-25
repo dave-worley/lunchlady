@@ -4,1266 +4,1716 @@
 
 ### Breakfast
 
-#### Yogurt with Strawberries, Toasted Almonds, Honey, and Hard-Boiled Eggs
+#### Tomato and Fried Egg Tartine
+
+Ingredients
+
+- Country sourdough bread, 320 g, cut into 80 g slices
+- Ripe tomatoes, 600 g, sliced
+- Large eggs, 200 g total without shells
+- Mayonnaise, 80 g
+- Dijon mustard, 12 g
+- Lemon juice, 18 g
+- Garlic, 6 g, finely grated
+- Fresh basil, 18 g, torn
+- Fresh chives, 10 g, sliced
+- Extra-virgin olive oil, 45 g
+- Unsalted butter, 25 g
+- Kosher salt, 10 g
+- Black pepper, 4 g
+- Smoked paprika, 1 g
+- Crushed red pepper, 1 g
+
+Sliced peaches
+
+- Ripe peaches, 600 g, sliced
+- Lemon juice, 12 g
+- Fresh mint, 8 g, torn
+- Flaky salt, 2 g
+- Black pepper, 1 g
+
+Cottage cheese with black pepper
+
+- Whole-milk cottage cheese, 500 g
+- Black pepper, 3 g
+- Chives, 6 g, sliced
+- Extra-virgin olive oil, 12 g
+- Lemon zest, 2 g
+- Kosher salt, 2 g
+
+Steps
+
+1. Combine mayonnaise, Dijon mustard, lemon juice, garlic, smoked paprika, crushed red pepper, 2 g salt, and 1 g black pepper.
+2. Season tomatoes with 4 g salt, 2 g black pepper, 20 g olive oil, basil, and chives. Let stand for 10 minutes.
+3. Brush bread with 20 g olive oil and toast in a 425°F oven until crisp and golden, 8–10 minutes.
+4. Heat butter and remaining 5 g olive oil in a skillet over medium heat. Fry eggs until whites are set and yolks remain soft; season with remaining salt and pepper.
+5. Spread seasoned mayonnaise over toasted bread. Layer with tomatoes and top each tartine with a fried egg.
+6. Toss peaches with lemon juice, mint, flaky salt, and black pepper.
+7. Stir cottage cheese with black pepper, chives, olive oil, lemon zest, and salt.
+8. Serve tartines with sliced peaches and cottage cheese.
+
+#### Blueberry Buttermilk Pancakes
 
 **Ingredients**
-- 800 g plain Greek yogurt
-- 400 g strawberries, hulled and sliced
-- 80 g whole almonds
-- 40 g honey
-- 8 large eggs
-- 12 g flaky sea salt
-- 2 g ground black pepper
+
+- All-purpose flour — 260 g
+- Granulated sugar — 35 g
+- Baking powder — 14 g
+- Baking soda — 3 g
+- Fine sea salt — 6 g
+- Ground cinnamon — 1 g
+- Buttermilk — 480 g
+- Eggs, beaten — 100 g
+- Unsalted butter, melted — 70 g
+- Vanilla extract — 6 g
+- Lemon zest — 3 g
+- Blueberries — 220 g
+- Neutral oil or clarified butter, for griddle — 25 g
+- Maple syrup — 160 g
+- Bacon — 360 g
+- Vanilla Greek yogurt — 320 g
+- Honey — 30 g
+- Fine sea salt — 1 g
 
 **Steps**
-1. Place the eggs in a saucepan, cover with water, and bring to a boil over medium-high heat. Once boiling, cook for 10 minutes.
-2. Transfer the eggs to ice water and chill for 5 minutes. Peel and season with 8 g sea salt and the black pepper.
-3. Toast the almonds in a dry skillet over medium heat for 3 to 4 minutes, stirring often, until golden and fragrant. Cool slightly, then roughly chop.
-4. Divide the yogurt among 4 bowls. Top with the strawberries, toasted almonds, and honey.
-5. Sprinkle the remaining 4 g flaky sea salt lightly over the yogurt and strawberries to heighten flavor.
-6. Serve the hard-boiled eggs alongside.
 
-#### Egg and American Cheese English Muffins
+1. Heat oven to 400°F. Arrange bacon on a parchment-lined sheet pan and bake 16–22 minutes, turning once, until deeply browned and crisp. Drain on paper towels.
+2. Whisk flour, sugar, baking powder, baking soda, salt, and cinnamon in a bowl.
+3. Whisk buttermilk, eggs, melted butter, vanilla extract, and lemon zest in a second bowl.
+4. Fold wet ingredients into dry ingredients until just combined; leave small lumps. Fold in blueberries gently.
+5. Rest batter for 10 minutes.
+6. Mix vanilla Greek yogurt with honey and 1 g salt until smooth. Chill until needed.
+7. Heat a griddle or skillet to 375°F. Lightly coat with neutral oil or clarified butter.
+8. Cook pancakes in portions, using about 90 g batter each. Cook 2–3 minutes, until bubbles form and edges set.
+9. Flip and cook 1–2 minutes more, until golden and cooked through.
+10. Serve pancakes with crisp bacon, salted honey-vanilla yogurt, and maple syrup.
+
+#### Summer Tomato Breakfast BLT
 
 **Ingredients**
-- 4 English muffins, split
-- 8 large eggs, 400 g
-- American cheese, 8 slices, 160 g
-- Unsalted butter, 40 g
-- Whole milk, 30 g
-- Fine sea salt, 8 g
-- Black pepper, 2 g
-- Chives, finely sliced, 8 g
-- Garlic powder, 2 g
+
+- Thick-cut bacon, 450 g
+- Sourdough bread, 360 g, sliced into 8 pieces
+- Large eggs, 400 g, about 8 eggs
+- Unsalted butter, 30 g
+- Heirloom tomatoes, 600 g, thick sliced
+- Romaine or butter lettuce, 120 g
+- Mayonnaise, 120 g
+- Dijon mustard, 18 g
+- Lemon juice, 12 g
+- Chives, 10 g, finely chopped
+- Basil, 8 g, thinly sliced
 - Smoked paprika, 2 g
+- Garlic powder, 1 g
+- Kosher salt, 8 g, divided
+- Black pepper, 3 g, divided
+- Kettle chips, 160 g
+- Cantaloupe or watermelon wedges, 800 g
+- Fresh mint, 8 g, torn
+- Lime zest, 2 g
+- Aleppo pepper, 1 g
 
-For the pan-crisped potatoes:
-- Yukon Gold potatoes, 800 g
-- Neutral oil, 40 g
-- Unsalted butter, 20 g
-- Fine sea salt, 8 g
+**Steps**
+
+1. Heat oven to 400°F. Arrange bacon on a parchment-lined sheet pan and bake until crisp, 18–24 minutes. Drain well.
+2. Stir mayonnaise, Dijon, lemon juice, chives, basil, smoked paprika, garlic powder, 2 g salt, and 1 g black pepper until smooth.
+3. Season tomato slices with 4 g salt and 1 g black pepper. Let stand 10 minutes.
+4. Toast sourdough until crisp and golden.
+5. Melt butter in a nonstick skillet over medium heat. Fry eggs to desired doneness, seasoning with remaining 2 g salt and 1 g black pepper.
+6. Spread herb mayo on each toast slice. Layer lettuce, tomatoes, bacon, and eggs; close sandwiches.
+7. Season melon wedges with mint, lime zest, Aleppo pepper, and a pinch of salt from the measured amount if desired. Serve with kettle chips.
+
+#### Vanilla Yogurt with Granola and Berries
+
+**Ingredients**
+
+- **Vanilla yogurt:** Greek yogurt, 800 g
+- Honey, 60 g
+- Vanilla bean paste, 10 g
+- Lemon zest, 4 g
+- Fine sea salt, 2 g
+- Ground cardamom, 1 g
+- **Granola:** rolled oats, 180 g
+- Sliced almonds, 70 g
+- Pumpkin seeds, 40 g
+- Unsweetened coconut flakes, 35 g
+- Maple syrup, 75 g
+- Neutral oil, 35 g
+- Light brown sugar, 30 g
+- Ground cinnamon, 3 g
+- Ground ginger, 1 g
+- Fine sea salt, 3 g
+- **Berries:** mixed berries, 520 g
+- Lemon juice, 20 g
+- Fresh mint, finely sliced, 8 g
+- **Hard-boiled eggs:** large eggs, 500 g in shell
+- Water, 2500 g
+- Kosher salt, 18 g
+- Ice, 600 g
 - Black pepper, 2 g
-- Garlic powder, 3 g
-- Onion powder, 3 g
-- Smoked paprika, 3 g
-- Fresh rosemary, finely chopped, 4 g
-- Fresh thyme leaves, 4 g
-
-For the grapes:
-- Red or green grapes, 500 g
-
-**Steps**
-1. Cut the potatoes into 1.5 cm cubes. Place in salted water, bring to a boil, and cook until just tender, 8–10 minutes. Drain well and let steam dry for 5 minutes.
-2. Heat a large skillet over medium-high heat. Add the oil and butter, then add the potatoes in a single layer. Season with salt, black pepper, garlic powder, onion powder, smoked paprika, rosemary, and thyme. Cook, turning occasionally, until deeply golden and crisp, 12–15 minutes.
-3. Split and lightly butter the English muffins with 20 g of the butter. Toast cut-side down in a skillet or on a griddle over medium heat until golden.
-4. Crack the eggs into a bowl and whisk with the milk, 4 g salt, black pepper, garlic powder, smoked paprika, and chives.
-5. Melt the remaining 20 g butter in a nonstick skillet over medium-low heat. Add the eggs and cook gently, stirring with a spatula, until softly set. Divide into 4 portions and top each portion with 2 slices of American cheese. Cover briefly to melt.
-6. Fill each toasted English muffin with one portion of cheesy eggs.
-7. Rinse and dry the grapes. Serve alongside the egg and American cheese English muffins with the pan-crisped potatoes.
-
-#### Chicken Caesar Salad
-
-**Ingredients**
-- 680 g boneless skinless chicken breasts
-- 12 g kosher salt, divided
-- 4 g freshly ground black pepper, divided
-- 3 g garlic powder
-- 2 g onion powder
-- 2 g dried oregano
-- 30 g olive oil
-- 320 g jewel lettuce, leaves separated and dried
-- 240 g tomato slices
-- 180 g Caesar dressing, store-bought
-- 80 g Parmesan, finely grated
-- 120 g croutons
-- 15 g lemon juice
-
-**Steps**
-1. Heat the oven to 425°F.
-2. Pat the chicken dry. Season with 8 g salt, 3 g black pepper, garlic powder, onion powder, and oregano. Rub with the olive oil.
-3. Roast the chicken on a sheet pan until the thickest part reaches 165°F, 18–24 minutes. Rest 5 minutes, then slice.
-4. Toss the jewel lettuce with the Caesar dressing, lemon juice, remaining 4 g salt, and remaining 1 g black pepper.
-5. Divide the dressed lettuce among plates. Top with sliced chicken, tomato slices, Parmesan, and croutons.
-
-Fruit cup:
-**Ingredients**
-- 200 g strawberries, hulled and halved
-- 200 g pineapple, diced
-- 180 g seedless grapes
-- 160 g blueberries
-- 120 g cantaloupe, diced
-- 8 g mint, finely sliced
-- 12 g honey
-- 10 g lime juice
-
-**Steps**
-1. Combine the strawberries, pineapple, grapes, blueberries, and cantaloupe.
-2. Toss with the mint, honey, and lime juice.
-3. Chill until ready to serve.
-
-#### French Toast with Berry Compote, Crisp Bacon, and Yogurt
-
-**Ingredients**
-- **French toast**
-  - 8 thick slices brioche, 400 g
-  - 4 large eggs, 200 g
-  - whole milk, 240 g
-  - heavy cream, 80 g
-  - light brown sugar, 30 g
-  - vanilla extract, 8 g
-  - ground cinnamon, 4 g
-  - fine sea salt, 3 g
-  - unsalted butter, 40 g
-
-- **Berry compote**
-  - mixed berries, fresh or frozen, 400 g
-  - sugar, 60 g
-  - lemon juice, 20 g
-  - lemon zest, 4 g
-  - vanilla extract, 4 g
-  - fine sea salt, 1 g
-
-- **Crisp bacon**
-  - thick-cut bacon, 300 g
-  - cracked black pepper, 2 g
-
-- **Yogurt**
-  - Greek yogurt, 300 g
-  - honey, 20 g
-  - lemon zest, 2 g
-
-- **Seasoning and finish**
-  - maple syrup, 120 g
-  - powdered sugar, 20 g
-  - flaky sea salt, 2 g
-
-**Steps**
-1. Heat the oven to 425°F. Arrange the bacon on a sheet pan in a single layer and season lightly with black pepper. Roast for 18 to 24 minutes until deeply golden and crisp. Transfer to a rack or paper towel.
-
-2. Make the berry compote. Combine the berries, sugar, lemon juice, lemon zest, vanilla, and salt in a saucepan over medium heat. Cook for 10 to 14 minutes, stirring occasionally, until the fruit breaks down and the juices reduce to a glossy compote. Keep warm.
-
-3. Whisk the yogurt with the honey and lemon zest until smooth. Chill until needed.
-
-4. Make the custard for the French toast. In a shallow dish, whisk together the eggs, milk, cream, brown sugar, vanilla, cinnamon, and salt until fully combined.
-
-5. Heat a large skillet or griddle over medium heat. Add part of the butter. Dip each slice of brioche in the custard, turning once and allowing it to soak briefly without falling apart.
-
-6. Cook the French toast in batches for 3 to 4 minutes per side, adding more butter as needed, until deeply golden brown and crisp at the edges. Reduce the heat slightly if the exterior colors too quickly.
-
-7. Finish with a light pinch of flaky sea salt over the French toast. Top with berry compote and powdered sugar. Serve with the crisp bacon, yogurt, and maple syrup alongside.
-
-#### Tomato Soup with Gruyère Grilled Cheese, Simple Greens, Dijon Vinaigrette
-
-**Ingredients**
-
-- **Tomato soup**
-  - 30 g unsalted butter
-  - 20 g olive oil
-  - 180 g yellow onion, thinly sliced
-  - 12 g garlic, sliced
-  - 8 g tomato paste
-  - 2 g red pepper flakes
-  - 2 g smoked paprika
-  - 2 g dried thyme
-  - 800 g canned whole peeled tomatoes
-  - 400 g chicken stock or vegetable stock
-  - 8 g kosher salt, plus more to taste
-  - 2 g black pepper
-  - 6 g sugar
-  - 60 g heavy cream
-  - 10 g red wine vinegar
-  - 12 g basil, torn
-
-- **Gruyère grilled cheese**
-  - 8 slices sturdy sourdough bread, about 320 g total
-  - 240 g Gruyère, grated
-  - 40 g Parmesan, finely grated
-  - 70 g unsalted butter, softened
-  - 4 g Dijon mustard
-  - 2 g black pepper
-
-- **Greens**
-  - 140 g mixed salad greens
-  - 60 g cucumber, thinly sliced
-  - 80 g radishes, thinly sliced
-  - 20 g shallot, very thinly sliced
-  - 8 g chives, finely sliced
-
-- **Dijon vinaigrette**
-  - 20 g Dijon mustard
-  - 30 g red wine vinegar
-  - 70 g extra-virgin olive oil
-  - 4 g honey
-  - 4 g kosher salt
-  - 2 g black pepper
+- Smoked paprika, 1 g
+- Flaky salt, 4 g
+- **Buttered toast:** sourdough bread, 320 g
+- Unsalted butter, softened, 90 g
+- Chives, finely sliced, 8 g
+- Parsley, finely chopped, 6 g
+- Fine sea salt, 2 g
 
 **Steps**
 
-1. Melt the butter with the olive oil in a heavy pot over medium heat. Add the onion and cook for 8–10 minutes until soft and lightly golden. Add the garlic, tomato paste, red pepper flakes, smoked paprika, and dried thyme. Cook for 2 minutes, stirring constantly.
+1. Heat oven to 325°F.
+2. Combine oats, almonds, pumpkin seeds, coconut, brown sugar, cinnamon, ginger, and sea salt. Add maple syrup and oil; mix thoroughly.
+3. Spread on a parchment-lined sheet pan. Bake 24–28 minutes, stirring once, until deeply golden. Cool completely.
+4. Whisk yogurt with honey, vanilla bean paste, lemon zest, sea salt, and cardamom.
+5. Toss berries with lemon juice and mint.
+6. Place eggs, water, and kosher salt in a saucepan. Bring to a boil, cover, remove from heat, and stand 10 minutes.
+7. Transfer eggs to ice water for 8 minutes. Peel, then season with flaky salt, black pepper, and smoked paprika.
+8. Mix butter with chives, parsley, and sea salt. Toast sourdough until crisp and spread with herb butter.
+9. Top vanilla yogurt with berries and granola. Pair with seasoned hard-boiled eggs and buttered toast.
 
-2. Add the tomatoes, stock, salt, black pepper, and sugar. Break up the tomatoes with a spoon. Bring to a simmer and cook for 25 minutes, stirring occasionally.
-
-3. Blend the soup until smooth. Return to low heat and stir in the cream, red wine vinegar, and basil. Adjust salt and pepper. Keep warm.
-
-4. For the vinaigrette, whisk together the Dijon, vinegar, honey, salt, and black pepper. Slowly whisk in the olive oil until emulsified.
-
-5. Combine the cucumber, radishes, shallot, and chives with the greens in a large bowl. Hold the vinaigrette separately until ready to dress.
-
-6. For the sandwiches, mix the Gruyère and Parmesan. Stir the softened butter with the Dijon and black pepper.
-
-7. Spread the Dijon butter on one side of each bread slice. Divide the cheese mixture among 4 slices, then close with the remaining bread, buttered side facing out.
-
-8. Heat a large skillet or griddle over medium-low heat. Cook the sandwiches for 3–4 minutes per side, pressing lightly, until deeply golden and the cheese is fully melted. If needed, transfer to a 300°F oven for 4–5 minutes to finish melting.
-
-9. Toss the greens with enough vinaigrette to lightly coat. Slice the grilled cheese and serve with the hot tomato soup and salad.
-
-#### Scrambled Eggs with Toast Soldiers
+#### Croque Madame Toast
 
 **Ingredients**
-- 8 large eggs
+
+- Rustic sourdough bread, 4 thick slices, about 320 g
+- Unsalted butter, 55 g, divided
+- All-purpose flour, 25 g
+- Whole milk, 300 g
+- Dijon mustard, 14 g
+- Gruyère, finely grated, 180 g, divided
+- Parmesan, finely grated, 25 g
+- Smoked ham, thinly sliced, 240 g
+- Large eggs, 4, about 200 g without shells
+- Neutral oil, 10 g
+- Kosher salt, 6 g, divided
+- Black pepper, freshly ground, 2 g
+- Ground nutmeg, 0.5 g
+- Cayenne pepper, 0.5 g
+- Chives, finely sliced, 10 g
+- Tarragon, chopped, 5 g
+
+**Steps**
+
+1. Heat oven to 425°F. Place bread on a sheet pan and toast until lightly crisp, 5–7 minutes.
+2. Melt 30 g butter in a saucepan over medium heat. Whisk in flour and cook 1 minute.
+3. Whisk in milk gradually. Simmer until thick and smooth, 3–4 minutes.
+4. Stir in Dijon, 3 g salt, 1 g black pepper, nutmeg, cayenne, 100 g Gruyère, and Parmesan. Remove from heat.
+5. Spread each toast with Mornay sauce. Add ham, more sauce, and remaining Gruyère.
+6. Bake 6–8 minutes, then broil at 500°F for 1–2 minutes until browned and bubbling.
+7. Heat remaining butter and neutral oil in a skillet over medium heat. Fry eggs until whites are set and yolks remain soft. Season with remaining salt and pepper.
+8. Top each toast with an egg, chives, and tarragon.
+
+**Simple Green Salad with Dijon Vinaigrette — Ingredients**
+
+- Tender mixed greens, 180 g
+- Flat-leaf parsley leaves, 15 g
+- Shallot, finely minced, 25 g
+- Dijon mustard, 18 g
+- White wine vinegar, 30 g
+- Honey, 8 g
+- Extra-virgin olive oil, 75 g
+- Kosher salt, 3 g
+- Black pepper, freshly ground, 1 g
+
+**Steps**
+
+1. Whisk shallot, Dijon, vinegar, honey, salt, and pepper.
+2. Whisk in olive oil until emulsified.
+3. Toss greens and parsley with vinaigrette until lightly coated.
+
+**Grapes — Ingredients**
+
+- Seedless red and green grapes, chilled, 600 g
+- Fresh mint, torn, 6 g
+- Lemon zest, 2 g
+- Flaky salt, 1 g
+
+**Steps**
+
+1. Toss grapes with mint, lemon zest, and flaky salt.
+2. Keep chilled until ready to plate.
+
+#### Soft Scrambled Eggs with Boursin
+
+**Ingredients**
+- 400 g whole eggs, weighed without shells
+- 120 g Boursin Garlic & Fine Herbs, crumbled
+- 60 g whole milk
 - 30 g unsalted butter
-- 20 g whole milk
-- 4 g kosher salt
-- 1 g black pepper
-- 2 g chives, finely sliced
-- 4 slices good white or sourdough bread, about 160 g total
-- 20 g unsalted butter, for toast
-- 320 g ripe tomatoes, sliced
-- 4 g flaky salt
-- 1 g black pepper
-- 160 g sharp cheddar, cut into cubes
-- 4 g extra virgin olive oil
-- 1 g dried oregano
-
-**Steps**
-1. Slice the tomatoes and season with the olive oil, flaky salt, black pepper, and dried oregano. Set aside.
-2. Cut the cheddar into bite-size cubes.
-3. Crack the eggs into a bowl and add the milk, kosher salt, and black pepper. Whisk until fully combined.
-4. Toast the bread until golden, then butter lightly and cut each slice into strips to make soldiers.
-5. Melt the 30 g butter in a nonstick skillet over low heat. Add the eggs and cook gently, stirring with a spatula until softly set and creamy.
-6. Remove from the heat and fold in the chives.
-7. Plate the scrambled eggs with the toast soldiers, tomato slices, and cheddar cubes.
-
-#### Breakfast Potatoes with Leeks and Bacon
-
-**Ingredients**
-- 900 g Yukon Gold potatoes, cut into 2 cm cubes
-- 200 g thick-cut bacon, sliced into 1 cm pieces
-- 180 g leeks, white and light green parts only, halved and thinly sliced
-- 20 g garlic, minced
-- 35 g unsalted butter
-- 30 g olive oil
-- 8 g kosher salt, plus more to taste
-- 4 g black pepper
-- 3 g smoked paprika
-- 2 g garlic powder
-- 2 g onion powder
-- 1 g red pepper flakes
-- 10 g fresh thyme leaves
-- 12 g fresh chives, finely sliced
-- 15 g flat-leaf parsley, chopped
-
-**Steps**
-1. Place the potatoes in a pot of well-salted cold water. Bring to a boil and cook for 6 to 8 minutes until just tender at the edges. Drain well and let steam dry for 5 minutes.
-2. Cook the bacon in a large skillet over medium heat until browned and crisp. Transfer with a slotted spoon to a plate, leaving the rendered fat in the skillet.
-3. Add the olive oil and butter to the skillet. Add the potatoes in an even layer and cook over medium-high heat for 8 to 10 minutes, turning occasionally, until deeply golden and crisp.
-4. Add the leeks and cook for 3 minutes until softened. Stir in the garlic, salt, black pepper, smoked paprika, garlic powder, onion powder, red pepper flakes, and thyme. Cook for 1 minute.
-5. Return the bacon to the skillet and toss well. Finish with chives and parsley. Adjust salt and pepper.
-
-Fried eggs
-
-**Ingredients**
-- 4 large eggs
-- 15 g unsalted butter
 - 3 g kosher salt
-- 2 g black pepper
-- 1 g crushed red pepper or Aleppo pepper
+- 1 g ground black pepper
+- 10 g chives, finely sliced
+- 6 g dill, chopped
+- 2 g lemon zest
+
+**Chive Hot Sauce Butter — Ingredients**
+- 40 g unsalted butter
+- 18 g hot sauce
+- 5 g lemon juice
+- 4 g chives, finely sliced
+- 1 g smoked paprika
+- 1 g kosher salt
 
 **Steps**
-1. Heat a nonstick skillet over medium-low heat and add the butter.
-2. Crack in the eggs and cook until the whites are set and the edges are lightly crisp.
-3. Season with salt, black pepper, and crushed red pepper.
+1. Whisk eggs, milk, salt, black pepper, and lemon zest until fully blended.
+2. Melt 30 g butter in a nonstick skillet over low heat.
+3. Add eggs and cook slowly, stirring constantly with a silicone spatula, until small curds form and the eggs look glossy and barely set.
+4. Remove from heat and fold in Boursin, chives, and dill.
+5. For the sauce, melt 40 g butter until foamy, then whisk in hot sauce, lemon juice, chives, smoked paprika, and salt.
+6. Spoon the chive hot sauce butter over the eggs.
 
-Orange slices
+**Roasted Breakfast Potatoes — Ingredients**
+- 900 g Yukon Gold potatoes, cut into 2 cm pieces
+- 150 g yellow onion, cut into wedges
+- 150 g red bell pepper, cut into strips
+- 45 g olive oil
+- 8 g kosher salt
+- 4 g garlic powder
+- 3 g smoked paprika
+- 2 g ground cumin
+- 2 g ground black pepper
+- 1 g cayenne pepper
+- 6 g rosemary, finely chopped
+- 15 g parsley, chopped
+
+**Roasted Breakfast Potatoes — Steps**
+1. Heat oven to 425°F.
+2. Toss potatoes with olive oil, salt, garlic powder, smoked paprika, cumin, black pepper, cayenne, and rosemary.
+3. Spread on a sheet pan and roast for 20 minutes.
+4. Add onion and bell pepper, toss, and roast 18–22 minutes more, until browned and tender.
+5. Finish with parsley.
+
+**Orange Slices — Ingredients**
+- 650 g oranges, peeled and sliced
+- 15 g honey
+- 8 g mint, torn
+- 2 g fresh ginger, finely grated
+- 1 g ground cardamom
+- 0.5 g flaky salt
+
+**Orange Slices — Steps**
+1. Whisk honey, ginger, cardamom, and flaky salt.
+2. Toss gently with orange slices.
+3. Finish with mint.
+
+#### Molletes with Avocado-Lime Salad and Pineapple Wedges
 
 **Ingredients**
-- 4 oranges, about 800 g total
-- 2 g flaky salt
-- 1 g ground cinnamon
+
+- Bolillo rolls, split lengthwise: 360 g
+- Oaxaca cheese or Monterey Jack, shredded: 320 g
+- Cooked pinto beans, drained: 620 g
+- Bean cooking liquid or water: 120 g
+- White onion, finely diced: 140 g
+- Garlic, minced: 16 g
+- Jalapeño, minced: 30 g
+- Neutral oil or lard: 35 g
+- Ground cumin: 3 g
+- Smoked paprika: 2 g
+- Mexican oregano: 2 g
+- Ground chipotle: 1 g
+- Kosher salt: 12 g, divided
+- Roma tomatoes, diced: 320 g
+- White onion, finely diced: 80 g
+- Cilantro, chopped: 35 g
+- Serrano or jalapeño, minced: 20 g
+- Lime juice: 90 g, divided
+- Mexican crema or sour cream: 150 g
+- Chipotle in adobo, minced: 20 g
+- Avocados, diced: 420 g
+- Cucumber, diced: 250 g
+- Radishes, thinly sliced: 120 g
+- Red onion, thinly sliced: 60 g
+- Arugula or romaine, chopped: 120 g
+- Extra-virgin olive oil: 35 g
+- Ground coriander: 2 g
+- Fresh mint, torn: 10 g
+- Pineapple, peeled and cut into wedges: 900 g
+- Chili-lime seasoning: 8 g
+- Lime zest: 3 g
 
 **Steps**
-1. Peel the oranges and slice into rounds or wedges.
-2. Lightly season with flaky salt and a dusting of cinnamon.
+
+1. Heat oven to 425°F.
+2. Cook the bean spread: warm oil or lard in a skillet over medium heat. Add 140 g white onion, garlic, and jalapeño; cook until softened, about 5 minutes.
+3. Add cumin, smoked paprika, Mexican oregano, chipotle, and 7 g salt; cook 30 seconds.
+4. Add pinto beans and bean liquid. Mash and simmer until thick, creamy, and spreadable, 6–8 minutes.
+5. Make pico de gallo: combine tomatoes, 80 g white onion, cilantro, serrano, 45 g lime juice, and 4 g salt. Let stand while the molletes bake.
+6. Make chipotle crema: mix crema, chipotle in adobo, 15 g lime juice, and 1 g salt.
+7. Place split bolillos cut-side up on a sheet pan. Toast in the oven until lightly crisp, 4–5 minutes.
+8. Spread each toasted roll half generously with beans. Top with shredded cheese.
+9. Bake until the cheese melts, 6–8 minutes. Broil briefly if deeper browning is desired.
+10. Make the avocado-lime salad: gently toss avocado, cucumber, radishes, red onion, arugula, olive oil, 30 g lime juice, coriander, mint, lime zest, and remaining salt.
+11. Season pineapple wedges with chili-lime seasoning.
+12. Finish molletes with pico de gallo and chipotle crema. Serve with the avocado-lime salad and pineapple wedges.
 
 ### Dinner
 
-#### Chicken Sausage Sheet Pan
+#### Grilled Chicken Sandwiches with Basil Mayo
 
 **Ingredients**
-- 700 g baby potatoes, halved
-- 450 g asparagus, trimmed
-- 200 g red onion, cut into wedges
-- 500 g chicken sausage links
-- 35 g olive oil
-- 12 g Dijon mustard
-- 10 g garlic, finely grated
-- 6 g kosher salt
-- 3 g black pepper
+
+- Boneless, skinless chicken breasts, 680 g
+- Olive oil, 40 g
+- Lemon juice, 25 g
+- Dijon mustard, 18 g
+- Garlic, finely grated, 10 g
+- Smoked paprika, 4 g
+- Ground coriander, 3 g
+- Onion powder, 3 g
+- Cayenne pepper, 1 g
+- Kosher salt, 10 g
+- Black pepper, 3 g
+- Sandwich buns, 320 g
+- Tomato, sliced, 300 g
+- Romaine lettuce, 120 g
+- Dill pickles, sliced, 120 g
+
+**Basil Mayo**
+
+- Mayonnaise, 160 g
+- Fresh basil, finely chopped, 25 g
+- Lemon zest, 3 g
+- Lemon juice, 15 g
+- Garlic, finely grated, 4 g
+- Kosher salt, 2 g
+- Black pepper, 1 g
+
+**Grilled Corn with Chili Butter**
+
+- Corn on the cob, husked, 1.2 kg
+- Unsalted butter, softened, 90 g
+- Lime zest, 3 g
+- Lime juice, 15 g
+- Chili powder, 4 g
+- Smoked paprika, 2 g
+- Ground cumin, 2 g
+- Cayenne pepper, 1 g
+- Kosher salt, 3 g
+- Cilantro, chopped, 15 g
+
+**Watermelon–Feta Salad**
+
+- Watermelon, rind removed and cubed, 900 g
+- Feta cheese, crumbled, 160 g
+- English cucumber, sliced, 250 g
+- Red onion, thinly sliced, 70 g
+- Fresh mint, torn, 18 g
+- Fresh basil, torn, 12 g
+- Lime juice, 35 g
+- Olive oil, 25 g
+- Honey, 12 g
+- Aleppo pepper, 2 g
+- Kosher salt, 3 g
+- Black pepper, 1 g
+
+**Steps**
+
+1. Pound the chicken to an even 15 mm thickness. Mix olive oil, lemon juice, Dijon, garlic, smoked paprika, coriander, onion powder, cayenne, salt, and black pepper. Coat the chicken and marinate for 30 minutes.
+
+2. Make the basil mayo by mixing mayonnaise, basil, lemon zest, lemon juice, garlic, salt, and black pepper. Chill until needed.
+
+3. Mix softened butter with lime zest, lime juice, chili powder, smoked paprika, cumin, cayenne, salt, and cilantro. Keep soft for brushing over the corn.
+
+4. Heat a grill to 425–450°F. Grill the corn, turning often, until lightly charred and tender, 10–14 minutes. Brush generously with chili butter during the final 2 minutes.
+
+5. Grill the chicken until well marked and cooked through, 5–7 minutes per side, to an internal temperature of 165°F. Rest for 5 minutes.
+
+6. Toast the buns cut-side down on the grill until golden, 1–2 minutes.
+
+7. Make the watermelon–feta salad by gently tossing watermelon, feta, cucumber, red onion, mint, basil, lime juice, olive oil, honey, Aleppo pepper, salt, and black pepper.
+
+8. Spread basil mayo on the buns. Build the sandwiches with grilled chicken, tomato, romaine, and pickles.
+
+9. Serve the sandwiches with grilled corn brushed with extra chili butter and the watermelon–feta salad.
+
+#### Chicken Tostadas with Avocado Crema, Charred Zucchini with Cotija, and Mango–Jicama Salad
+
+**Yield:** 4 servings
+
+**Ingredients**
+
+- Boneless, skinless chicken thighs, 700 g
+- Corn tostada shells, 160 g
+- Green cabbage, finely shredded, 180 g
+- Cotija cheese, crumbled, 60 g
+- Cilantro leaves, 20 g
+
+**Chicken marinade**
+- Chipotle peppers in adobo, minced, 45 g
+- Lime juice, 35 g
+- Orange juice, 45 g
+- Neutral oil, 20 g
+- Garlic, grated, 15 g
+- Ground cumin, 4 g
+- Smoked paprika, 3 g
+- Ground coriander, 3 g
+- Mexican oregano, 2 g
+- Brown sugar, 8 g
+- Kosher salt, 9 g
+- Black pepper, 2 g
+
+**Black bean spread**
+- Canned black beans, drained and rinsed, 450 g
+- Yellow onion, finely diced, 120 g
+- Garlic, minced, 10 g
+- Neutral oil, 15 g
+- Chicken stock, 120 g
+- Ground cumin, 3 g
+- Smoked paprika, 2 g
+- Lime juice, 15 g
+- Kosher salt, 5 g
+
+**Avocado crema**
+- Ripe avocado flesh, 300 g
+- Mexican crema or sour cream, 120 g
+- Lime juice, 45 g
+- Cilantro, 20 g
+- Jalapeño, seeded, 15 g
+- Garlic, 5 g
+- Ground cumin, 1 g
+- Kosher salt, 5 g
+- Cold water, 40 g
+
+**Charred zucchini with cotija**
+- Zucchini, cut into thick planks, 700 g
+- Neutral oil, 25 g
+- Ancho chile powder, 3 g
+- Ground cumin, 2 g
+- Ground coriander, 2 g
+- Kosher salt, 6 g
+- Black pepper, 2 g
+- Lime juice, 20 g
+- Cotija cheese, crumbled, 70 g
+- Cilantro, chopped, 15 g
+
+**Mango–jicama salad**
+- Ripe mango, peeled and julienned, 450 g
+- Jicama, peeled and julienned, 350 g
+- English cucumber, julienned, 200 g
+- Red onion, very thinly sliced, 70 g
+- Jalapeño, thinly sliced, 12 g
+- Cilantro, chopped, 20 g
+- Mint, chopped, 8 g
+- Lime juice, 45 g
+- Orange juice, 35 g
+- Honey, 15 g
+- Tajín or chili-lime seasoning, 5 g
+- Kosher salt, 4 g
+
+**Steps**
+
+1. Combine chicken with all marinade ingredients. Rest for 20 minutes.
+2. Blend avocado crema ingredients until smooth. Adjust texture with cold water as needed.
+3. For the mango–jicama salad, whisk lime juice, orange juice, honey, Tajín, and salt. Toss with mango, jicama, cucumber, red onion, jalapeño, cilantro, and mint. Chill.
+4. Cook onion for the black bean spread in oil over medium heat until softened. Add garlic, cumin, and smoked paprika; cook 30 seconds.
+5. Add black beans and chicken stock. Simmer until thick, then mash roughly. Finish with lime juice and salt.
+6. Heat a cast-iron skillet or grill pan over high heat. Toss zucchini with oil, chile powder, cumin, coriander, salt, and pepper.
+7. Char zucchini until deeply marked and just tender. Finish with lime juice, cotija, and cilantro.
+8. Sear marinated chicken in a hot skillet until caramelized, then lower heat and cook to 165°F internal temperature. Rest 5 minutes, then chop or shred.
+9. Warm tostada shells briefly in a 350°F oven until crisp.
+10. Build tostadas with black bean spread, chicken, cabbage, avocado crema, cotija, and cilantro. Serve with charred zucchini and mango–jicama salad.
+
+#### Pasta Salad with Chicken and Mozzarella
+
+**Ingredients**
+
+**Pasta salad and chicken**
+
+- 450 g boneless, skinless chicken thighs
+- 10 g kosher salt, divided
+- 3 g black pepper, divided
 - 2 g smoked paprika
-- 2 g dried oregano
-- 1 g red pepper flakes
-- 12 g lemon juice
-- 8 g fresh parsley, finely chopped
+- 2 g garlic powder
+- 15 g olive oil
+- 340 g fusilli or penne
+- 20 g kosher salt, for pasta water
+- 250 g fresh mozzarella pearls, drained
+- 220 g cherry tomatoes, halved
+- 120 g English cucumber, diced
+- 90 g red onion, thinly sliced
+- 90 g Kalamata olives, pitted and halved
+- 25 g fresh basil, torn
+- 15 g fresh parsley, chopped
 
-**Steps**
-1. Heat the oven to 425°F.
-2. In a large bowl, toss the baby potatoes with 20 g olive oil, half the garlic, 3 g salt, 1.5 g black pepper, the smoked paprika, and the oregano.
-3. Spread the potatoes on a sheet pan and roast for 20 minutes.
-4. In the same bowl, toss the asparagus and red onion with the remaining olive oil, Dijon mustard, remaining garlic, remaining salt, remaining black pepper, and red pepper flakes.
-5. Add the chicken sausage, asparagus, and red onion to the sheet pan with the potatoes. Toss lightly and spread into an even layer.
-6. Roast for 15 to 18 minutes, until the potatoes are tender, the asparagus is just cooked, and the sausage is browned.
-7. Finish with lemon juice and parsley.
+**Red-wine oregano vinaigrette**
 
-**Side**
-- Crisp romaine with store-bought Caesar dressing and black pepper
-
-**Ingredients**
-- 200 g romaine lettuce, chopped
-- 80 g store-bought Caesar dressing
-- 1 g black pepper
-
-**Steps**
-1. Toss the romaine with the Caesar dressing and black pepper.
-
-#### Steak Frites, Weeknight Version
-
-**Ingredients**
-- 4 strip steaks, 220 g each, about 25 mm thick
-- 900 g russet potatoes
-- 20 g cornstarch
-- 40 g neutral oil
-- 18 g kosher salt, divided
-- 6 g black pepper, divided
-- 4 g garlic powder
-- 3 g smoked paprika
-- 20 g unsalted butter
-- 12 g garlic, finely grated
-- 8 g fresh thyme leaves
-- 10 g Dijon mustard
-- 10 g red wine vinegar
-- 120 g little gem lettuce
-- 80 g Caesar dressing, store-bought
-- 20 g Parmesan, finely grated
-- 12 g chives, finely sliced
-- 15 g parsley, finely chopped
-- 1 lemon, 80 g, cut into wedges
-
-**Steps**
-1. Heat the oven to 450°F. Cut the potatoes into 10 mm fries. Rinse under cold water, then dry very well. Toss with the cornstarch, 25 g oil, 8 g salt, 2 g black pepper, garlic powder, and smoked paprika.
-2. Spread the fries on a large sheet pan in a single layer. Roast for 20 minutes, turn, then roast 15 to 20 minutes more until deeply golden and crisp.
-3. Pat the steaks dry. Season all over with 8 g salt and 4 g black pepper. Let sit at room temperature while the fries roast.
-4. Separate the little gem leaves and chill if desired. In a bowl, whisk the Dijon with the red wine vinegar and remaining 15 g oil. Toss the lettuce lightly with the vinaigrette, then finish with the Caesar dressing in small streaks, Parmesan, half the chives, and half the parsley.
-5. Heat a large skillet, preferably cast iron, over high heat until very hot. Add the steaks and sear 2 to 3 minutes on the first side. Turn and cook 2 minutes on the second side for medium-rare, adjusting as needed for thickness.
-6. Add the butter, grated garlic, and thyme to the skillet. Baste the steaks for 30 to 60 seconds until glossy and aromatic.
-7. Transfer the steaks to a board and rest 5 minutes. Season the fries with the remaining 2 g salt. Finish with the remaining chives and parsley.
-8. Slice the steaks if desired. Serve with the fries, little gem salad, and lemon wedges.
-
-#### Rigatoni with Sausage, Spinach, and Mushrooms
-
-**Ingredients**
-- 480 g rigatoni
-- 500 g Italian sausage, casings removed
-- 300 g cremini mushrooms, sliced
-- 140 g baby spinach
-- 120 g yellow onion, finely diced
-- 20 g garlic, minced
-- 30 g tomato paste
-- 400 g crushed tomatoes
-- 180 g heavy cream
-- 60 g Parmesan, finely grated, plus extra for serving
-- 40 g olive oil
-- 8 g kosher salt, plus more as needed
-- 3 g black pepper
-- 2 g red pepper flakes
-- 2 g dried oregano
-- 6 g fresh basil, sliced
-- 10 g fresh parsley, chopped
-
-**Steps**
-1. Bring a large pot of well-salted water to a boil. Cook the rigatoni until just shy of al dente. Reserve 250 g pasta water, then drain.
-2. Heat a large skillet over medium-high heat. Add 15 g olive oil and the sausage. Brown thoroughly, breaking it into bite-size pieces, 6–8 minutes.
-3. Add the mushrooms and cook until deeply browned and their moisture has evaporated, 6–7 minutes. Add the onion and cook until softened, 3 minutes.
-4. Add the garlic, tomato paste, red pepper flakes, black pepper, and oregano. Cook 1 minute, stirring constantly.
-5. Add the crushed tomatoes and simmer 5 minutes. Stir in the cream and bring to a gentle simmer.
-6. Add the spinach in batches and cook until wilted. Return the pasta to the skillet with 120 g reserved pasta water, Parmesan, basil, parsley, and the remaining 25 g olive oil.
-7. Toss over medium heat until glossy and the sauce coats the rigatoni. Add more pasta water as needed. Taste and adjust salt and pepper.
-
-Romaine salad with Caesar dressing
-
-**Ingredients**
-- 2 romaine hearts, chopped
-- 120 g store-bought Caesar dressing
-- 40 g Parmesan, shaved
-- 80 g croutons
-- 2 g black pepper
-- 5 g lemon juice
-
-**Steps**
-1. Combine the romaine with the Caesar dressing, lemon juice, and black pepper.
-2. Add the Parmesan and croutons. Toss gently to coat.
-
-Garlic bread
-
-**Ingredients**
-- 1 loaf Italian bread, about 450 g
-- 100 g unsalted butter, softened
-- 18 g garlic, very finely minced
-- 20 g Parmesan, finely grated
-- 8 g fresh parsley, finely chopped
-- 2 g kosher salt
-- 1 g black pepper
-- 1 g red pepper flakes
-
-**Steps**
-1. Heat the oven to 425°F.
-2. Mix the butter, garlic, Parmesan, parsley, salt, black pepper, and red pepper flakes into a smooth spread.
-3. Split the bread lengthwise and spread the garlic butter evenly over the cut sides.
-4. Bake on a sheet pan until deeply golden at the edges and crisp, 10–12 minutes. Slice.
-
-#### Chicken and Mushroom Cream Skillet
-
-**Ingredients**
-- 680 g boneless skinless chicken thighs, cut into large bite-size pieces
-- 14 g kosher salt, divided
-- 6 g black pepper, divided
-- 4 g garlic powder
-- 4 g onion powder
-- 2 g paprika
-- 25 g all-purpose flour
-- 30 g unsalted butter
-- 20 g olive oil
-- 300 g cremini mushrooms, sliced
-- 120 g yellow onion, finely diced
-- 18 g garlic, minced
-- 8 g fresh thyme leaves
-- 6 g fresh rosemary, finely chopped
-- 2 g red pepper flakes
-- 120 g dry white wine
-- 300 g chicken stock
-- 180 g heavy cream
-- 40 g Parmesan, finely grated
-- 10 g Dijon mustard
-- 10 g Worcestershire sauce
-- 12 g fresh parsley, chopped
-- 5 g lemon zest
-
-**Steps**
-1. Season the chicken with 8 g salt, 4 g black pepper, garlic powder, onion powder, paprika, and flour.
-2. Heat a large skillet over medium-high heat. Add olive oil and half the butter. Sear the chicken for 5–7 minutes until deeply golden and just cooked through. Remove to a plate.
-3. Add the mushrooms to the skillet with a pinch of salt. Cook for 6–8 minutes until well browned. Add the onion and cook for 3 minutes until softened.
-4. Add garlic, thyme, rosemary, and red pepper flakes. Cook for 30 seconds until fragrant.
-5. Deglaze with white wine and reduce by about half. Add chicken stock, Dijon, and Worcestershire. Simmer for 3–4 minutes.
-6. Stir in the cream and Parmesan. Return the chicken and any juices to the skillet. Simmer gently for 3–5 minutes until the sauce lightly thickens and coats the chicken.
-7. Finish with the remaining butter, parsley, lemon zest, and the remaining salt and black pepper to taste.
-
-Egg noodles with butter and herbs
-
-**Ingredients**
-- 320 g dried egg noodles
-- 40 g unsalted butter
-- 8 g kosher salt, plus more for boiling
-- 3 g black pepper
-- 10 g fresh parsley, finely chopped
-- 6 g fresh chives, finely sliced
-
-**Steps**
-1. Bring a large pot of well-salted water to a boil. Cook the egg noodles until al dente. Drain, reserving a little cooking water.
-2. Toss the hot noodles with butter, salt, black pepper, parsley, and chives. Add a small amount of cooking water as needed so the butter coats the noodles evenly.
-
-Roasted asparagus
-
-**Ingredients**
-- 450 g asparagus, trimmed
-- 20 g olive oil
-- 5 g kosher salt
-- 2 g black pepper
-- 3 g garlic powder
-- 4 g lemon zest
-- 10 g Parmesan, finely grated
-
-**Steps**
-1. Heat the oven to 425°F.
-2. Toss the asparagus with olive oil, salt, black pepper, and garlic powder.
-3. Arrange on a sheet pan in a single layer. Roast for 10–12 minutes until tender and lightly blistered.
-4. Finish with lemon zest and Parmesan.
-
-#### Chicken Fried Rice
-
-**Ingredients**
-- 700 g boneless skinless chicken thighs, cut in small pieces
-- 900 g cooked jasmine rice, cold
-- 180 g carrots, small dice
-- 140 g corn kernels
-- 140 g peas
-- 120 g yellow onion, fine dice
-- 80 g scallions, thinly sliced, whites and greens separated
-- 4 large eggs, about 200 g, beaten
-- 30 g ginger, finely grated
-- 20 g garlic, finely chopped
-- 60 g soy sauce
-- 20 g toasted sesame oil
-- 15 g neutral oil, plus 30 g for cooking
-- 10 g rice vinegar
-- 6 g kosher salt, plus more to taste
-- 4 g ground white pepper
+- 90 g extra-virgin olive oil
+- 50 g red wine vinegar
+- 18 g Dijon mustard
+- 12 g honey
+- 8 g garlic, finely grated
+- 4 g dried oregano
 - 2 g crushed red pepper flakes
-- 10 g unsalted butter
-
-**Steps**
-1. Season the chicken with 3 g kosher salt, 2 g white pepper, and 15 g soy sauce. Set aside for 10 minutes.
-2. Break up the cold rice so the grains are separated.
-3. Heat a large wok or wide skillet over high heat. Add 15 g neutral oil. Add the eggs and scramble quickly until just set. Remove and reserve.
-4. Add the remaining 15 g neutral oil. Add the chicken and cook until browned and cooked through, 5 to 7 minutes. Remove and reserve.
-5. Add the onion, carrot, scallion whites, ginger, and garlic. Stir-fry for 2 minutes.
-6. Add the corn and peas. Cook 2 minutes more.
-7. Add the rice and stir-fry, pressing and tossing until heated through and lightly toasted in spots, 3 to 4 minutes.
-8. Return the chicken and eggs to the pan. Add the remaining 45 g soy sauce, sesame oil, rice vinegar, butter, remaining 3 g kosher salt, remaining 2 g white pepper, and red pepper flakes. Toss until evenly seasoned and glossy.
-9. Fold in the scallion greens and adjust salt if needed.
-
-**Sides**
-- Quick cucumber salad: 300 g cucumbers, thinly sliced, tossed with 20 g rice vinegar, 10 g sugar, 3 g kosher salt, and 2 g chili flakes
-- Chili crisp or hot sauce on the side
-
-#### Deli Sandwiches
-
-**Ingredients**
-- 8 slices rye bread, 480 g
-- 300 g roasted turkey breast, sliced
-- 250 g pastrami, sliced
-- 200 g Swiss cheese, sliced
-- 120 g dill pickles, sliced
-- 80 g red onion, very thinly sliced
-- 120 g tomato, sliced
-- 60 g romaine lettuce, shredded
-- 80 g Dijon mustard
-- 120 g mayonnaise
-- 40 g unsalted butter, softened
 - 4 g kosher salt
-- 3 g freshly ground black pepper
+- 2 g black pepper
 
-**Steps**
-1. Lightly butter one side of each bread slice with the softened butter. Toast in a skillet or on a griddle over medium heat until golden on the outside, keeping the interior tender.
-2. Spread Dijon mustard on 4 slices of bread and mayonnaise on the remaining 4 slices.
-3. Layer turkey, pastrami, Swiss cheese, pickles, red onion, tomato, and romaine evenly over the mustard-coated bread.
-4. Season the tomato and lettuce lightly with kosher salt and black pepper.
-5. Close with the remaining bread slices and cut each sandwich in half.
+**Garlic flatbread**
 
-Potato salad
-
-**Ingredients**
-- 1 kg Yukon Gold potatoes
-- 140 g mayonnaise
-- 60 g sour cream
-- 80 g celery, finely diced
-- 60 g red onion, finely diced
-- 70 g dill pickles, finely diced
-- 2 hard-boiled eggs, 100 g total, chopped
-- 15 g Dijon mustard
-- 10 g apple cider vinegar
-- 8 g kosher salt
-- 3 g freshly ground black pepper
-- 6 g celery seed
-- 8 g fresh dill, finely chopped
-- 10 g fresh chives, finely chopped
-
-**Steps**
-1. Place the potatoes in salted water, bring to a boil, and cook until tender but not falling apart. Drain and let cool slightly.
-2. Cut the potatoes into bite-size pieces.
-3. In a large bowl, mix mayonnaise, sour cream, Dijon mustard, apple cider vinegar, celery, red onion, pickles, chopped egg, celery seed, dill, chives, salt, and black pepper.
-4. Fold in the warm potatoes gently until evenly coated.
-5. Chill until the salad is well seasoned and the flavors have melded.
-
-Deviled eggs
-
-**Ingredients**
-- 8 large eggs, 440 g
-- 90 g mayonnaise
-- 12 g Dijon mustard
-- 8 g white vinegar
-- 3 g hot sauce
-- 4 g kosher salt
-- 2 g freshly ground black pepper
-- 2 g smoked paprika
-- 6 g fresh chives, finely sliced
-
-**Steps**
-1. Place the eggs in a saucepan, cover with water, and bring to a boil. Turn off the heat, cover, and let stand for 11 minutes.
-2. Transfer the eggs to ice water and chill completely. Peel and halve lengthwise.
-3. Remove the yolks and mash them with mayonnaise, Dijon mustard, vinegar, hot sauce, salt, and black pepper until smooth.
-4. Spoon or pipe the filling back into the egg whites.
-5. Finish with smoked paprika and chives.
-
-#### Chicken Burritos
-
-**Ingredients**
-- 700 g boneless skinless chicken thighs, cut into strips
-- 12 g kosher salt, divided
-- 6 g black pepper, divided
-- 10 g ground cumin, divided
-- 8 g chili powder, divided
-- 4 g smoked paprika
+- 500 g prepared pizza dough
+- 45 g olive oil
+- 25 g unsalted butter, melted
+- 16 g garlic, finely grated
+- 45 g Parmesan, finely grated
+- 10 g fresh parsley, chopped
 - 3 g dried oregano
-- 12 g garlic, minced
-- 30 g neutral oil, divided
-- 220 g long-grain white rice
-- 420 g chicken stock
-- 30 g tomato paste
-- 240 g canned black beans, drained
-- 1 small yellow onion, 140 g, finely diced
-- 2 bell peppers, 300 g total, sliced
-- 200 g Monterey Jack or cheddar, shredded
-- 4 large flour tortillas, 280–320 g total
-- 80 g cilantro, chopped
-- 120 g sour cream
-- 120 g salsa
+- 4 g kosher salt
+- 1 g crushed red pepper flakes
+
+**Marinated artichoke and roasted pepper plate**
+
+- 280 g marinated artichoke hearts, drained
+- 240 g roasted red peppers, drained and sliced
+- 90 g Castelvetrano olives, pitted
+- 45 g pepperoncini, sliced
+- 25 g extra-virgin olive oil
+- 15 g red wine vinegar
+- 10 g capers, drained
+- 10 g fresh parsley, chopped
+- 2 g dried oregano
+- 2 g black pepper
 
 **Steps**
-1. Season the chicken with 6 g salt, 3 g black pepper, 6 g cumin, 5 g chili powder, smoked paprika, oregano, and half the garlic.
-2. Rinse the rice until the water runs mostly clear. In a saucepan, heat 10 g oil over medium heat. Add the rice and cook 2 minutes. Stir in the tomato paste, then add the chicken stock, 2 g salt, 2 g black pepper, 2 g cumin, and 1 g chili powder. Bring to a boil, cover, reduce to low, and cook 15 minutes. Rest 10 minutes, then fluff.
-3. Heat 10 g oil in a large skillet over medium-high heat. Cook the chicken until browned and fully cooked, 6–8 minutes. Remove.
-4. In the same skillet, add the remaining 10 g oil. Sauté the onion and peppers with the remaining garlic, 4 g salt, 1 g black pepper, 2 g cumin, and 2 g chili powder until softened and lightly charred, 6–8 minutes.
-5. Add the black beans to the skillet and cook 2 minutes until hot. Return the chicken and toss to combine. Stir in half the cilantro.
-6. Warm the tortillas in a 300°F oven wrapped in foil for 8 minutes, or in a dry skillet until pliable.
-7. Fill each tortilla with rice, chicken-bean-pepper mixture, and cheese. Roll tightly into burritos.
-8. Return the burritos seam-side down to a dry skillet over medium heat and toast 2–3 minutes per side until golden and the cheese begins to melt.
 
-**Sides**
-- Serve with sour cream, salsa, and the remaining cilantro.
-- Good additions: shredded romaine, pickled jalapeños, or lime wedges if desired.
+1. Heat oven to 425°F. Season chicken with 6 g kosher salt, 2 g black pepper, smoked paprika, garlic powder, and 15 g olive oil.
+2. Roast chicken on a sheet pan for 18–22 minutes, until the center reaches 165°F. Rest 10 minutes, then slice or dice.
+3. Whisk olive oil, red wine vinegar, Dijon, honey, garlic, oregano, red pepper flakes, 4 g kosher salt, and 2 g black pepper until emulsified.
+4. Cook pasta in boiling water seasoned with 20 g kosher salt until al dente. Drain, rinse briefly under cold water, and shake dry.
+5. Toss pasta with half the vinaigrette. Add chicken, mozzarella, tomatoes, cucumber, red onion, olives, basil, and parsley. Fold in remaining vinaigrette and adjust with remaining salt as needed.
+6. Increase oven to 500°F. Divide pizza dough into equal portions by weight and stretch into thin ovals on oiled sheet pans.
+7. Mix olive oil, melted butter, garlic, Parmesan, parsley, oregano, kosher salt, and red pepper flakes. Brush over dough.
+8. Bake flatbreads for 8–10 minutes, until blistered and golden.
+9. Toss artichokes, roasted peppers, olives, pepperoncini, olive oil, red wine vinegar, capers, parsley, oregano, and black pepper.
+10. Serve pasta salad with warm garlic flatbread and the marinated artichoke-roasted pepper plate.
+
+#### Steak Dinner with Chimichurri
+
+**Ingredients**
+
+**Steak**
+- 4 New York strip steaks, 280 g each
+- Kosher salt, 16 g
+- Cracked black pepper, 6 g
+- Neutral oil, 20 g
+- Unsalted butter, 40 g
+- Garlic cloves, 16 g, smashed
+- Rosemary, 4 g
+- Thyme, 4 g
+
+**Chimichurri**
+- Flat-leaf parsley, 60 g, finely chopped
+- Cilantro, 25 g, finely chopped
+- Fresh oregano, 8 g, finely chopped
+- Shallot, 35 g, minced
+- Garlic, 16 g, minced
+- Fresno chile, 15 g, minced
+- Red wine vinegar, 55 g
+- Lemon juice, 20 g
+- Extra-virgin olive oil, 120 g
+- Kosher salt, 6 g
+- Cracked black pepper, 2 g
+- Smoked paprika, 2 g
+- Ground cumin, 1 g
+- Red pepper flakes, 1 g
+
+**Roasted Sweet-Potato Wedges**
+- Sweet potatoes, 1200 g, cut into wedges
+- Olive oil, 35 g
+- Cornstarch, 15 g
+- Kosher salt, 10 g
+- Smoked paprika, 4 g
+- Ground cumin, 3 g
+- Ground coriander, 2 g
+- Garlic powder, 3 g
+- Cayenne, 1 g
+- Lime zest, 4 g
+- Cilantro, 12 g, chopped
+
+**Heirloom Tomato and Blue-Cheese Salad**
+- Heirloom tomatoes, 900 g, cut into wedges
+- Arugula, 80 g
+- Red onion, 60 g, thinly sliced
+- Blue cheese, 120 g, crumbled
+- Toasted pecans, 60 g
+- Basil, 20 g, torn
+- Chives, 8 g, sliced
+- Kosher salt, 6 g
+- Cracked black pepper, 2 g
+- Red wine vinegar, 30 g
+- Balsamic vinegar, 15 g
+- Dijon mustard, 10 g
+- Honey, 12 g
+- Extra-virgin olive oil, 55 g
+
+**Steps**
+
+1. Heat oven to 425°F. Toss sweet potatoes with olive oil, cornstarch, salt, smoked paprika, cumin, coriander, garlic powder, and cayenne.
+2. Roast sweet potatoes on a preheated sheet pan until browned and tender, turning once, about 30 minutes. Finish with lime zest and cilantro.
+3. Combine parsley, cilantro, oregano, shallot, garlic, chile, vinegar, lemon juice, olive oil, salt, pepper, smoked paprika, cumin, and red pepper flakes. Let chimichurri stand while cooking the rest.
+4. Season steaks with salt and let stand 30 minutes. Pat dry, then season with black pepper.
+5. Heat a cast-iron skillet over high heat. Add neutral oil, then sear steaks until deeply browned on both sides.
+6. Reduce heat to medium. Add butter, garlic, rosemary, and thyme. Baste steaks until the center reaches 125°F for medium-rare.
+7. Rest steaks for 8 minutes.
+8. For the salad, season tomatoes with salt and pepper. Whisk red wine vinegar, balsamic vinegar, Dijon, honey, and olive oil.
+9. Toss tomatoes, arugula, red onion, blue cheese, pecans, basil, chives, and vinaigrette.
+10. Slice steaks and spoon chimichurri over the top. Serve with roasted sweet-potato wedges and heirloom tomato blue-cheese salad.
+
+#### Cheeseburgers
+
+Yield: 4 servings
+
+**Ingredients**
+
+- **House burger sauce**
+  - Mayonnaise, 160 g
+  - Ketchup, 55 g
+  - Yellow mustard, 30 g
+  - Dill pickle relish, 45 g
+  - Dill pickle brine, 20 g
+  - Shallot, finely minced, 20 g
+  - Chives, finely sliced, 6 g
+  - Smoked paprika, 2 g
+  - Garlic powder, 2 g
+  - Onion powder, 2 g
+  - Cayenne pepper, 0.5 g
+  - Kosher salt, 2 g
+  - Black pepper, freshly ground, 1 g
+
+- **Cheeseburgers**
+  - Ground beef, 80/20, 680 g
+  - Kosher salt, 8 g
+  - Black pepper, freshly ground, 3 g
+  - Garlic powder, 2 g
+  - Onion powder, 2 g
+  - Smoked paprika, 1 g
+  - Neutral oil, 15 g
+  - American cheese, 80 g
+  - Potato burger buns, 280 g
+  - Unsalted butter, softened, 35 g
+  - Shredded iceberg lettuce, 120 g
+
+- **Kettle chips, pickles, tomato and onion plate**
+  - Kettle-cooked potato chips, 280 g
+  - Dill pickle spears, 320 g
+  - Ripe tomatoes, sliced, 360 g
+  - Red onion, thinly sliced, 160 g
+  - Flat-leaf parsley, chopped, 8 g
+  - Kosher salt, 3 g
+  - Black pepper, freshly ground, 1 g
+
+**Steps**
+
+1. Mix mayonnaise, ketchup, mustard, relish, pickle brine, shallot, chives, smoked paprika, garlic powder, onion powder, cayenne, salt, and pepper until smooth. Chill.
+
+2. Season sliced tomatoes and red onion with salt, pepper, and parsley. Hold cold.
+
+3. Divide beef into 4 patties, 170 g each. Shape slightly wider than the buns with a shallow center indent.
+
+4. Combine kosher salt, black pepper, garlic powder, onion powder, and smoked paprika. Season patties evenly on both sides.
+
+5. Heat a cast-iron skillet or griddle to 400°F. Butter the cut sides of the buns and toast until golden; reserve.
+
+6. Add oil to the skillet. Sear patties for 3–4 minutes, flip, top with American cheese, and cook until melted and the beef reaches 160°F.
+
+7. Spread burger sauce on both sides of each bun. Build with lettuce, cheeseburger patty, and additional sauce.
+
+8. Serve with kettle chips, dill pickle spears, and the sliced tomato and onion plate.
+
+#### Hot Dogs with Spiced Beef Chili, Sharp Cheddar & Onion
+
+**Ingredients**
+
+- All-beef hot dogs: 300 g
+- Hot dog buns: 240 g
+- Unsalted butter, softened: 30 g
+- Sharp cheddar, grated: 160 g
+- Yellow onion, finely diced: 120 g
+
+**Chili**
+
+- Ground beef: 450 g
+- Yellow onion, finely diced: 180 g
+- Garlic, minced: 15 g
+- Tomato paste: 50 g
+- Crushed tomatoes: 300 g
+- Beef stock: 180 g
+- Chili powder: 14 g
+- Ground cumin: 5 g
+- Smoked paprika: 4 g
+- Dried oregano: 2 g
+- Ground coriander: 2 g
+- Cayenne: 1 g
+- Kosher salt: 8 g
+- Black pepper: 2 g
+- Apple cider vinegar: 15 g
+- Brown sugar: 10 g
+- Masa harina: 15 g
+
+**Baked Beans**
+
+- Canned baked beans: 850 g
+- Bacon, diced: 120 g
+- Yellow onion, finely diced: 120 g
+- Molasses: 35 g
+- Dijon mustard: 20 g
+- Apple cider vinegar: 15 g
+- Smoked paprika: 3 g
+- Black pepper: 2 g
+- Chili flakes: 1 g
+
+**Celery Sticks with Ranch**
+
+- Celery, cut into sticks: 500 g
+- Store-bought ranch dressing: 180 g
+- Fresh dill, chopped: 4 g
+- Chives, sliced: 6 g
+- Lemon zest: 2 g
+- Black pepper: 1 g
+
+**Steps**
+
+1. Heat oven to 350°F.
+2. For the baked beans, cook bacon in an oven-safe skillet until lightly crisp. Add onion and cook until softened.
+3. Stir in baked beans, molasses, Dijon, vinegar, smoked paprika, black pepper, and chili flakes. Bake uncovered for 25 minutes.
+4. For the chili, brown ground beef in a heavy pot over medium-high heat. Add onion and cook until translucent.
+5. Add garlic, tomato paste, chili powder, cumin, smoked paprika, oregano, coriander, cayenne, salt, and black pepper. Cook for 2 minutes.
+6. Add crushed tomatoes, beef stock, vinegar, and brown sugar. Simmer until thick, about 25 minutes.
+7. Whisk masa harina with 40 g water, stir into the chili, and simmer 5 minutes more.
+8. Mix ranch dressing with dill, chives, lemon zest, and black pepper. Hold with the celery sticks.
+9. Butter the buns and toast on a 375°F griddle until golden.
+10. Sear hot dogs on the griddle until hot and lightly blistered.
+11. Place hot dogs in buns. Top with chili, sharp cheddar, and diced onion. Add baked beans and celery sticks with ranch alongside.
+
+#### Summer Pasta with Fresh Tomato Vegetable Sauce
+
+**Ingredients**
+
+*Pasta and sauce*
+- Dry fusilli or penne, 360 g
+- Ripe tomatoes, diced, 900 g
+- Zucchini, small dice, 250 g
+- Red bell pepper, small dice, 180 g
+- Red onion, finely diced, 120 g
+- Garlic, minced, 18 g
+- Tomato paste, 30 g
+- Extra-virgin olive oil, 55 g
+- Parmesan, finely grated, 80 g
+- Fresh basil leaves, torn, 35 g
+- Fresh parsley, chopped, 15 g
+- Lemon juice, 15 g
+- Dried oregano, 2 g
+- Crushed red pepper flakes, 1 g
+- Kosher salt, 18 g, divided
+- Black pepper, freshly ground, 3 g
+- Pasta cooking water, 180 g
+
+*Garlic green beans*
+- Green beans, trimmed, 600 g
+- Water, 2,000 g
+- Kosher salt, 26 g, divided
+- Olive oil, 18 g
+- Unsalted butter, 20 g
+- Garlic, thinly sliced, 14 g
+- Lemon juice, 12 g
+- Lemon zest, 2 g
+- Fresh parsley, chopped, 12 g
+- Black pepper, 1 g
+
+*Romaine hearts with creamy Italian dressing*
+- Romaine hearts, chopped, 520 g
+- Cherry tomatoes, halved, 200 g
+- Cucumber, sliced, 160 g
+- Mayonnaise, 80 g
+- Sour cream, 60 g
+- Red wine vinegar, 35 g
+- Olive oil, 25 g
+- Parmesan, finely grated, 25 g
+- Dijon mustard, 10 g
+- Honey, 8 g
+- Garlic, finely grated, 5 g
+- Fresh parsley, minced, 8 g
+- Dried Italian seasoning, 2 g
+- Kosher salt, 4 g
+- Black pepper, 1 g
+
+**Steps**
+
+1. Make the dressing: whisk mayonnaise, sour cream, red wine vinegar, olive oil, Parmesan, Dijon, honey, garlic, parsley, Italian seasoning, salt, and black pepper until smooth. Chill.
+2. Toss diced tomatoes with 8 g kosher salt and black pepper. Let stand while preparing the vegetables.
+3. Bring 2,000 g water and 20 g kosher salt to a boil. Blanch green beans for 3 minutes, then drain.
+4. Cook green beans in olive oil and butter over medium-high heat for 2 minutes. Add garlic and cook 45 seconds. Finish with lemon juice, lemon zest, parsley, remaining 6 g salt, and black pepper.
+5. Bring pasta water to a boil and season with remaining 10 g kosher salt. Cook pasta until just al dente; reserve 180 g cooking water, then drain.
+6. Heat olive oil in a wide skillet over medium-high heat. Cook red onion, bell pepper, and zucchini for 5 minutes until lightly softened.
+7. Add garlic, tomato paste, oregano, and crushed red pepper flakes. Cook 1 minute.
+8. Add salted tomatoes and their juices. Simmer 6–8 minutes, keeping the sauce fresh and slightly chunky.
+9. Add pasta and reserved cooking water. Toss over medium heat until glossy and lightly emulsified.
+10. Remove from heat. Fold in Parmesan, basil, parsley, and lemon juice.
+11. Toss romaine, cherry tomatoes, and cucumber with creamy Italian dressing.
+12. Serve pasta with garlic green beans and romaine hearts salad.
 
 ## Week 2
 
 ### Breakfast
 
-#### Turkey and Brie Wraps
+#### Black Bean Breakfast Burritos
 
 **Ingredients**
-- 8 large flour tortillas, 480 g
-- 600 g roasted turkey breast, thinly sliced
-- 240 g Brie, sliced
-- 120 g baby spinach
-- 160 g tomato, thinly sliced
-- 120 g cucumber, thinly sliced
-- 60 g red onion, very thinly sliced
-- 80 g cranberry sauce
-- 120 g mayonnaise
-- 12 g Dijon mustard
-- 6 g black pepper
-- 8 g kosher salt
-- 4 g garlic powder
-- 4 g dried thyme
-- 20 g unsalted butter
+
+- **Burritos**
+  - Large flour tortillas, 320 g
+  - Whole eggs, beaten, 400 g
+  - Cooked black beans, drained, 500 g
+  - Yukon Gold potatoes, diced, 500 g
+  - Monterey Jack cheese, shredded, 180 g
+  - Yellow onion, diced, 150 g
+  - Red bell pepper, diced, 160 g
+  - Jalapeño, minced, 20 g
+  - Garlic, minced, 15 g
+  - Avocado oil, 55 g
+  - Unsalted butter, 25 g
+  - Lime juice, 25 g
+  - Cilantro, chopped, 25 g
+  - Ground cumin, 6 g
+  - Smoked paprika, 4 g
+  - Chile powder, 4 g
+  - Ground coriander, 2 g
+  - Dried oregano, 1 g
+  - Cayenne pepper, 0.5 g
+  - Kosher salt, 14 g
+  - Black pepper, 3 g
+
+- **Pico de gallo**
+  - Roma tomatoes, diced, 450 g
+  - White onion, finely diced, 100 g
+  - Jalapeño, minced, 25 g
+  - Cilantro, chopped, 25 g
+  - Lime juice, 45 g
+  - Garlic, grated, 3 g
+  - Kosher salt, 5 g
+  - Black pepper, 1 g
+
+- **Seasoned tortilla chips**
+  - Corn tortilla chips, 240 g
+  - Avocado oil, 8 g
+  - Lime zest, 2 g
+  - Ancho chile powder, 2 g
+  - Ground cumin, 1 g
+  - Kosher salt, 1 g
 
 **Steps**
-1. In a small bowl, mix the mayonnaise, Dijon mustard, black pepper, garlic powder, dried thyme, and 4 g salt until smooth.
-2. Lay out the tortillas and spread the seasoned mayonnaise evenly over each.
-3. Divide the turkey, Brie, spinach, tomato, cucumber, and red onion among the tortillas. Add small streaks of cranberry sauce across the filling and season with the remaining 4 g salt.
-4. Roll each tortilla tightly into wraps.
-5. Heat a large skillet over medium heat and add the butter. Toast the wraps in batches for 2 to 3 minutes per side until lightly golden and the Brie is softened.
-6. Slice each wrap on the bias.
 
-Fruit salad
+1. Heat oven to **425°F**. Toss potatoes with 25 g avocado oil, 4 g salt, 2 g cumin, 2 g smoked paprika, and 1 g black pepper. Roast on a sheet pan until browned and tender, 24–28 minutes.
 
-**Ingredients**
-- 300 g strawberries, hulled and halved
-- 250 g blueberries
-- 300 g pineapple, diced
-- 250 g seedless grapes, halved
-- 250 g kiwi, peeled and sliced
-- 20 g honey
-- 12 g lime juice
-- 2 g lime zest
-- 3 g fresh mint, finely sliced
+2. Combine all pico de gallo ingredients. Rest while cooking the burrito filling.
 
-**Steps**
-1. Combine the strawberries, blueberries, pineapple, grapes, and kiwi in a large bowl.
-2. Whisk the honey, lime juice, and lime zest until combined.
-3. Pour the dressing over the fruit, add the mint, and toss gently to coat evenly.
+3. Heat 20 g avocado oil in a skillet over medium-high heat. Cook onion, bell pepper, and jalapeño until softened and lightly charred, 6–8 minutes.
 
-#### Huevos Rancheros
+4. Add garlic, remaining cumin, chile powder, coriander, oregano, cayenne, remaining smoked paprika, 4 g salt, and 1 g black pepper. Cook 45 seconds.
 
-**Ingredients**
-- 8 large eggs
-- 8 corn tortillas
-- 2 ripe avocados, sliced
-- 400 g canned black beans, drained
-- 300 g canned crushed tomatoes
-- 120 g yellow onion, finely diced
-- 15 g garlic, minced
-- 20 g jalapeño, finely diced
-- 15 g cilantro, chopped, plus extra for garnish
-- 10 g lime juice
-- 30 g olive oil
-- 8 g ground cumin
-- 4 g smoked paprika
-- 3 g dried oregano
-- 2 g chili flakes
-- 12 g kosher salt, divided
-- 4 g black pepper, divided
-- 100 g queso fresco, crumbled
-- 80 g sour cream
+5. Add black beans and lime juice. Cook until glossy and thickened, 4–5 minutes, lightly mashing some beans. Fold in cilantro.
 
-**Steps**
-1. Heat 15 g olive oil in a skillet over medium heat. Add onion and jalapeño; cook until softened, 4–5 minutes. Add garlic, cumin, smoked paprika, oregano, and chili flakes; cook 30 seconds.
-2. Add crushed tomatoes, 4 g salt, and 2 g black pepper. Simmer over medium-low heat until thickened, 10–12 minutes. Stir in cilantro and lime juice.
-3. In a separate saucepan, heat remaining 15 g olive oil over medium heat. Add black beans with 60 g water, 4 g salt, and 1 g black pepper. Cook 5–6 minutes, lightly mashing until creamy but still textured.
-4. Warm the tortillas in a dry skillet or in a 350°F oven until pliable and lightly toasted.
-5. Cook the eggs in a lightly oiled skillet to your preference, seasoning with remaining 4 g salt and 1 g black pepper.
-6. Place tortillas on plates. Spread the beans over each tortilla, spoon over the ranchero sauce, and top with eggs.
-7. Finish with sliced avocado, queso fresco, sour cream, and extra cilantro.
+6. Melt butter in a clean skillet over medium-low heat. Add eggs with 3 g salt and 1 g black pepper. Scramble gently until just set and creamy.
 
-#### Breakfast Rice Bowls
+7. Warm tortillas briefly, then fill each with roasted potatoes, black beans, scrambled eggs, and Monterey Jack. Roll tightly into burritos.
 
-**Ingredients**
-- 320 g jasmine rice
-- 520 g water
-- 240 g cooked ham, diced small
-- 8 large eggs
-- 80 g scallions, thinly sliced
-- 20 g unsalted butter
-- 30 g neutral oil
-- 8 g kosher salt, plus more to taste
-- 3 g black pepper
-- 2 g garlic powder
-- 2 g smoked paprika
-- 4 g crushed red pepper flakes
-- 120 g hot sauce
+8. Sear burritos seam-side down in the remaining avocado oil over medium heat until golden and sealed, 2–3 minutes per side.
 
-For the seasoned scallions:
-- 60 g scallions, sliced
-- 10 g neutral oil
-- 2 g kosher salt
-- 1 g black pepper
+9. Reduce oven to **350°F**. Toss tortilla chips with avocado oil, lime zest, ancho chile powder, cumin, and salt. Warm on a sheet pan for 4–5 minutes.
 
-**Steps**
-1. Rinse the rice under cold water until the water runs mostly clear. Combine the rice, water, and 3 g kosher salt in a saucepan. Bring to a boil, cover, reduce to low, and cook for 15 minutes. Remove from the heat and rest, covered, for 10 minutes.
-2. Toss the scallions for the topping with the 10 g oil, 2 g kosher salt, and black pepper. Set aside.
-3. Heat a large skillet over medium heat. Add the 30 g oil and the diced ham. Cook for 4 to 5 minutes until lightly browned at the edges. Season with the garlic powder, smoked paprika, and half of the crushed red pepper. Remove from the skillet and keep warm.
-4. Crack the eggs into a bowl and season with the remaining 5 g kosher salt and the black pepper. Beat until fully combined.
-5. Lower the skillet to medium-low. Add the butter. Once melted, pour in the eggs and cook slowly, stirring with a spatula, until softly scrambled and just set.
-6. Fluff the rice and divide among bowls. Top with the scrambled eggs and browned ham.
-7. Finish with the seasoned scallions, remaining crushed red pepper, and hot sauce over the top.
-
-#### Egg and Cheese Bagels
-
-**Ingredients**
-- 4 plain bagels, split
-- 8 large eggs
-- 80 g unsalted butter, divided
-- 120 g sharp cheddar, sliced
-- 8 slices bacon
-- 8 g kosher salt, divided
-- 4 g black pepper, divided
-- 2 g garlic powder
-- 2 g smoked paprika
-- 2 g chives, finely sliced
-
-**Steps**
-1. Heat oven to 400°F. Arrange the bacon on a sheet pan and roast for 14–18 minutes until crisp. Transfer to paper towels.
-2. Toast the bagel halves until golden.
-3. Crack the eggs into a bowl. Add 4 g kosher salt, 2 g black pepper, garlic powder, smoked paprika, and chives. Whisk until smooth.
-4. Heat 40 g butter in a nonstick skillet over medium-low heat. Add the eggs and cook, stirring gently, until softly scrambled and just set.
-5. Spread the remaining 40 g butter lightly over the cut sides of the bagels. Fill each bagel with scrambled eggs, 2 slices bacon, and cheddar.
-6. Return the filled bagels to the oven for 2–3 minutes until the cheese melts.
-
-Fruit cup
-
-**Ingredients**
-- 200 g strawberries, hulled and halved
-- 200 g blueberries
-- 200 g pineapple, diced
-- 200 g cantaloupe, diced
-- 120 g seedless grapes, halved
-- 10 g honey
-- 5 g lime juice
-- 1 g lime zest
-- 1 g mint, finely sliced
-
-**Steps**
-1. Combine the strawberries, blueberries, pineapple, cantaloupe, and grapes in a bowl.
-2. Add the honey, lime juice, lime zest, and mint. Toss gently to coat.
-3. Chill until ready to eat.
+10. Pair the burritos with pico de gallo and seasoned tortilla chips.
 
 #### Chicken Caesar Wraps
 
 **Ingredients**
-- 700 g boneless skinless chicken thighs
-- 8 g kosher salt
-- 3 g black pepper
-- 4 g garlic powder
-- 3 g onion powder
-- 2 g smoked paprika
-- 2 g dried oregano
-- 15 g Dijon mustard
-- 20 g olive oil
-- 4 large flour tortillas, about 280 g total
-- 180 g romaine lettuce, finely chopped
-- 40 g Parmesan, finely grated
-- 160 g store-bought Caesar dressing
-- 120 g cherry tomatoes, halved
-- 40 g red onion, very thinly sliced
+
+- Boneless, skinless chicken breasts, 680 g
+- Kosher salt, 8 g
+- Black pepper, 3 g
+- Smoked paprika, 3 g
+- Garlic powder, 3 g
+- Onion powder, 2 g
+- Dried oregano, 2 g
+- Olive oil, 20 g
+- Store-bought Caesar dressing, 160 g
+- Romaine lettuce, thinly sliced, 300 g
+- Parmesan cheese, finely grated, 60 g
+- Croutons, lightly crushed, 80 g
+- Lemon zest, 2 g
+- Large flour tortillas, 280 g total
+- Dill pickle spears, 200 g total
+- Strawberries, hulled and halved, 500 g
+- Fresh mint, thinly sliced, 6 g
+- Lime zest, 1 g
+- Fine sea salt, 1 g
 
 **Steps**
-1. Heat the oven to 425°F.
-2. Pat the chicken dry. Season with the salt, black pepper, garlic powder, onion powder, smoked paprika, and oregano. Coat with the Dijon and olive oil.
-3. Roast on a lined tray for 18 to 22 minutes, until the chicken is cooked through and lightly browned. Rest 5 minutes, then slice thinly.
-4. In a bowl, combine the romaine, Parmesan, 120 g of the Caesar dressing, cherry tomatoes, and red onion. Toss until evenly coated.
-5. Warm the tortillas briefly so they are pliable.
-6. Divide the sliced chicken among the tortillas. Top with the Caesar salad mixture and drizzle over the remaining 40 g Caesar dressing.
-7. Fold in the sides and roll tightly into wraps. Halve if desired.
 
-Kettle chips  
-- 240 g kettle-cooked potato chips
-
-Pickle spear  
-- 4 dill pickle spears, about 240 g total
+1. Season chicken with kosher salt, black pepper, smoked paprika, garlic powder, onion powder, and oregano.
+2. Heat olive oil in a skillet over medium-high heat. Cook chicken until deeply browned and the center reaches 165°F, about 5–7 minutes per side.
+3. Rest chicken for 5 minutes, then slice thinly.
+4. Toss romaine with Caesar dressing, Parmesan, croutons, lemon zest, and sliced chicken.
+5. Warm tortillas briefly until pliable, then fill evenly with the Caesar chicken mixture and roll tightly.
+6. Toss strawberries with mint, lime zest, and fine sea salt.
+7. Serve wraps with dill pickle spears and the mint-lime strawberries.
 
 #### Cobb Breakfast Plate
 
 **Ingredients**
-- 680 g boneless skinless chicken breasts
-- 8 large eggs
-- 240 g thick-cut bacon
-- 2 avocados, about 320 g flesh
-- 4 breakfast rolls, about 320 g total
-- 120 g baby arugula
-- 160 g cherry tomatoes, halved
-- 40 g red onion, very thinly sliced
-- 24 g chives, finely sliced
-- 16 g flat-leaf parsley, finely chopped
-- 12 g dill, finely chopped
-- 30 g Dijon mustard
-- 40 g mayonnaise
-- 30 g lemon juice
-- 18 g red wine vinegar
-- 24 g olive oil
-- 10 g garlic, finely grated
-- 8 g kosher salt, plus more to taste
-- 4 g black pepper, plus more to taste
-- 4 g smoked paprika
-- 3 g garlic powder
-- 2 g onion powder
-- 2 g dried oregano
-- 1 g cayenne
-- 1 g crushed red pepper
-- 20 g unsalted butter
+
+- **Eggs and bacon**
+  - 8 large eggs, 400 g without shells
+  - Thick-cut bacon, 320 g
+  - Unsalted butter, 30 g
+  - Kosher salt, 4 g
+  - Black pepper, 2 g
+  - Chives, finely sliced, 12 g
+
+- **Cobb plate**
+  - Romaine hearts, chopped, 300 g
+  - Cooked chicken breast, sliced, 360 g
+  - Avocados, diced, 360 g
+  - Cherry tomatoes, halved, 240 g
+  - Blue cheese, crumbled, 90 g
+  - Scallions, thinly sliced, 40 g
+  - Smoked paprika, 2 g
+  - Lemon zest, 4 g
+
+- **Herb dressing**
+  - Mayonnaise, 120 g
+  - Greek yogurt, 100 g
+  - Lemon juice, 35 g
+  - Dijon mustard, 20 g
+  - Garlic, finely grated, 8 g
+  - Parsley, chopped, 20 g
+  - Dill, chopped, 12 g
+  - Chives, chopped, 12 g
+  - Kosher salt, 5 g
+  - Black pepper, 2 g
+  - Cayenne pepper, 1 g
+
+- **Toasted rolls**
+  - Soft rolls, split, 320 g
+  - Unsalted butter, softened, 50 g
+  - Garlic powder, 2 g
+  - Parsley, chopped, 8 g
+  - Kosher salt, 2 g
+
+- **Cucumber-tomato salad**
+  - Persian cucumbers, sliced, 360 g
+  - Tomatoes, cut into wedges, 360 g
+  - Red onion, thinly sliced, 70 g
+  - Red wine vinegar, 35 g
+  - Olive oil, 45 g
+  - Mint, torn, 10 g
+  - Parsley, chopped, 12 g
+  - Dried oregano, 2 g
+  - Kosher salt, 5 g
+  - Black pepper, 2 g
 
 **Steps**
-1. Preheat a grill or grill pan to medium-high. Preheat the oven to 375°F.
-2. In a bowl, combine the Dijon, mayonnaise, lemon juice, red wine vinegar, olive oil, grated garlic, 4 g salt, 2 g black pepper, smoked paprika, garlic powder, onion powder, oregano, cayenne, and crushed red pepper. Divide in half.
-3. Coat the chicken with one half of the mustard mixture and let sit 10 minutes.
-4. Grill the chicken for 5 to 7 minutes per side until lightly charred and cooked through to 165°F. Rest 5 minutes, then slice.
-5. Arrange the bacon on a sheet pan and bake at 375°F for 14 to 18 minutes until crisp. Drain briefly.
-6. Split the rolls and warm them in the oven for 3 to 4 minutes.
-7. Toss the arugula, tomatoes, red onion, half the chives, parsley, dill, a pinch of salt, and a few grinds of black pepper with the remaining half of the mustard mixture.
-8. Heat the butter in a large skillet over medium heat. Fry the eggs to your preferred doneness, seasoning with the remaining 4 g salt and more black pepper.
-9. Slice the avocado and season lightly with salt, black pepper, and a little lemon juice if desired.
-10. Plate the grilled chicken with the eggs, bacon, avocado, dressed herb salad, and warm roll. Finish with the remaining chives over the eggs and chicken.
 
-#### Waffles with Maple Butter Sauce and Sausage Links
+1. Heat oven to 400°F. Arrange bacon on a parchment-lined sheet pan and roast 16–20 minutes until crisp. Drain and cut into large pieces.
+
+2. Whisk mayonnaise, Greek yogurt, lemon juice, Dijon, garlic, parsley, dill, chives, salt, black pepper, and cayenne until smooth. Chill.
+
+3. Toss cucumbers, tomatoes, red onion, vinegar, olive oil, mint, parsley, oregano, salt, and black pepper. Let stand 10 minutes.
+
+4. Mix butter, garlic powder, parsley, and salt. Spread on split rolls and toast cut-side up at 400°F for 6–8 minutes until golden.
+
+5. Whisk eggs with salt and black pepper. Melt butter in a nonstick skillet over medium-low heat, add eggs, and cook gently, stirring until softly set. Fold in chives.
+
+6. Season sliced chicken with smoked paprika, lemon zest, and a pinch of salt.
+
+7. Arrange romaine, chicken, bacon, eggs, avocado, cherry tomatoes, blue cheese, and scallions on plates. Spoon herb dressing over the Cobb plate.
+
+8. Serve with the toasted rolls and cucumber-tomato salad.
+
+#### Peanut Butter Banana Toast
 
 **Ingredients**
-- 260 g all-purpose flour
-- 20 g granulated sugar
-- 12 g baking powder
-- 4 g kosher salt
-- 2 g ground cinnamon
-- 1 g ground nutmeg
-- 2 large eggs, about 100 g without shell
-- 420 g whole milk
-- 115 g unsalted butter, melted, plus 20 g for greasing
-- 10 g vanilla extract
-- 400 g pork sausage links
-- 160 g maple syrup
-- 90 g unsalted butter
-- 2 g kosher salt
-- 1 g ground cinnamon
-- 1 g vanilla extract
+- Whole-grain bread, 360 g
+- Creamy peanut butter, 220 g
+- Bananas, sliced, 500 g
+- Honey, 45 g
+- Roasted peanuts, chopped, 50 g
+- Ground cinnamon, 3 g
+- Ground cardamom, 1 g
+- Flaky salt, 3 g
+- Fresh mint, thinly sliced, 8 g
+
+**Greek Yogurt**
+- Plain Greek yogurt, 600 g
+- Maple syrup, 35 g
+- Lemon zest, 4 g
+- Vanilla extract, 6 g
+- Kosher salt, 1 g
+
+**Apple Slices**
+- Crisp apples, sliced, 650 g
+- Lemon juice, 30 g
+- Ground cinnamon, 2 g
 
 **Steps**
-1. Heat the oven to 200°F. Heat a large skillet over medium heat. Add the sausage links and cook for 12–15 minutes, turning often, until browned and cooked through. Transfer to the oven to keep warm.
-2. Preheat the waffle iron. In a large bowl, whisk together the flour, sugar, baking powder, salt, cinnamon, and nutmeg.
-3. In a second bowl, whisk the eggs, milk, 115 g melted butter, and vanilla until smooth.
-4. Pour the wet mixture into the dry mixture and whisk just until combined. A few small lumps are fine.
-5. Lightly grease the waffle iron with a small amount of butter. Cook the batter in batches according to the waffle iron’s capacity until deep golden and crisp. Hold the waffles in the 200°F oven between batches.
-6. Make the maple butter sauce: combine the maple syrup, 90 g butter, salt, cinnamon, and vanilla in a small saucepan over low heat. Cook for 2–3 minutes, whisking, until glossy and fully emulsified.
-7. Plate the waffles with the warm maple butter sauce and sausage links.
+1. Heat oven to 375°F. Toast the bread on a sheet pan until crisp and lightly browned, 6–8 minutes.
+2. Mix Greek yogurt, maple syrup, lemon zest, vanilla, and kosher salt until smooth.
+3. Toss apple slices with lemon juice and cinnamon.
+4. Spread peanut butter evenly over the warm toast.
+5. Top with banana slices, honey, chopped peanuts, cinnamon, cardamom, flaky salt, and mint.
+6. Plate with the seasoned Greek yogurt and spiced apple slices.
+
+#### Grilled Cheese with Tomato Soup
+
+**Ingredients**
+
+- **Tomato soup:** olive oil, 35 g
+- Yellow onion, diced, 180 g
+- Carrot, diced, 80 g
+- Garlic, minced, 18 g
+- Tomato paste, 60 g
+- Crushed tomatoes, 800 g
+- Low-sodium vegetable stock, 600 g
+- Heavy cream, 100 g
+- Unsalted butter, 30 g
+- Granulated sugar, 8 g
+- Kosher salt, 10 g
+- Black pepper, ground, 2 g
+- Smoked paprika, 2 g
+- Dried oregano, 1 g
+- Crushed red pepper flakes, 0.5 g
+- Fresh basil, torn, 20 g
+
+- **Grilled cheese:** sourdough sandwich bread, 360 g
+- Sharp cheddar, shredded or sliced, 240 g
+- Gruyère, shredded, 160 g
+- Unsalted butter, softened, 80 g
+- Mayonnaise, 40 g
+- Dijon mustard, 20 g
+- Garlic powder, 2 g
+- Onion powder, 1 g
+- Black pepper, ground, 1 g
+- Chives, finely sliced, 8 g
+
+- **Celery sticks with ranch:** celery, cut into sticks, 400 g
+- Store-bought ranch dressing, 160 g
+- Parsley, chopped, 6 g
+- Black pepper, ground, 1 g
+
+- **Fruit cup:** strawberries, quartered, 250 g
+- Pineapple, diced, 250 g
+- Grapes, halved, 200 g
+- Blueberries, 150 g
+- Lime juice, 25 g
+- Honey, 20 g
+- Mint, finely sliced, 6 g
+- Kosher salt, 0.5 g
+
+**Steps**
+
+1. Heat olive oil in a pot over medium heat. Add onion, carrot, and 4 g kosher salt; cook until softened, about 8 minutes.
+2. Add garlic, tomato paste, smoked paprika, oregano, red pepper flakes, and black pepper. Cook 2 minutes, stirring constantly.
+3. Add crushed tomatoes, stock, sugar, and remaining kosher salt. Simmer gently for 20 minutes.
+4. Add basil, cream, and butter. Blend until smooth, then keep warm over low heat.
+5. Mix softened butter, mayonnaise, garlic powder, onion powder, black pepper, and chives.
+6. Spread Dijon on the inside of the bread. Fill with cheddar and Gruyère.
+7. Spread the seasoned butter mixture on the outside of each sandwich.
+8. Heat a griddle or skillet to 325°F. Cook sandwiches until deeply golden and the cheese is melted, about 4 minutes per side.
+9. Toss celery with parsley and black pepper; serve with ranch dressing.
+10. Toss fruit with lime juice, honey, mint, and salt.
+11. Serve grilled cheese with hot tomato soup, celery sticks with ranch, and fruit cup.
+
+#### Chicken Sausage Sweet-Potato Hash with Fried Eggs
+
+**Ingredients**
+
+- 900 g sweet potatoes, peeled and cut into 1.5 cm dice
+- 450 g chicken sausage, sliced
+- 180 g yellow onion, diced
+- 200 g red bell pepper, diced
+- 18 g garlic, minced
+- 45 g olive oil
+- 6 g smoked paprika
+- 3 g ground cumin
+- 2 g ground coriander
+- 1 g crushed red pepper flakes
+- 4 g fresh thyme leaves
+- 2 g fresh rosemary, minced
+- 10 g kosher salt
+- 3 g black pepper
+- 20 g flat-leaf parsley, chopped
+- 4 large eggs, about 200 g out of shell
+
+**Sautéed Spinach**
+
+- 450 g baby spinach
+- 20 g olive oil
+- 10 g garlic, thinly sliced
+- 20 g lemon juice
+- 2 g lemon zest
+- 3 g kosher salt
+- 1 g black pepper
+- 0.5 g ground nutmeg
+
+**Smoky Mustard Yogurt Sauce**
+
+- 170 g Greek yogurt
+- 30 g Dijon mustard
+- 25 g lemon juice
+- 12 g maple syrup
+- 12 g chives, finely sliced
+- 1 g smoked paprika
+- 2 g kosher salt
+- 0.5 g black pepper
+
+**Steps**
+
+1. Heat oven to **425°F**. Toss sweet potatoes with 30 g olive oil, 6 g salt, 2 g black pepper, smoked paprika, cumin, coriander, red pepper flakes, thyme, and rosemary.
+2. Roast sweet potatoes on a sheet pan for 25–30 minutes, turning once, until browned and tender.
+3. Heat remaining 15 g olive oil in a large skillet over medium-high heat. Brown chicken sausage for 4–5 minutes.
+4. Add onion and bell pepper; cook 5–6 minutes until softened and lightly caramelized. Add garlic and cook 1 minute.
+5. Fold roasted sweet potatoes into the skillet. Cook 3–4 minutes to crisp the edges. Adjust with remaining salt and pepper, then finish with parsley.
+6. For the spinach, heat olive oil in a skillet over medium heat. Add garlic and cook until fragrant, about 45 seconds.
+7. Add spinach in batches with salt, pepper, nutmeg, lemon zest, and lemon juice. Sauté just until wilted.
+8. For the sauce, whisk yogurt, Dijon mustard, lemon juice, maple syrup, chives, smoked paprika, salt, and pepper until smooth.
+9. Fry eggs in a lightly oiled nonstick skillet over medium heat until whites are set and yolks remain runny, about 3–4 minutes.
+10. Plate the hash with fried eggs, sautéed spinach, and smoky mustard yogurt sauce.
+
+#### Chicken Salad Toasts
+
+**Ingredients**
+
+- Chicken breast, boneless skinless: 600 g
+- Kosher salt: 12 g
+- Black pepper, ground: 3 g
+- Garlic powder: 2 g
+- Smoked paprika: 2 g
+- Olive oil: 20 g
+- Sourdough bread, 4 thick slices: 360 g
+- Mayonnaise: 120 g
+- Greek yogurt: 60 g
+- Dijon mustard: 18 g
+- Lemon juice: 25 g
+- Lemon zest: 2 g
+- Celery, finely diced: 90 g
+- Red onion, finely diced: 45 g
+- Scallions, thinly sliced: 30 g
+- Fresh parsley, chopped: 12 g
+- Fresh dill, chopped: 8 g
+- Fresh tarragon, chopped: 4 g
+- Celery seed: 1 g
+- Cayenne pepper: 0.5 g
+- Unsalted butter, softened: 40 g
+- Butter lettuce: 60 g
+
+**Carrot sticks**
+
+- Carrots, peeled and cut into sticks: 500 g
+- Lemon juice: 15 g
+- Olive oil: 10 g
+- Kosher salt: 3 g
+- Black pepper, ground: 1 g
+- Fresh dill, chopped: 4 g
+
+**Potato chips**
+
+- Kettle-style potato chips: 180 g
+- Chives, finely sliced: 6 g
+- Lemon zest: 1 g
+- Smoked paprika: 1 g
+
+**Steps**
+
+1. Heat oven to 400°F.
+2. Season chicken with 8 g salt, 2 g black pepper, garlic powder, smoked paprika, and olive oil.
+3. Roast chicken on a sheet pan until the thickest part reaches 165°F, about 18–22 minutes. Cool, then dice or shred.
+4. Mix mayonnaise, Greek yogurt, Dijon, lemon juice, lemon zest, celery seed, cayenne, remaining salt, and remaining black pepper.
+5. Fold in chicken, celery, red onion, scallions, parsley, dill, and tarragon. Chill briefly while preparing the toasts.
+6. Spread sourdough with softened butter and toast at 400°F until crisp and golden, about 8–10 minutes.
+7. Toss carrot sticks with lemon juice, olive oil, salt, black pepper, and dill.
+8. Toss potato chips gently with chives, lemon zest, and smoked paprika.
+9. Layer butter lettuce on each toast, spoon chicken salad over the top, and serve with carrot sticks and seasoned potato chips.
 
 ### Dinner
 
-#### Chicken Alfredo Pasta
+#### BBQ Chicken Drumsticks with Smoky Barbecue Glaze
 
 **Ingredients**
-- 500 g boneless skinless chicken breasts, cut into bite-size pieces
-- 12 g kosher salt, divided
-- 6 g black pepper, divided
-- 4 g garlic powder
-- 2 g onion powder
-- 2 g dried oregano
-- 15 g olive oil
-- 300 g fettuccine
-- 60 g unsalted butter
-- 25 g garlic, finely minced
-- 500 g heavy cream
-- 140 g Parmesan, finely grated, plus extra to finish
-- 2 g crushed red pepper flakes
-- 8 g fresh parsley, finely chopped
-- 5 g lemon zest
+
+- Chicken drumsticks: 1.4 kg  
+- Kosher salt: 16 g  
+- Brown sugar: 18 g  
+- Smoked paprika: 8 g  
+- Garlic powder: 5 g  
+- Onion powder: 5 g  
+- Ground cumin: 3 g  
+- Black pepper: 3 g  
+- Cayenne pepper: 1 g  
+- Neutral oil: 20 g  
+
+**Smoky Barbecue Glaze**
+
+- Ketchup: 180 g  
+- Apple cider vinegar: 55 g  
+- Brown sugar: 55 g  
+- Molasses: 35 g  
+- Dijon mustard: 20 g  
+- Worcestershire sauce: 18 g  
+- Chipotle in adobo, minced: 25 g  
+- Smoked paprika: 5 g  
+- Garlic powder: 3 g  
+- Onion powder: 3 g  
+- Black pepper: 2 g  
+- Kosher salt: 3 g  
+- Unsalted butter: 25 g  
 
 **Steps**
-1. Bring a large pot of well-salted water to a boil. Season the chicken with 6 g salt, 4 g black pepper, garlic powder, onion powder, and oregano.
-2. Heat a large skillet over medium-high heat. Add the olive oil and cook the chicken until deeply golden and cooked through, 5–7 minutes. Transfer to a plate.
-3. Cook the fettuccine in the boiling water until al dente. Reserve 200 g pasta water, then drain.
-4. In the same skillet, melt the butter over medium heat. Add the garlic and red pepper flakes; cook for 30 seconds until fragrant.
-5. Add the heavy cream and bring to a gentle simmer. Stir in the Parmesan gradually until smooth. Season with the remaining 6 g salt and 2 g black pepper.
-6. Add the pasta, chicken, and a splash of reserved pasta water. Toss until glossy and fully coated, adding more pasta water as needed.
-7. Finish with parsley and lemon zest. Adjust seasoning with extra salt and pepper if needed.
 
-Roasted broccoli
+1. Heat oven to 425°F. Line a sheet pan with foil and set a wire rack on top.
+2. Combine salt, brown sugar, smoked paprika, garlic powder, onion powder, cumin, black pepper, and cayenne.
+3. Pat drumsticks dry, coat with oil, then season evenly with the spice rub.
+4. Arrange drumsticks on the rack and roast for 35 minutes, turning once.
+5. For the glaze, simmer ketchup, vinegar, brown sugar, molasses, Dijon, Worcestershire, chipotle, smoked paprika, garlic powder, onion powder, black pepper, and salt for 8–10 minutes until glossy. Whisk in butter.
+6. Brush drumsticks with glaze and roast 8–10 minutes more, brushing again halfway through.
+7. Broil 2–3 minutes until lacquered and lightly charred. Chicken should reach 175°F internally.
+
+**Skillet Mac and Cheese Ingredients**
+
+- Elbow macaroni: 320 g  
+- Unsalted butter: 45 g  
+- All-purpose flour: 35 g  
+- Whole milk: 650 g  
+- Heavy cream: 120 g  
+- Sharp cheddar, grated: 230 g  
+- Monterey Jack, grated: 120 g  
+- Gruyère, grated: 80 g  
+- Dijon mustard: 15 g  
+- Garlic powder: 3 g  
+- Smoked paprika: 3 g  
+- Ground mustard: 2 g  
+- Cayenne pepper: 1 g  
+- Kosher salt: 9 g  
+- Black pepper: 2 g  
+- Panko breadcrumbs: 55 g  
+- Parmesan, finely grated: 35 g  
+- Chives, sliced: 12 g  
+
+**Skillet Mac and Cheese Steps**
+
+1. Cook macaroni in well-salted boiling water until just shy of al dente. Drain.
+2. Melt 35 g butter in a large oven-safe skillet over medium heat. Whisk in flour and cook 2 minutes.
+3. Whisk in milk and cream gradually. Simmer until lightly thickened.
+4. Stir in Dijon, garlic powder, smoked paprika, ground mustard, cayenne, salt, and black pepper.
+5. Reduce heat to low. Fold in cheddar, Monterey Jack, and Gruyère until smooth.
+6. Add macaroni and coat evenly.
+7. Melt remaining 10 g butter and mix with panko and Parmesan. Scatter over macaroni.
+8. Broil at 425°F for 3–5 minutes until golden. Finish with chives.
+
+**Pineapple-Cucumber Salad Ingredients**
+
+- Fresh pineapple, diced: 450 g  
+- English cucumber, diced: 320 g  
+- Red onion, thinly sliced: 70 g  
+- Jalapeño, minced: 20 g  
+- Cilantro leaves: 18 g  
+- Mint leaves: 10 g  
+- Lime juice: 55 g  
+- Honey: 18 g  
+- Neutral oil: 20 g  
+- Kosher salt: 5 g  
+- Tajín or chili-lime seasoning: 4 g  
+- Toasted pepitas: 35 g  
+
+**Pineapple-Cucumber Salad Steps**
+
+1. Whisk lime juice, honey, oil, salt, and chili-lime seasoning.
+2. Toss pineapple, cucumber, red onion, jalapeño, cilantro, and mint with the dressing.
+3. Let stand 10 minutes.
+4. Fold in toasted pepitas just before serving.
+
+#### Sheet Pan Sausage and Peppers with Grain-Mustard Drizzle
 
 **Ingredients**
-- 600 g broccoli florets
-- 20 g olive oil
-- 5 g kosher salt
-- 2 g black pepper
-- 2 g garlic powder
-- 1 g crushed red pepper flakes
-- 15 g lemon juice
-- 20 g Parmesan, finely grated
+
+- **Sausage and peppers**
+  - Italian sausage links, 680 g
+  - Bell peppers, assorted colors, 900 g, sliced
+  - Yellow onion, 300 g, sliced
+  - Garlic, 18 g, thinly sliced
+  - Olive oil, 35 g
+  - Red wine vinegar, 15 g
+  - Fennel seeds, 3 g, crushed
+  - Smoked paprika, 3 g
+  - Dried oregano, 2 g
+  - Crushed red pepper flakes, 1 g
+  - Kosher salt, 9 g
+  - Black pepper, 2 g
+  - Fresh basil, 15 g, torn
+
+- **Grain-mustard drizzle**
+  - Whole-grain mustard, 70 g
+  - Honey, 25 g
+  - Apple cider vinegar, 30 g
+  - Olive oil, 35 g
+  - Dijon mustard, 15 g
+  - Garlic, 5 g, finely grated
+  - Kosher salt, 2 g
+  - Black pepper, 1 g
+
+- **Toasted hoagie rolls**
+  - Hoagie rolls, 360 g, split
+  - Olive oil, 20 g
+  - Garlic, 5 g, finely grated
+  - Kosher salt, 1 g
+
+- **White bean and parsley salad**
+  - Cannellini beans, drained and rinsed, 520 g
+  - Flat-leaf parsley, 45 g, chopped
+  - Celery, 120 g, thinly sliced
+  - Red onion, 70 g, finely sliced
+  - Lemon juice, 35 g
+  - Olive oil, 40 g
+  - Capers, 25 g, chopped
+  - Lemon zest, 4 g
+  - Dijon mustard, 10 g
+  - Garlic, 4 g, finely grated
+  - Kosher salt, 5 g
+  - Black pepper, 2 g
 
 **Steps**
-1. Heat the oven to 425°F.
-2. Toss the broccoli with olive oil, salt, black pepper, garlic powder, and red pepper flakes.
-3. Spread on a sheet pan in a single layer and roast for 18–22 minutes until browned at the edges and tender.
-4. Finish with lemon juice and Parmesan.
 
-#### Grilled Cheese and Tomato Soup
+1. Heat oven to **425°F**. Line a sheet pan with parchment.
+2. Toss bell peppers, onion, garlic, olive oil, red wine vinegar, fennel seeds, smoked paprika, oregano, red pepper flakes, salt, and black pepper on the sheet pan.
+3. Nestle sausages into the vegetables. Roast for 25 minutes.
+4. Turn sausages and toss vegetables. Roast until sausages are browned and cooked through, 15–20 minutes more.
+5. Whisk whole-grain mustard, honey, apple cider vinegar, olive oil, Dijon, garlic, salt, and black pepper until glossy.
+6. Toss cannellini beans, parsley, celery, red onion, lemon juice, olive oil, capers, lemon zest, Dijon, garlic, salt, and black pepper. Let stand while the sausages finish.
+7. Mix olive oil, garlic, and salt for the rolls. Brush cut sides of hoagie rolls and toast in the oven until crisp and lightly golden, 5–7 minutes.
+8. Finish the sheet pan with torn basil and spoon the grain-mustard drizzle over the sausages and peppers. Serve with toasted hoagie rolls and white bean-parsley salad.
+
+#### Chicken Parmesan with Buttered Spaghetti and Roasted Broccoli with Garlic Crumbs
 
 **Ingredients**
-- 8 slices sturdy white sandwich bread, 320 g
-- Sharp cheddar, shredded, 240 g
-- Gruyère, shredded, 160 g
-- Unsalted butter, softened, 80 g
-- Dijon mustard, 20 g
-- Fine sea salt, 6 g
-- Black pepper, 2 g
 
-**Tomato Soup**
-- Olive oil, 30 g
-- Yellow onion, finely diced, 180 g
-- Carrot, finely diced, 80 g
-- Garlic, minced, 15 g
-- Tomato paste, 35 g
-- Crushed canned tomatoes, 800 g
-- Chicken stock or vegetable stock, 700 g
-- Heavy cream, 120 g
-- Fresh basil, chopped, 12 g
-- Fresh thyme leaves, 4 g
+**Chicken Parmesan**
+- Boneless, skinless chicken breasts, 680 g, butterflied and pounded to 10 mm thick
+- Kosher salt, 9 g
+- Black pepper, 3 g
+- All-purpose flour, 120 g
+- Garlic powder, 4 g
+- Onion powder, 3 g
 - Smoked paprika, 3 g
-- Red pepper flakes, 1 g
-- Sugar, 8 g
-- Fine sea salt, 8 g, plus more to taste
+- Eggs, beaten, 110 g
+- Panko breadcrumbs, 160 g
+- Parmesan, finely grated, 70 g
+- Dried oregano, 3 g
+- Dried basil, 2 g
+- Neutral oil, 300 g, for pan-frying
+- Store-bought jarred marinara, 650 g
+- Low-moisture mozzarella, shredded, 240 g
+- Fresh basil, torn, 15 g
+
+**Buttered Spaghetti**
+- Spaghetti, 360 g
+- Unsalted butter, 80 g
+- Parmesan, finely grated, 50 g
+- Pasta cooking water, 120 g
+- Kosher salt, 24 g, for pasta water
 - Black pepper, 2 g
+- Parsley, finely chopped, 15 g
 
-Cucumber salad
-
-**Ingredients**
-- English cucumber, thinly sliced, 500 g
-- Red onion, very thinly sliced, 60 g
-- Sour cream, 120 g
-- Greek yogurt, 80 g
-- White wine vinegar, 20 g
-- Fresh dill, chopped, 10 g
-- Fresh chives, finely sliced, 8 g
-- Sugar, 6 g
-- Fine sea salt, 5 g
-- Black pepper, 1 g
-
-**Steps**
-1. Heat olive oil in a heavy pot over medium heat. Add onion and carrot, season lightly with salt, and cook until softened and lightly sweet, 8 to 10 minutes.
-2. Add garlic and tomato paste. Cook for 2 minutes, stirring constantly, until the paste darkens slightly.
-3. Add crushed tomatoes, stock, basil, thyme, smoked paprika, red pepper flakes, sugar, salt, and black pepper. Bring to a simmer and cook uncovered for 20 minutes.
-4. Blend until smooth with an immersion blender or in batches. Return to low heat, stir in heavy cream, and adjust seasoning with additional salt and pepper as needed.
-5. For the cucumber salad, combine sour cream, yogurt, vinegar, dill, chives, sugar, salt, and black pepper in a bowl.
-6. Add cucumber and red onion, toss well, and refrigerate while preparing the sandwiches.
-7. Combine softened butter with Dijon mustard, a pinch of salt, and black pepper.
-8. Divide cheddar and Gruyère evenly across 4 sandwiches. Close with the remaining bread slices and spread the outside of each sandwich with the mustard butter.
-9. Heat a large skillet or griddle over medium-low heat. Cook the sandwiches until deep golden brown and the cheese is fully melted, 3 to 5 minutes per side, adjusting heat as needed to avoid scorching.
-10. Slice the grilled cheese and serve with the tomato soup and cucumber salad.
-
-#### Cheeseburgers
-
-**Ingredients**
-- 800 g ground beef, 80/20
-- 12 g kosher salt
-- 4 g black pepper
-- 2 g garlic powder
-- 4 burger buns
-- 8 slices cheddar cheese, 160 g total
-- 20 g unsalted butter
-- 320 g tomato slices
-- 120 g dill pickle slices
+**Roasted Broccoli with Garlic Crumbs**
+- Broccoli florets, 700 g
+- Olive oil, 45 g
+- Kosher salt, 6 g
+- Black pepper, 2 g
+- Red pepper flakes, 1 g
+- Panko breadcrumbs, 70 g
+- Garlic, finely grated, 12 g
+- Lemon zest, 4 g
+- Parmesan, finely grated, 30 g
+- Parsley, finely chopped, 10 g
 
 **Steps**
-1. Heat the oven to 450°F.
-2. Divide the beef into 4 equal portions of 200 g each. Form into loose patties slightly wider than the buns. Season both sides with the salt, black pepper, and garlic powder.
-3. Split the buns and spread the cut sides with the butter.
-4. Heat a heavy skillet or griddle over medium-high heat. Toast the buns cut-side down until golden, then set aside.
-5. Cook the patties for 3 to 4 minutes on the first side until well browned. Flip, top each with 2 slices of cheddar, and cook 3 to 4 minutes more for medium or to desired doneness.
-6. Assemble the cheeseburgers on toasted buns.
 
-Oven fries
+1. Heat oven to 425°F. Season the chicken with 6 g salt and 2 g black pepper.
+2. Mix flour, garlic powder, onion powder, smoked paprika, and remaining 3 g salt. In a second dish, place beaten eggs. In a third dish, mix panko, 50 g Parmesan, oregano, and basil.
+3. Dredge chicken in seasoned flour, dip in egg, then press firmly into the panko mixture.
+4. Heat neutral oil in a skillet to 350°F. Pan-fry chicken until deep golden, about 3 minutes per side. Transfer to a rack set over a sheet pan.
+5. Spoon marinara over each cutlet, then top with mozzarella and remaining 20 g Parmesan. Bake until cheese is melted and chicken reaches 165°F, 8–10 minutes.
+6. For the broccoli, toss florets with 35 g olive oil, salt, pepper, and red pepper flakes. Roast on a sheet pan at 425°F until browned and tender, 18–22 minutes.
+7. Mix panko, garlic, lemon zest, Parmesan, parsley, and remaining 10 g olive oil. Scatter over broccoli during the final 6 minutes of roasting until crisp and golden.
+8. Cook spaghetti in salted boiling water until al dente. Reserve 120 g pasta water, then drain.
+9. Toss spaghetti with butter, Parmesan, reserved pasta water, black pepper, and parsley until glossy and emulsified.
+10. Finish chicken with torn basil and serve with the buttered spaghetti and roasted broccoli.
 
-**Ingredients**
-- 1.2 kg russet potatoes
-- 30 g olive oil
-- 10 g kosher salt
-- 4 g black pepper
-- 3 g garlic powder
-- 2 g onion powder
-- 2 g smoked paprika
-- 8 g chopped fresh parsley
+#### Beef Fried Rice with Soy-Scallion Sauce, Sesame Snap Peas & Orange Wedges
 
-**Steps**
-1. Cut the potatoes into fries. Rinse briefly, then dry very well.
-2. Toss with the olive oil, salt, black pepper, garlic powder, onion powder, and smoked paprika.
-3. Spread on a large sheet pan in a single layer.
-4. Roast at 450°F for 20 minutes. Flip and roast 15 to 20 minutes more until browned and crisp.
-5. Finish with the parsley.
+Ingredients
 
-Pickles
-
-**Ingredients**
-- 120 g dill pickle slices
-
-**Steps**
-1. Arrange alongside the burgers.
-
-Tomato slices
-
-**Ingredients**
-- 320 g ripe tomato slices
-- 4 g kosher salt
-- 2 g black pepper
-
-**Steps**
-1. Season the tomato slices lightly with the salt and black pepper just before serving.
-
-#### Sheet-Pan Drumsticks with Roasted Potatoes and Broccoli
-
-**Ingredients**
-- 1.2 kg chicken drumsticks
-- 800 g Yukon Gold potatoes, cut into 3 cm pieces
-- 500 g broccoli, cut into florets
-- 40 g olive oil
-- 20 g Dijon mustard
-- 25 g lemon juice
-- 12 g garlic, finely grated
-- 8 g smoked paprika
-- 4 g onion powder
-- 3 g dried thyme
-- 2 g dried oregano
-- 2 g chili flakes
-- 12 g kosher salt, divided
-- 4 g black pepper, divided
-- 12 g parsley, finely chopped
-- 15 g unsalted butter, melted
-
-**Steps**
-1. Heat the oven to 425°F. Line a large sheet pan with parchment.
-2. In a large bowl, combine the olive oil, Dijon mustard, lemon juice, garlic, smoked paprika, onion powder, thyme, oregano, chili flakes, 8 g salt, and 3 g black pepper.
-3. Add the drumsticks and toss thoroughly to coat.
-4. In a second bowl, toss the potatoes with half of any remaining marinade from the chicken bowl, plus 2 g salt and 1 g black pepper. Spread the potatoes on one half of the sheet pan.
-5. Arrange the drumsticks on the other half of the pan. Roast for 20 minutes.
-6. Toss the broccoli with the melted butter, remaining 2 g salt, and remaining 1 g black pepper.
-7. Remove the pan from the oven, turn the potatoes, and add the broccoli around the drumsticks and potatoes in an even layer.
-8. Return to the oven and roast for 20–25 minutes more, until the chicken is deeply browned and cooked through, the potatoes are tender, and the broccoli is charred at the edges.
-9. Finish with parsley and a squeeze of additional lemon juice if desired.
-
-#### Chicken Tinga Tostadas
-
-**Ingredients**
-- 800 g boneless, skinless chicken thighs
-- 16 corn tostadas
-- 500 g refried beans
-- 250 g Mexican crema
-- 1 small red onion, thinly sliced, 150 g
-- 250 g ripe tomatoes, chopped
-- 200 g white onion, sliced
-- 20 g garlic, minced
-- 2 chipotle chiles in adobo, 35 g
-- 30 g adobo sauce
-- 15 g tomato paste
-- 500 g crushed tomatoes
-- 250 g chicken stock
-- 30 g apple cider vinegar
-- 15 g dried oregano
-- 8 g ground cumin
-- 4 g smoked paprika
-- 2 bay leaves
-- 20 g brown sugar
-- 18 g kosher salt, divided
-- 4 g black pepper
-- 60 g neutral oil
-- 2 limes, 120 g
-- 20 g cilantro leaves, chopped
-
-For the pickled red onions:
-- 150 g red onion, thinly sliced
-- 120 g apple cider vinegar
-- 60 g water
-- 12 g sugar
-- 6 g kosher salt
-- 2 g dried oregano
-- 1 g black pepper
-
-**Steps**
-1. Make the pickled red onions. Combine the red onion, vinegar, water, sugar, salt, oregano, and black pepper in a bowl. Toss well and let pickle at room temperature for at least 30 minutes.
-2. Season the chicken with 10 g kosher salt and the black pepper.
-3. Heat 30 g oil in a large Dutch oven over medium-high heat. Sear the chicken thighs for 3 to 4 minutes per side until browned. Remove to a plate.
-4. Add the remaining 30 g oil and the white onion to the pot. Cook for 6 minutes until softened. Add the garlic, chipotle chiles, adobo sauce, tomato paste, oregano, cumin, and smoked paprika. Cook for 1 minute.
-5. Add the chopped tomatoes, crushed tomatoes, chicken stock, bay leaves, brown sugar, remaining 8 g kosher salt, and the juice of 1 lime. Stir well.
-6. Return the chicken to the pot. Bring to a simmer, reduce heat to low, cover, and cook for 30 to 35 minutes until the chicken is tender.
-7. Remove the chicken and shred finely. Simmer the sauce uncovered for 8 to 10 minutes until slightly thickened, then return the chicken to the sauce and toss to coat. Adjust seasoning with more salt or lime juice if needed.
-8. Warm the refried beans in a saucepan over low heat until hot and smooth.
-9. Heat the oven to 375°F. Arrange the tostadas on sheet pans and warm for 3 to 4 minutes until crisp and fragrant.
-10. Spread each tostada with refried beans, top with chicken tinga, drizzle with crema, and finish with pickled red onions, cilantro, and wedges from the remaining lime.
-
-#### Beef and Broccoli Skillet
-
-**Ingredients**
-- 700 g flank steak, thinly sliced against the grain
-- 450 g broccoli florets
-- 20 g fresh ginger, finely grated
-- 20 g garlic, finely minced
-- 30 g neutral oil
+- 500 g flank steak, thinly sliced across the grain
+- 35 g soy sauce
+- 20 g dry sherry
 - 10 g toasted sesame oil
-- 120 g low-sodium soy sauce
-- 40 g oyster sauce
-- 25 g brown sugar
-- 10 g cornstarch
-- 120 g beef stock
-- 3 g crushed red pepper
-- 3 g black pepper
-- 6 g kosher salt
-- 15 g sesame seeds
-- 20 g scallions, thinly sliced
-
-**Steps**
-1. In a bowl, combine soy sauce, oyster sauce, brown sugar, cornstarch, beef stock, crushed red pepper, and black pepper. Stir smooth.
-2. Season the beef with 4 g salt. Toss with half the ginger and half the garlic.
-3. Heat a large skillet over high heat. Add 20 g neutral oil. Sear the beef in batches until browned, 1 to 2 minutes per batch. Remove and reserve.
-4. Add the remaining neutral oil to the skillet. Add broccoli and cook 2 minutes. Add 30 g water, cover briefly, and steam until crisp-tender, 2 minutes more.
-5. Add remaining ginger and garlic. Cook 30 seconds. Return the beef to the skillet and pour in the sauce.
-6. Toss over high heat until the sauce thickens and coats the beef and broccoli, 1 to 2 minutes. Finish with sesame oil, sesame seeds, and scallions. Adjust with remaining salt as needed.
-
-Jasmine rice
-
-**Ingredients**
-- 300 g jasmine rice
-- 540 g water
-- 8 g kosher salt
-- 10 g unsalted butter
-
-**Steps**
-1. Rinse the rice under cold water until the water runs mostly clear. Drain well.
-2. Combine rice, water, salt, and butter in a saucepan. Bring to a boil.
-3. Cover, reduce heat to low, and cook until the water is absorbed, 15 minutes.
-4. Remove from heat and rest, covered, 10 minutes. Fluff gently.
-
-Sesame cucumbers
-
-**Ingredients**
-- 500 g Persian cucumbers, sliced
-- 20 g rice vinegar
-- 10 g soy sauce
-- 8 g toasted sesame oil
-- 10 g sugar
-- 3 g kosher salt
-- 2 g chili flakes
-- 10 g sesame seeds
-- 8 g scallions, thinly sliced
-
-**Steps**
-1. Toss the cucumbers with salt and let sit 10 minutes. Drain off excess moisture.
-2. In a bowl, whisk rice vinegar, soy sauce, sesame oil, sugar, and chili flakes.
-3. Toss the cucumbers with the dressing, sesame seeds, and scallions. Chill briefly before serving.
-
-#### Baked Ziti
-
-**Ingredients**
-- 500 g ziti
-- 500 g Italian sausage, casings removed
-- 300 g ground beef
-- 20 g olive oil
-- 180 g yellow onion, finely diced
+- 8 g cornstarch
+- 4 g kosher salt
+- 2 g ground white pepper
+- 900 g cold cooked long-grain rice
+- 180 g yellow onion, small dice
+- 160 g carrots, small dice
+- 120 g frozen peas
+- 120 g scallions, thinly sliced, whites and greens separated
 - 25 g garlic, minced
-- 800 g crushed tomatoes
-- 350 g tomato sauce
-- 70 g tomato paste
-- 12 g kosher salt, plus more for pasta water
-- 4 g black pepper
-- 6 g red pepper flakes
-- 8 g dried oregano
-- 4 g dried basil
-- 2 g fennel seed, lightly crushed
-- 2 g granulated sugar
-- 250 g whole-milk ricotta
-- 1 large egg, about 50 g
-- 80 g Parmesan, finely grated
-- 350 g low-moisture mozzarella, shredded
-- 15 g flat-leaf parsley, finely chopped
+- 20 g fresh ginger, minced
+- 180 g beaten eggs
+- 45 g neutral oil
+- 20 g unsalted butter
+- 15 g rice vinegar
+- 10 g honey
+- 6 g toasted sesame seeds
+- 500 g snap peas, trimmed
+- 12 g neutral oil, for snap peas
+- 6 g toasted sesame oil, for snap peas
+- 8 g soy sauce, for snap peas
+- 3 g red pepper flakes
+- 600 g oranges, cut into wedges
 
-**Steps**
-1. Heat oven to 400°F.
-2. Bring a large pot of well-salted water to a boil. Cook the ziti until very al dente, about 2 minutes less than package directions. Drain.
-3. Heat the olive oil in a large heavy pot over medium-high heat. Add the sausage and beef. Cook, breaking it up, until browned.
-4. Add the onion and cook until softened and lightly golden, 5 to 6 minutes. Add the garlic and cook 30 seconds.
-5. Stir in the crushed tomatoes, tomato sauce, tomato paste, salt, black pepper, red pepper flakes, oregano, basil, fennel seed, and sugar. Simmer 15 to 20 minutes until slightly thickened.
-6. In a bowl, mix the ricotta, egg, 40 g Parmesan, 200 g mozzarella, and parsley.
-7. Fold half the pasta into the sauce. Spread a thin layer of sauce in a large baking dish. Add half the pasta, dollop over half the ricotta mixture, then repeat. Top with the remaining 150 g mozzarella and 40 g Parmesan.
-8. Bake until bubbling and browned on top, 20 to 25 minutes. Rest 10 minutes before serving.
+Steps
 
-Garlic toast
+1. Combine beef, 20 g soy sauce, dry sherry, 6 g toasted sesame oil, cornstarch, 2 g salt, and white pepper. Marinate for 15 minutes.
+2. Mix remaining 15 g soy sauce, rice vinegar, honey, 4 g toasted sesame oil, scallion greens, and 10 g ginger for the soy-scallion sauce.
+3. Heat a wok or large skillet over high heat. Add 20 g neutral oil and sear beef until browned, 2–3 minutes. Remove.
+4. Add 10 g neutral oil, then onion, carrots, scallion whites, garlic, and remaining ginger. Stir-fry until aromatic and lightly softened, 2 minutes.
+5. Push vegetables aside. Add eggs and scramble until just set.
+6. Add rice, peas, butter, remaining 2 g salt, and beef. Stir-fry until rice is hot, separated, and lightly toasted, 4–5 minutes.
+7. Fold in half the soy-scallion sauce. Adjust seasoning with more sauce as needed.
+8. For snap peas, heat 12 g neutral oil over high heat. Add snap peas and stir-fry until blistered and crisp-tender, 2–3 minutes.
+9. Season snap peas with 8 g soy sauce, 6 g toasted sesame oil, red pepper flakes, sesame seeds, and a pinch of salt if needed.
+10. Serve beef fried rice with sesame snap peas, remaining soy-scallion sauce, and orange wedges.
 
-**Ingredients**
-- 1 loaf Italian bread, about 450 g
-- 100 g unsalted butter, softened
-- 20 g garlic, very finely minced
-- 10 g flat-leaf parsley, finely chopped
-- 2 g kosher salt
-- 1 g black pepper
-- 15 g Parmesan, finely grated
-
-**Steps**
-1. Slice the bread in half lengthwise.
-2. Mix the butter, garlic, parsley, salt, black pepper, and Parmesan into a smooth paste.
-3. Spread evenly over the cut sides of the bread.
-4. Bake at 400°F until deeply golden at the edges, 10 to 12 minutes. Cut into pieces.
-
-Chopped romaine salad
+#### Cuban-Style Roast Pork
 
 **Ingredients**
-- 2 romaine hearts, about 500 g total, chopped
-- 120 g cucumber, diced
-- 180 g cherry tomatoes, halved
-- 60 g red onion, very thinly sliced
-- 40 g shaved Parmesan
-- 120 g store-bought Caesar dressing
-- 5 g black pepper
-- 5 g dried oregano
+
+**Mojo roast pork**
+- Boneless pork shoulder, fat cap scored: 1400 g
+- Kosher salt: 18 g
+- Ground black pepper: 4 g
+- Orange juice: 260 g
+- Lime juice: 90 g
+- Grapefruit juice: 80 g
+- Olive oil: 80 g
+- Garlic, smashed: 55 g
+- Cilantro, stems and leaves: 25 g
+- Mint leaves: 8 g
+- Dried oregano: 5 g
+- Ground cumin: 4 g
+- Ground coriander: 2 g
+- Crushed red pepper: 1 g
+- Orange zest: 5 g
+- Lime zest: 3 g
+- Kosher salt, for mojo: 7 g
+
+**Black beans and rice**
+- Long-grain white rice: 300 g
+- Water: 540 g
+- Olive oil, for rice: 15 g
+- Kosher salt, for rice: 6 g
+- Dried bay leaf: 0.5 g
+- Canned black beans, drained and rinsed: 520 g
+- Yellow onion, small diced: 180 g
+- Green bell pepper, small diced: 150 g
+- Garlic, minced: 25 g
+- Olive oil, for beans: 30 g
+- Ground cumin: 4 g
+- Dried oregano: 2 g
+- Smoked paprika: 2 g
+- Ground black pepper: 2 g
+- Unsalted chicken stock or water: 300 g
+- Kosher salt, for beans: 7 g
+- Red wine vinegar: 18 g
+- Cilantro, chopped: 20 g
+
+**Avocado–radish salad**
+- Avocado flesh, large dice: 450 g
+- Radishes, thin sliced: 180 g
+- Red onion, thin sliced: 60 g
+- Cilantro leaves: 15 g
+- Lime juice: 35 g
+- Olive oil: 25 g
+- Kosher salt: 4 g
+- Ground black pepper: 1 g
+- Ground cumin: 0.5 g
+- Honey: 5 g
 
 **Steps**
-1. Combine the romaine, cucumber, cherry tomatoes, red onion, and Parmesan in a large bowl.
-2. Add the Caesar dressing, black pepper, and oregano. Toss until evenly coated.
+
+1. Rub pork with 18 g kosher salt and 4 g black pepper.  
+2. Blend orange juice, lime juice, grapefruit juice, olive oil, garlic, cilantro, mint, oregano, cumin, coriander, crushed red pepper, zests, and 7 g kosher salt until coarse and aromatic.  
+3. Reserve 180 g mojo for sauce. Coat pork with remaining mojo and refrigerate 8–24 hours.  
+4. Heat oven to 300°F. Place pork and marinade in a roasting pan, cover tightly, and roast until the center reaches 185°F, about 3–3½ hours.  
+5. Uncover, raise oven to 425°F, and roast until deeply browned and the center reaches 195°F, 20–30 minutes. Rest 20 minutes.  
+6. Skim pan juices. Simmer 120 g pan juices with reserved mojo for 5 minutes to make the sauce.  
+7. For rice, combine rice, water, 15 g olive oil, 6 g salt, and bay leaf. Bring to a boil, cover, reduce heat to low, and cook 18 minutes. Rest covered 10 minutes; fluff.  
+8. For beans, cook onion and bell pepper in 30 g olive oil over medium heat until soft, 6–8 minutes. Add garlic, cumin, oregano, smoked paprika, and black pepper; cook 1 minute.  
+9. Add black beans, stock, and 7 g salt. Simmer until glossy and lightly thickened, 15–20 minutes. Finish with red wine vinegar and cilantro.  
+10. For salad, whisk lime juice, olive oil, salt, black pepper, cumin, and honey. Fold with avocado, radishes, red onion, and cilantro.  
+11. Slice or pull the pork and spoon mojo sauce over the top.
+
+#### Summer Vegetable Lasagna
+
+**Ingredients — Lasagna**
+
+- No-boil lasagna noodles — 225 g
+- Zucchini, thinly sliced — 350 g
+- Yellow squash, thinly sliced — 300 g
+- Eggplant, diced — 300 g
+- Red bell pepper, sliced — 220 g
+- Cherry tomatoes, halved — 250 g
+- Yellow onion, diced — 220 g
+- Garlic, minced — 28 g
+- Extra-virgin olive oil — 65 g
+- Crushed tomatoes — 650 g
+- Tomato paste — 45 g
+- Dry white wine — 100 g
+- Fresh basil, chopped — 28 g
+- Fresh parsley, chopped — 18 g
+- Fresh oregano, chopped — 6 g
+- Fresh thyme leaves — 4 g
+- Low-moisture mozzarella, shredded — 220 g
+- Parmesan cheese, finely grated — 90 g
+- Whole-milk ricotta — 450 g
+- Large egg, beaten — 50 g
+- Lemon zest — 4 g
+- Kosher salt — 18 g
+- Black pepper — 4 g
+- Red pepper flakes — 1 g
+- Ground nutmeg — 0.5 g
+
+**Steps — Lasagna**
+
+1. Heat oven to 425°F. Toss zucchini, squash, eggplant, bell pepper, cherry tomatoes, 100 g onion, 16 g garlic, 40 g olive oil, 9 g salt, 2 g black pepper, thyme, and red pepper flakes. Roast on sheet pans for 22–26 minutes, until browned.
+2. Reduce oven to 375°F. Cook remaining 120 g onion in 25 g olive oil over medium heat for 6 minutes. Add remaining 12 g garlic and tomato paste; cook 2 minutes.
+3. Add white wine and reduce by half. Add crushed tomatoes, oregano, 5 g salt, and 1 g black pepper. Simmer 15 minutes. Stir in 18 g basil.
+4. Mix ricotta, egg, 45 g Parmesan, parsley, remaining 10 g basil, lemon zest, nutmeg, 4 g salt, and remaining 1 g black pepper.
+5. Spread a thin layer of sauce in a baking dish. Layer noodles, sauce, roasted vegetables, mozzarella, and Parmesan. Repeat, finishing with noodles and sauce.
+6. Dollop the ricotta-herb mixture over the top. Sprinkle with remaining mozzarella and Parmesan.
+7. Cover with foil and bake 30 minutes. Uncover and bake 18–22 minutes, until bubbling and browned. Rest 15 minutes before cutting.
+
+**Ingredients — Rosemary-Garlic Focaccia**
+
+- Bread flour — 400 g
+- Warm water — 320 g
+- Instant yeast — 4 g
+- Fine sea salt — 8 g
+- Extra-virgin olive oil — 55 g
+- Garlic, finely grated — 12 g
+- Fresh rosemary, chopped — 6 g
+- Flaky salt — 4 g
+- Red pepper flakes — 0.5 g
+
+**Steps — Rosemary-Garlic Focaccia**
+
+1. Mix bread flour, water, and yeast until shaggy. Rest 15 minutes.
+2. Add fine sea salt and 20 g olive oil. Mix until cohesive, then fold the dough over itself several times.
+3. Cover and proof until doubled, 60–90 minutes.
+4. Coat a metal baking pan with 25 g olive oil. Add dough, gently stretch to fit, and proof 45–60 minutes.
+5. Heat oven to 450°F. Mix remaining 10 g olive oil with garlic, rosemary, and red pepper flakes.
+6. Dimple the dough deeply with oiled fingers. Spoon the rosemary-garlic oil over top and sprinkle with flaky salt.
+7. Bake 20–24 minutes, until deeply golden.
+
+**Ingredients — Spinach Salad with Balsamic Strawberries**
+
+- Baby spinach — 180 g
+- Strawberries, sliced — 280 g
+- Shallot, thinly sliced — 40 g
+- Fresh basil, torn — 12 g
+- Goat cheese, crumbled — 80 g
+- Toasted almonds — 60 g
+- Balsamic vinegar — 50 g
+- Extra-virgin olive oil — 55 g
+- Honey — 15 g
+- Dijon mustard — 10 g
+- Kosher salt — 3 g
+- Black pepper — 1 g
+
+**Steps — Spinach Salad with Balsamic Strawberries**
+
+1. Whisk balsamic vinegar, honey, Dijon mustard, salt, and black pepper. Whisk in olive oil until glossy.
+2. Toss strawberries and shallot with 25 g dressing. Rest 10 minutes.
+3. Toss spinach, basil, balsamic strawberries, goat cheese, and almonds with remaining dressing.
+
+#### Spaghetti and Meatballs
+
+**Ingredients**
+
+- **Ground beef:** 450 g  
+- **Ground pork:** 225 g  
+- **Fresh breadcrumbs:** 70 g  
+- **Whole milk:** 60 g  
+- **Egg, beaten:** 50 g  
+- **Parmesan, finely grated:** 45 g  
+- **Garlic, finely grated:** 15 g  
+- **Flat-leaf parsley, chopped:** 20 g  
+- **Kosher salt:** 10 g  
+- **Black pepper, ground:** 3 g  
+- **Dried oregano:** 2 g  
+- **Dried basil:** 2 g  
+- **Crushed red pepper flakes:** 1 g  
+- **Olive oil:** 25 g  
+- **Store-bought jarred tomato sauce:** 900 g  
+- **Spaghetti:** 450 g  
+- **Pasta water:** 120 g  
+- **Parmesan, for finishing:** 40 g  
+- **Basil, torn:** 10 g  
+
+**Steps**
+
+1. Heat oven to **425°F**.
+2. Soak breadcrumbs with milk for 5 minutes.
+3. Mix beef, pork, soaked breadcrumbs, egg, Parmesan, garlic, parsley, salt, black pepper, oregano, basil, and red pepper flakes until just combined.
+4. Form into 16 meatballs, about 50 g each.
+5. Heat olive oil in a large oven-safe skillet over medium-high heat. Brown meatballs on all sides.
+6. Add jarred tomato sauce, bring to a simmer, then transfer skillet to oven. Cook 15–18 minutes, until meatballs reach **160°F**.
+7. Boil spaghetti in well-salted water until al dente. Reserve pasta water, then drain.
+8. Toss spaghetti with sauce and pasta water until glossy. Serve with meatballs, Parmesan, and basil.
+
+**Parmesan Garlic Knots**
+
+**Ingredients**
+
+- **Store-bought pizza dough:** 450 g  
+- **Unsalted butter, melted:** 75 g  
+- **Garlic, finely grated:** 18 g  
+- **Parmesan, finely grated:** 55 g  
+- **Flat-leaf parsley, chopped:** 15 g  
+- **Kosher salt:** 3 g  
+- **Dried oregano:** 1 g  
+- **Black pepper, ground:** 1 g  
+
+**Steps**
+
+1. Divide dough into 12 equal pieces and tie each into a knot.
+2. Place on a parchment-lined sheet pan and bake at **425°F** for 14–16 minutes, until golden.
+3. Combine melted butter, garlic, Parmesan, parsley, salt, oregano, and black pepper.
+4. Toss hot knots in the garlic-Parmesan butter until fully coated.
+
+**Roasted Eggplant with Parsley**
+
+**Ingredients**
+
+- **Eggplant, cut into large cubes:** 800 g  
+- **Olive oil:** 55 g  
+- **Garlic, finely grated:** 10 g  
+- **Kosher salt:** 8 g  
+- **Black pepper, ground:** 3 g  
+- **Smoked paprika:** 2 g  
+- **Dried oregano:** 2 g  
+- **Lemon zest:** 3 g  
+- **Lemon juice:** 25 g  
+- **Flat-leaf parsley, chopped:** 25 g  
+
+**Steps**
+
+1. Toss eggplant with olive oil, garlic, salt, black pepper, smoked paprika, and oregano.
+2. Spread on a sheet pan and roast at **425°F** for 25–30 minutes, turning once, until browned and tender.
+3. Toss hot eggplant with lemon zest, lemon juice, and parsley.
 
